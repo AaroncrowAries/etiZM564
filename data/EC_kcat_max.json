@@ -1,0 +1,1926 @@
+{
+    "5.3.1.1": {
+        "kcat_max": 57500000.0,
+        "org": "Pyrococcus furiosus"
+    },
+    "3.1.3.45": {
+        "kcat_max": 175.0,
+        "org": "Escherichia coli"
+    },
+    "6.1.1.15": {
+        "kcat_max": 999.0,
+        "org": "Escherichia coli"
+    },
+    "2.5.1.18": {
+        "kcat_max": 9600.0,
+        "org": "Homo sapiens"
+    },
+    "3.5.4.30": {
+        "kcat_max": 5.0,
+        "org": "Methanocaldococcus jannaschii"
+    },
+    "2.3.3.1": {
+        "kcat_max": 260.0,
+        "org": "Homo sapiens"
+    },
+    "3.1.1.5": {
+        "kcat_max": 1975.0,
+        "org": "Pseudomonas aeruginosa"
+    },
+    "6.3.5.3": {
+        "kcat_max": 999.0,
+        "org": "Bacillus subtilis"
+    },
+    "1.8.1.4": {
+        "kcat_max": 999.0,
+        "org": "Escherichia coli"
+    },
+    "1.1.1.100": {
+        "kcat_max": 344.7,
+        "org": "Plasmodium falciparum"
+    },
+    "1.2.4.1": {
+        "kcat_max": 95.0,
+        "org": "Escherichia coli"
+    },
+    "3.6.1.9": {
+        "kcat_max": 960000.0,
+        "org": "Bothrops jararaca"
+    },
+    "3.1.1.32": {
+        "kcat_max": 5158.0,
+        "org": "Thermomyces lanuginosus"
+    },
+    "2.3.1.54": {
+        "kcat_max": 12.8,
+        "org": "Escherichia coli"
+    },
+    "2.7.7.60": {
+        "kcat_max": 999.0,
+        "org": "Mycobacterium tuberculosis"
+    },
+    "4.2.3.5": {
+        "kcat_max": 0.87,
+        "org": "Neurospora crassa"
+    },
+    "1.1.1.21": {
+        "kcat_max": 266.0,
+        "org": "Yamadazyma tenuis"
+    },
+    "3.5.4.13": {
+        "kcat_max": 999.0,
+        "org": "Escherichia coli"
+    },
+    "5.1.3.13": {
+        "kcat_max": 999.0,
+        "org": "Salmonella enterica"
+    },
+    "3.5.5.1": {
+        "kcat_max": 43900.0,
+        "org": "Aeribacillus pallidus"
+    },
+    "2.3.1.3": {
+        "kcat_max": 2.5,
+        "org": "Clostridium acetobutylicum"
+    },
+    "2.5.1.78": {
+        "kcat_max": 0.076,
+        "org": "Bacillus subtilis"
+    },
+    "5.3.1.28": {
+        "kcat_max": 33.1,
+        "org": "Helicobacter pylori"
+    },
+    "2.7.1.26": {
+        "kcat_max": 7.33,
+        "org": "Corynebacterium ammoniagenes"
+    },
+    "2.2.1.7": {
+        "kcat_max": 999.0,
+        "org": "Escherichia coli"
+    },
+    "1.2.1.75": {
+        "kcat_max": 50.0,
+        "org": "Chloroflexus aurantiacus"
+    },
+    "3.5.2.6": {
+        "kcat_max": 7150.0,
+        "org": "Serratia fonticola"
+    },
+    "7.2.2.8": {
+        "kcat_max": 5.9,
+        "org": "Archaeoglobus fulgidus"
+    },
+    "2.7.2.4": {
+        "kcat_max": 469.3,
+        "org": "Saccharomyces cerevisiae"
+    },
+    "5.1.1.20": {
+        "kcat_max": 17.0,
+        "org": "Escherichia coli"
+    },
+    "6.3.2.12": {
+        "kcat_max": 0.4166667,
+        "org": "Escherichia coli"
+    },
+    "1.1.1.8": {
+        "kcat_max": 19000.0,
+        "org": "Eidolon helvum"
+    },
+    "2.4.2.19": {
+        "kcat_max": 999.0,
+        "org": "Salmonella enterica subsp. enterica serovar Typhimurium"
+    },
+    "1.3.5.2": {
+        "kcat_max": 95.0,
+        "org": "Rattus norvegicus"
+    },
+    "4.3.2.1": {
+        "kcat_max": 2930.0,
+        "org": "Anas platyrhynchos"
+    },
+    "1.1.1.49": {
+        "kcat_max": 8000.0,
+        "org": "Thermotoga maritima"
+    },
+    "4.1.1.48": {
+        "kcat_max": 15.4,
+        "org": "Thermotoga maritima"
+    },
+    "2.1.1.14": {
+        "kcat_max": 0.6,
+        "org": "Saccharomyces cerevisiae"
+    },
+    "6.1.1.18": {
+        "kcat_max": 999.0,
+        "org": "Escherichia coli"
+    },
+    "3.5.4.22": {
+        "kcat_max": 1.19,
+        "org": "Pseudomonas putida"
+    },
+    "3.6.1.65": {
+        "kcat_max": 51.7,
+        "org": "Escherichia coli"
+    },
+    "2.7.7.41": {
+        "kcat_max": 8.92,
+        "org": "Saccharomyces cerevisiae"
+    },
+    "2.4.2.21": {
+        "kcat_max": 149.0,
+        "org": "Salmonella enterica subsp. enterica serovar Typhimurium"
+    },
+    "2.6.1.5": {
+        "kcat_max": 576.0,
+        "org": "Rattus norvegicus"
+    },
+    "4.1.1.17": {
+        "kcat_max": 999.0,
+        "org": "Escherichia coli"
+    },
+    "4.1.1.37": {
+        "kcat_max": 999.0,
+        "org": "Rhodopseudomonas palustris"
+    },
+    "2.5.1.17": {
+        "kcat_max": 999.0,
+        "org": "Limosilactobacillus reuteri"
+    },
+    "2.7.6.1": {
+        "kcat_max": 311.0,
+        "org": "Pyrobaculum calidifontis"
+    },
+    "2.7.7.2": {
+        "kcat_max": 2.17,
+        "org": "Corynebacterium ammoniagenes"
+    },
+    "4.2.1.24": {
+        "kcat_max": 999.0,
+        "org": "Homo sapiens"
+    },
+    "4.1.1.12": {
+        "kcat_max": 442.0,
+        "org": "Comamonas testosteroni"
+    },
+    "1.3.1.12": {
+        "kcat_max": 356.1,
+        "org": "Mycobacterium tuberculosis"
+    },
+    "2.3.1.129": {
+        "kcat_max": 10.5,
+        "org": "Escherichia coli"
+    },
+    "1.3.1.13": {
+        "kcat_max": 26.3,
+        "org": "Glycine max"
+    },
+    "2.7.2.8": {
+        "kcat_max": 187.5,
+        "org": "Arabidopsis thaliana"
+    },
+    "4.2.1.122": {
+        "kcat_max": 3.46,
+        "org": "Thermococcus kodakarensis"
+    },
+    "2.5.1.9": {
+        "kcat_max": 2.0,
+        "org": "Bacillus subtilis"
+    },
+    "2.6.1.16": {
+        "kcat_max": 35.5,
+        "org": "Saccharomyces cerevisiae"
+    },
+    "5.1.1.3": {
+        "kcat_max": 116600.0,
+        "org": "Bacillus anthracis"
+    },
+    "1.17.7.4": {
+        "kcat_max": 3.7,
+        "org": "Aquifex aeolicus"
+    },
+    "1.3.1.98": {
+        "kcat_max": 62.0,
+        "org": "Escherichia coli"
+    },
+    "2.6.1.9": {
+        "kcat_max": 3100.0,
+        "org": "Mycobacterium tuberculosis"
+    },
+    "3.2.1.108": {
+        "kcat_max": 33.8,
+        "org": "Ovis aries"
+    },
+    "2.1.2.9": {
+        "kcat_max": 41.5,
+        "org": "Escherichia coli"
+    },
+    "6.3.5.4": {
+        "kcat_max": 9.19,
+        "org": "Leishmania infantum"
+    },
+    "1.3.1.10": {
+        "kcat_max": 130.2,
+        "org": "Staphylococcus aureus"
+    },
+    "1.15.1.1": {
+        "kcat_max": 107000.0,
+        "org": "Avicennia marina"
+    },
+    "6.3.2.5": {
+        "kcat_max": 2.9,
+        "org": "Enterococcus faecalis"
+    },
+    "2.5.1.47": {
+        "kcat_max": 14000.0,
+        "org": "Aeropyrum pernix"
+    },
+    "6.1.1.21": {
+        "kcat_max": 999.0,
+        "org": "Oryctolagus cuniculus"
+    },
+    "4.1.1.1": {
+        "kcat_max": 580.0,
+        "org": "uncultured bacterium"
+    },
+    "2.1.2.11": {
+        "kcat_max": 0.783,
+        "org": "Mycobacterium tuberculosis"
+    },
+    "3.6.1.8": {
+        "kcat_max": 1.916667,
+        "org": "Mycobacterium smegmatis"
+    },
+    "2.1.2.2": {
+        "kcat_max": 40.0,
+        "org": "Escherichia coli"
+    },
+    "2.5.1.55": {
+        "kcat_max": 100.0,
+        "org": "Escherichia coli"
+    },
+    "2.1.1.45": {
+        "kcat_max": 48.0,
+        "org": "Homo sapiens"
+    },
+    "3.5.4.15": {
+        "kcat_max": 1.753,
+        "org": "Arabidopsis thaliana"
+    },
+    "2.7.1.22": {
+        "kcat_max": 1.7,
+        "org": "Homo sapiens"
+    },
+    "1.3.3.3": {
+        "kcat_max": 16.0,
+        "org": "Homo sapiens"
+    },
+    "2.3.1.12": {
+        "kcat_max": 2.4,
+        "org": "Azotobacter vinelandii"
+    },
+    "3.1.3.15": {
+        "kcat_max": 2140.0,
+        "org": "Escherichia coli"
+    },
+    "5.4.99.5": {
+        "kcat_max": 366000.0,
+        "org": "Escherichia coli"
+    },
+    "2.5.1.10": {
+        "kcat_max": 43.5,
+        "org": "Rhizosolenia setigera"
+    },
+    "1.11.1.6": {
+        "kcat_max": 2830000.0,
+        "org": "Talaromyces piceae"
+    },
+    "4.2.1.33": {
+        "kcat_max": 4.5,
+        "org": "Methanocaldococcus jannaschii"
+    },
+    "3.1.2.14": {
+        "kcat_max": 35.6,
+        "org": "Helianthus annuus"
+    },
+    "2.7.7.27": {
+        "kcat_max": 999.0,
+        "org": "Zea mays"
+    },
+    "2.3.1.117": {
+        "kcat_max": 43.33333,
+        "org": "Escherichia coli"
+    },
+    "2.7.4.1": {
+        "kcat_max": 943.0,
+        "org": "Mycobacterium tuberculosis"
+    },
+    "1.1.1.41": {
+        "kcat_max": 180.5,
+        "org": "Phaeodactylum tricornutum"
+    },
+    "2.6.1.17": {
+        "kcat_max": 24.0,
+        "org": "Streptomyces avermitilis"
+    },
+    "2.7.7.9": {
+        "kcat_max": 999.0,
+        "org": "Salmonella enterica subsp. enterica serovar Typhimurium"
+    },
+    "2.7.1.23": {
+        "kcat_max": 999.0,
+        "org": "Columba sp."
+    },
+    "2.5.1.1": {
+        "kcat_max": 1.4,
+        "org": "Picea abies"
+    },
+    "1.2.1.103": {
+        "kcat_max": 1.2,
+        "org": "Thermus thermophilus"
+    },
+    "2.5.1.54": {
+        "kcat_max": 122.0,
+        "org": "Escherichia coli"
+    },
+    "4.4.1.1": {
+        "kcat_max": 89.0,
+        "org": "Treponema denticola"
+    },
+    "1.1.1.67": {
+        "kcat_max": 212.0,
+        "org": "Aspergillus fumigatus"
+    },
+    "1.1.1.193": {
+        "kcat_max": 0.3166667,
+        "org": "Escherichia coli"
+    },
+    "2.4.2.18": {
+        "kcat_max": 4.4,
+        "org": "Escherichia coli"
+    },
+    "4.98.1.1": {
+        "kcat_max": 6.7,
+        "org": "Sus scrofa"
+    },
+    "2.3.1.179": {
+        "kcat_max": 0.047,
+        "org": "Escherichia coli"
+    },
+    "4.1.1.19": {
+        "kcat_max": 999.0,
+        "org": "Escherichia coli"
+    },
+    "3.6.3.33": {
+        "kcat_max": 1.39,
+        "org": "Escherichia coli"
+    },
+    "4.2.1.42": {
+        "kcat_max": 22.0,
+        "org": "Escherichia coli"
+    },
+    "4.1.1.28": {
+        "kcat_max": 9.1,
+        "org": "Sus scrofa"
+    },
+    "4.3.1.7": {
+        "kcat_max": 770.0,
+        "org": "Escherichia coli"
+    },
+    "4.2.3.1": {
+        "kcat_max": 4080.0,
+        "org": "Methanosarcina acetivorans C2A"
+    },
+    "5.4.2.2": {
+        "kcat_max": 999.0,
+        "org": "Oryctolagus cuniculus"
+    },
+    "1.2.1.12": {
+        "kcat_max": 999.0,
+        "org": "Escherichia coli"
+    },
+    "3.2.2.7": {
+        "kcat_max": 0.06,
+        "org": "Lupinus luteus"
+    },
+    "3.1.2.6": {
+        "kcat_max": 3930.0,
+        "org": "Arabidopsis thaliana"
+    },
+    "1.3.1.44": {
+        "kcat_max": 385.9,
+        "org": "Treponema denticola"
+    },
+    "1.1.1.28": {
+        "kcat_max": 29000.0,
+        "org": "Leuconostoc mesenteroides subsp. mesenteroides"
+    },
+    "3.5.4.10": {
+        "kcat_max": 8.6,
+        "org": "Homo sapiens"
+    },
+    "6.2.1.20": {
+        "kcat_max": 0.016,
+        "org": "Synechococcus elongatus"
+    },
+    "2.7.4.7": {
+        "kcat_max": 0.0867,
+        "org": "Escherichia coli"
+    },
+    "3.1.7.2": {
+        "kcat_max": 6.0,
+        "org": "Mycobacterium tuberculosis"
+    },
+    "6.2.1.5": {
+        "kcat_max": 999.0,
+        "org": "Escherichia coli"
+    },
+    "2.5.1.48": {
+        "kcat_max": 166.0,
+        "org": "Escherichia coli"
+    },
+    "2.7.7.24": {
+        "kcat_max": 41.0,
+        "org": "Salmonella enterica typhimurium"
+    },
+    "2.7.1.1": {
+        "kcat_max": 1899.467,
+        "org": "Leishmania mexicana"
+    },
+    "2.6.1.85": {
+        "kcat_max": 2.2,
+        "org": "Pseudomonas aeruginosa"
+    },
+    "3.2.2.16": {
+        "kcat_max": 20.0,
+        "org": "Salmonella enterica"
+    },
+    "2.1.2.1": {
+        "kcat_max": 999.0,
+        "org": "Mus musculus"
+    },
+    "3.5.4.5": {
+        "kcat_max": 4.85,
+        "org": "Mycobacterium tuberculosis"
+    },
+    "6.3.1.5": {
+        "kcat_max": 0.5,
+        "org": "Francisella tularensis"
+    },
+    "4.3.1.19": {
+        "kcat_max": 1414.0,
+        "org": "Escherichia coli"
+    },
+    "4.2.1.3": {
+        "kcat_max": 999.0,
+        "org": "Bacillus subtilis"
+    },
+    "2.3.1.157": {
+        "kcat_max": 1500.0,
+        "org": "Escherichia coli"
+    },
+    "5.3.3.2": {
+        "kcat_max": 29900.0,
+        "org": "Saccharolobus shibatae"
+    },
+    "4.1.1.61": {
+        "kcat_max": 55.0,
+        "org": "Sedimentibacter hydroxybenzoicus"
+    },
+    "6.3.2.10": {
+        "kcat_max": 999.0,
+        "org": "Escherichia coli"
+    },
+    "2.5.1.112": {
+        "kcat_max": 0.035,
+        "org": "Morus alba"
+    },
+    "4.4.1.4": {
+        "kcat_max": 20.67,
+        "org": "Petiveria alliacea"
+    },
+    "1.1.1.105": {
+        "kcat_max": 0.3,
+        "org": "Homo sapiens"
+    },
+    "4.1.2.25": {
+        "kcat_max": 1.8,
+        "org": "Pneumocystis carinii"
+    },
+    "2.1.2.3": {
+        "kcat_max": 7.18,
+        "org": "Escherichia coli"
+    },
+    "6.1.1.11": {
+        "kcat_max": 13.7,
+        "org": "Homo sapiens"
+    },
+    "2.6.1.51": {
+        "kcat_max": 131.0,
+        "org": "Drosophila melanogaster"
+    },
+    "6.1.1.10": {
+        "kcat_max": 42.0,
+        "org": "Escherichia coli"
+    },
+    "1.2.1.24": {
+        "kcat_max": 69.0,
+        "org": "Saccharolobus solfataricus"
+    },
+    "5.1.3.2": {
+        "kcat_max": 38295.0,
+        "org": "Thermotoga maritima"
+    },
+    "6.3.2.8": {
+        "kcat_max": 999.0,
+        "org": "Escherichia coli"
+    },
+    "6.3.5.2": {
+        "kcat_max": 999.0,
+        "org": "Homo sapiens"
+    },
+    "1.3.99.2": {
+        "kcat_max": 40.7,
+        "org": "Homo sapiens"
+    },
+    "2.7.7.62": {
+        "kcat_max": 4.7,
+        "org": "Methanocaldococcus jannaschii"
+    },
+    "3.5.1.84": {
+        "kcat_max": 11.9,
+        "org": "Rhizobium leguminosarum bv. viciae"
+    },
+    "3.5.3.26": {
+        "kcat_max": 761.0,
+        "org": "Arabidopsis thaliana"
+    },
+    "3.5.4.19": {
+        "kcat_max": 9.9,
+        "org": "Methanothermobacter thermautotrophicus"
+    },
+    "1.1.1.25": {
+        "kcat_max": 999.0,
+        "org": "Pseudomonas putida"
+    },
+    "1.1.5.12": {
+        "kcat_max": 128.0,
+        "org": "Pseudomonas putida KT2440"
+    },
+    "3.6.1.27": {
+        "kcat_max": 290.0,
+        "org": "Escherichia coli"
+    },
+    "1.5.1.2": {
+        "kcat_max": 4170.0,
+        "org": "Mycobacterium tuberculosis"
+    },
+    "2.7.1.21": {
+        "kcat_max": 999.0,
+        "org": "Homo sapiens"
+    },
+    "1.1.1.22": {
+        "kcat_max": 105.0,
+        "org": "Homo sapiens"
+    },
+    "1.2.1.78": {
+        "kcat_max": 48.0,
+        "org": "Nocardioides sp."
+    },
+    "1.4.3.5": {
+        "kcat_max": 33.0,
+        "org": "Escherichia coli"
+    },
+    "4.6.1.12": {
+        "kcat_max": 2.7,
+        "org": "Escherichia coli"
+    },
+    "3.3.2.1": {
+        "kcat_max": 217.0,
+        "org": "Escherichia coli"
+    },
+    "2.8.1.7": {
+        "kcat_max": 15.0,
+        "org": "Synechocystis sp."
+    },
+    "4.1.2.55": {
+        "kcat_max": 61.9,
+        "org": "Saccharolobus solfataricus"
+    },
+    "3.5.3.8": {
+        "kcat_max": 200.0,
+        "org": "Trypanosoma cruzi"
+    },
+    "2.7.7.14": {
+        "kcat_max": 3.4,
+        "org": "Plasmodium falciparum"
+    },
+    "2.7.1.71": {
+        "kcat_max": 295.0,
+        "org": "Mycobacterium tuberculosis"
+    },
+    "2.7.7.3": {
+        "kcat_max": 26.5,
+        "org": "Homo sapiens"
+    },
+    "4.2.1.10": {
+        "kcat_max": 310.0,
+        "org": "Salmonella enterica"
+    },
+    "3.1.2.2": {
+        "kcat_max": 183.0,
+        "org": "Buckleyzyma aurantiaca"
+    },
+    "1.5.1.41": {
+        "kcat_max": 0.603,
+        "org": "Corynebacterium crenatum"
+    },
+    "6.3.2.51": {
+        "kcat_max": 2.9,
+        "org": "Enterococcus faecalis"
+    },
+    "1.2.1.104": {
+        "kcat_max": 70.0,
+        "org": "Mammalia"
+    },
+    "4.1.3.16": {
+        "kcat_max": 13.5,
+        "org": "Bos taurus"
+    },
+    "3.2.1.26": {
+        "kcat_max": 7300000.0,
+        "org": "Thermotoga neapolitana"
+    },
+    "4.2.1.19": {
+        "kcat_max": 1000.0,
+        "org": "Mycobacterium tuberculosis"
+    },
+    "4.1.1.32": {
+        "kcat_max": 999.0,
+        "org": "Corynebacterium glutamicum"
+    },
+    "1.1.1.379": {
+        "kcat_max": 30.28,
+        "org": "Schleiferilactobacillus harbinensis"
+    },
+    "2.7.1.40": {
+        "kcat_max": 95000.0,
+        "org": "Arabidopsis thaliana"
+    },
+    "4.2.1.9": {
+        "kcat_max": 75.8,
+        "org": "Saccharolobus solfataricus"
+    },
+    "3.5.2.2": {
+        "kcat_max": 450.0,
+        "org": "Bos taurus"
+    },
+    "4.1.3.40": {
+        "kcat_max": 1.7,
+        "org": "Escherichia coli"
+    },
+    "6.1.1.2": {
+        "kcat_max": 111.0,
+        "org": "Escherichia coli"
+    },
+    "7.1.1.2": {
+        "kcat_max": 1500.0,
+        "org": "Escherichia coli"
+    },
+    "6.1.1.20": {
+        "kcat_max": 603.0,
+        "org": "Saccharomyces cerevisiae"
+    },
+    "4.1.1.20": {
+        "kcat_max": 58.0,
+        "org": "Bacillus anthracis"
+    },
+    "6.3.2.17": {
+        "kcat_max": 999.0,
+        "org": "Escherichia coli"
+    },
+    "2.7.4.25": {
+        "kcat_max": 109.0,
+        "org": "Escherichia coli K-12"
+    },
+    "2.7.4.6": {
+        "kcat_max": 2085.0,
+        "org": "Pisum sativum"
+    },
+    "3.1.3.1": {
+        "kcat_max": 28300.0,
+        "org": "Cobetia marina"
+    },
+    "2.5.1.49": {
+        "kcat_max": 96.65,
+        "org": "Clostridioides difficile"
+    },
+    "1.11.1.21": {
+        "kcat_max": 339000.0,
+        "org": "Bacillus pumilus"
+    },
+    "3.1.3.41": {
+        "kcat_max": 108.0,
+        "org": "Aspergillus niger"
+    },
+    "2.7.1.20": {
+        "kcat_max": 999.0,
+        "org": "Lupinus luteus"
+    },
+    "4.1.2.14": {
+        "kcat_max": 999.0,
+        "org": "Pseudomonas putida"
+    },
+    "5.1.1.1": {
+        "kcat_max": 7504.0,
+        "org": "Procambarus clarkii"
+    },
+    "5.4.2.10": {
+        "kcat_max": 7.9,
+        "org": "Escherichia coli"
+    },
+    "2.7.4.8": {
+        "kcat_max": 1500.0,
+        "org": "Brugia malayi"
+    },
+    "2.6.1.42": {
+        "kcat_max": 1236.0,
+        "org": "Homo sapiens"
+    },
+    "2.7.6.3": {
+        "kcat_max": 999.0,
+        "org": "Escherichia coli"
+    },
+    "2.6.1.78": {
+        "kcat_max": 158.4,
+        "org": "Sinorhizobium meliloti"
+    },
+    "3.5.1.25": {
+        "kcat_max": 2610.0,
+        "org": "Escherichia coli"
+    },
+    "3.1.3.27": {
+        "kcat_max": 24.0,
+        "org": "Escherichia coli"
+    },
+    "4.1.1.23": {
+        "kcat_max": 999.0,
+        "org": "Escherichia coli"
+    },
+    "2.4.2.17": {
+        "kcat_max": 2.7,
+        "org": "Lactococcus lactis"
+    },
+    "2.7.1.24": {
+        "kcat_max": 14.2,
+        "org": "Homo sapiens"
+    },
+    "3.5.2.17": {
+        "kcat_max": 172.0,
+        "org": "Klebsiella pneumoniae"
+    },
+    "1.1.1.388": {
+        "kcat_max": 5.4,
+        "org": "Haloferax volcanii"
+    },
+    "6.3.2.3": {
+        "kcat_max": 55.0,
+        "org": "Pasteurella multocida"
+    },
+    "2.6.1.52": {
+        "kcat_max": 2.49,
+        "org": "Synechocystis sp."
+    },
+    "3.1.4.14": {
+        "kcat_max": 0.21,
+        "org": "Pseudomonas aeruginosa"
+    },
+    "2.3.3.10": {
+        "kcat_max": 4.6,
+        "org": "Haloferax volcanii"
+    },
+    "3.1.3.2": {
+        "kcat_max": 40850.0,
+        "org": "Blastobotrys adeninivorans"
+    },
+    "6.1.1.5": {
+        "kcat_max": 104.0,
+        "org": "Escherichia coli"
+    },
+    "1.3.98.1": {
+        "kcat_max": 999.0,
+        "org": "Plasmodium falciparum"
+    },
+    "1.2.1.19": {
+        "kcat_max": 14.4,
+        "org": "Pisum sativum"
+    },
+    "2.3.2.2": {
+        "kcat_max": 1250.0,
+        "org": "Rattus norvegicus"
+    },
+    "3.1.4.46": {
+        "kcat_max": 3.3,
+        "org": "Escherichia coli K-12"
+    },
+    "3.6.3.8": {
+        "kcat_max": 999.0,
+        "org": "Homo sapiens"
+    },
+    "2.7.1.28": {
+        "kcat_max": 5.0,
+        "org": "Homo sapiens"
+    },
+    "1.16.3.1": {
+        "kcat_max": 2548.0,
+        "org": "Rana catesbeiana"
+    },
+    "3.1.1.13": {
+        "kcat_max": 63330.0,
+        "org": "Limtongozyma cylindracea"
+    },
+    "4.2.1.70": {
+        "kcat_max": 3.74,
+        "org": "Escherichia coli"
+    },
+    "3.6.1.66": {
+        "kcat_max": 1009.0,
+        "org": "Methanocaldococcus jannaschii"
+    },
+    "2.4.2.22": {
+        "kcat_max": 150.1,
+        "org": "Escherichia coli"
+    },
+    "1.1.1.23": {
+        "kcat_max": 35.0,
+        "org": "Brassica oleracea"
+    },
+    "3.3.1.1": {
+        "kcat_max": 6666.0,
+        "org": "Homo sapiens"
+    },
+    "6.3.5.1": {
+        "kcat_max": 999.0,
+        "org": "Saccharomyces cerevisiae"
+    },
+    "2.3.3.13": {
+        "kcat_max": 450.0,
+        "org": "Methanocaldococcus jannaschii"
+    },
+    "2.7.1.11": {
+        "kcat_max": 4410.0,
+        "org": "Thermococcus kodakarensis"
+    },
+    "6.3.3.2": {
+        "kcat_max": 999.0,
+        "org": "Homo sapiens"
+    },
+    "1.1.1.267": {
+        "kcat_max": 9833.333,
+        "org": "Escherichia coli"
+    },
+    "3.5.4.4": {
+        "kcat_max": 250.0,
+        "org": "Mus musculus"
+    },
+    "4.1.2.5": {
+        "kcat_max": 18.3,
+        "org": "Aeromonas veronii"
+    },
+    "5.3.1.13": {
+        "kcat_max": 255.0,
+        "org": "Escherichia coli"
+    },
+    "6.3.2.7": {
+        "kcat_max": 9.0,
+        "org": "Streptococcus pyogenes"
+    },
+    "6.1.1.1": {
+        "kcat_max": 45.0,
+        "org": "Homo sapiens"
+    },
+    "3.1.4.2": {
+        "kcat_max": 220.0,
+        "org": "Escherichia coli"
+    },
+    "2.1.1.79": {
+        "kcat_max": 100.0,
+        "org": "Oenococcus oeni"
+    },
+    "2.3.3.14": {
+        "kcat_max": 999.0,
+        "org": "Saccharomyces cerevisiae"
+    },
+    "2.7.8.13": {
+        "kcat_max": 999.0,
+        "org": "Bacillus subtilis"
+    },
+    "2.3.1.38": {
+        "kcat_max": 40.06667,
+        "org": "Streptomyces collinus"
+    },
+    "1.2.1.25": {
+        "kcat_max": 3.166667,
+        "org": "Homo sapiens"
+    },
+    "2.4.1.227": {
+        "kcat_max": 14.0,
+        "org": "Escherichia coli"
+    },
+    "1.2.1.11": {
+        "kcat_max": 680.0,
+        "org": "Escherichia coli"
+    },
+    "4.1.1.105": {
+        "kcat_max": 3.33,
+        "org": "Catharanthus roseus"
+    },
+    "6.1.1.12": {
+        "kcat_max": 999.0,
+        "org": "Rattus norvegicus"
+    },
+    "2.7.1.12": {
+        "kcat_max": 9.5,
+        "org": "Homo sapiens"
+    },
+    "1.1.1.86": {
+        "kcat_max": 78.3,
+        "org": "Salmonella enterica subsp. enterica serovar Typhimurium"
+    },
+    "3.5.3.1": {
+        "kcat_max": 3000.0,
+        "org": "Bacillus caldovelox"
+    },
+    "6.1.1.22": {
+        "kcat_max": 10.1,
+        "org": "Plasmodium falciparum"
+    },
+    "2.6.1.44": {
+        "kcat_max": 131.0,
+        "org": "Drosophila melanogaster"
+    },
+    "2.1.1.107": {
+        "kcat_max": 38.0,
+        "org": "Pseudomonas denitrificans"
+    },
+    "1.17.4.1": {
+        "kcat_max": 12.9,
+        "org": "Escherichia coli"
+    },
+    "3.1.5.1": {
+        "kcat_max": 4000.0,
+        "org": "Escherichia coli"
+    },
+    "3.1.1.4": {
+        "kcat_max": 187.0,
+        "org": "Dasyatis pastinaca"
+    },
+    "2.7.1.48": {
+        "kcat_max": 5.2,
+        "org": "Homo sapiens"
+    },
+    "1.1.1.307": {
+        "kcat_max": 324000.0,
+        "org": "Rasamsonia emersonii"
+    },
+    "1.8.4.11": {
+        "kcat_max": 999.0,
+        "org": "Neisseria meningitidis"
+    },
+    "2.7.1.36": {
+        "kcat_max": 150.9,
+        "org": "Bacopa monnieri"
+    },
+    "3.4.19.13": {
+        "kcat_max": 12.45,
+        "org": "Bacillus licheniformis"
+    },
+    "4.3.2.2": {
+        "kcat_max": 999.0,
+        "org": "Homo sapiens"
+    },
+    "4.3.2.10": {
+        "kcat_max": 9.1,
+        "org": "Escherichia coli"
+    },
+    "2.7.1.25": {
+        "kcat_max": 272.0,
+        "org": "Arabidopsis thaliana"
+    },
+    "3.5.1.24": {
+        "kcat_max": 6210.0,
+        "org": "Enterococcus faecalis"
+    },
+    "2.4.2.8": {
+        "kcat_max": 90.0,
+        "org": "Leishmania donovani"
+    },
+    "2.3.1.15": {
+        "kcat_max": 0.0918,
+        "org": "Helianthus annuus"
+    },
+    "1.1.1.205": {
+        "kcat_max": 999.0,
+        "org": "Escherichia coli"
+    },
+    "1.8.7.1": {
+        "kcat_max": 243.0,
+        "org": "Cyanidioschyzon merolae"
+    },
+    "4.1.3.27": {
+        "kcat_max": 383.0,
+        "org": "[Bacillus] caldotenax"
+    },
+    "1.1.1.290": {
+        "kcat_max": 1.4,
+        "org": "Escherichia coli"
+    },
+    "4.3.3.7": {
+        "kcat_max": 465.0,
+        "org": "Thermotoga maritima"
+    },
+    "2.7.7.1": {
+        "kcat_max": 53.9,
+        "org": "Homo sapiens"
+    },
+    "2.7.1.4": {
+        "kcat_max": 8897.0,
+        "org": "Zea mays"
+    },
+    "2.1.1.41": {
+        "kcat_max": 0.02,
+        "org": "Glycine max"
+    },
+    "1.4.3.16": {
+        "kcat_max": 10.6,
+        "org": "Pseudomonas putida"
+    },
+    "3.5.3.12": {
+        "kcat_max": 34.28,
+        "org": "Listeria monocytogenes"
+    },
+    "1.5.1.20": {
+        "kcat_max": 999.0,
+        "org": "Escherichia coli"
+    },
+    "1.3.1.9": {
+        "kcat_max": 100.0,
+        "org": "uncultured bacterium"
+    },
+    "2.7.1.33": {
+        "kcat_max": 329.0,
+        "org": "Staphylococcus aureus"
+    },
+    "4.1.1.18": {
+        "kcat_max": 636.0,
+        "org": "Selenomonas ruminantium"
+    },
+    "2.1.3.3": {
+        "kcat_max": 3580.0,
+        "org": "Enterococcus faecalis"
+    },
+    "3.1.1.85": {
+        "kcat_max": 18.5,
+        "org": "Escherichia coli"
+    },
+    "2.6.1.62": {
+        "kcat_max": 999.0,
+        "org": "Escherichia coli"
+    },
+    "6.3.4.21": {
+        "kcat_max": 999.0,
+        "org": "Saccharomyces cerevisiae"
+    },
+    "1.8.1.8": {
+        "kcat_max": 3.6,
+        "org": "Mycobacterium tuberculosis"
+    },
+    "1.4.3.12": {
+        "kcat_max": 11.48,
+        "org": "Microbacterium oxydans"
+    },
+    "6.3.2.2": {
+        "kcat_max": 10190.0,
+        "org": "Brassica juncea"
+    },
+    "3.1.3.5": {
+        "kcat_max": 757.0,
+        "org": "Escherichia coli"
+    },
+    "2.7.1.2": {
+        "kcat_max": 1492.0,
+        "org": "Trypanosoma cruzi"
+    },
+    "4.1.1.21": {
+        "kcat_max": 77.0,
+        "org": "Treponema denticola"
+    },
+    "1.1.1.133": {
+        "kcat_max": 53.0,
+        "org": "Salmonella typhimurium"
+    },
+    "2.5.1.19": {
+        "kcat_max": 100.0,
+        "org": "Escherichia coli"
+    },
+    "3.1.3.7": {
+        "kcat_max": 95.0,
+        "org": "Thermus thermophilus"
+    },
+    "5.3.1.6": {
+        "kcat_max": 52000.0,
+        "org": "Acetivibrio thermocellus"
+    },
+    "1.1.99.28": {
+        "kcat_max": 999.0,
+        "org": "Zymomonas mobilis"
+    },
+    "6.3.2.1": {
+        "kcat_max": 6.08,
+        "org": "Lotus japonicus"
+    },
+    "1.1.1.3": {
+        "kcat_max": 245.0,
+        "org": "Arabidopsis thaliana"
+    },
+    "1.7.1.13": {
+        "kcat_max": 0.142,
+        "org": "Escherichia coli"
+    },
+    "6.2.1.3": {
+        "kcat_max": 19.87,
+        "org": "Arabidopsis thaliana"
+    },
+    "3.1.2.28": {
+        "kcat_max": 93.0,
+        "org": "Escherichia coli"
+    },
+    "2.7.8.26": {
+        "kcat_max": 83.3,
+        "org": "Salmonella enterica"
+    },
+    "1.8.1.2": {
+        "kcat_max": 999.0,
+        "org": "Salmonella enterica subsp. enterica serovar Typhimurium"
+    },
+    "2.3.1.191": {
+        "kcat_max": 999.0,
+        "org": "Escherichia coli"
+    },
+    "4.2.1.48": {
+        "kcat_max": 35.6,
+        "org": "Mus musculus"
+    },
+    "2.2.1.6": {
+        "kcat_max": 514.0,
+        "org": "Bacillus licheniformis"
+    },
+    "6.1.1.19": {
+        "kcat_max": 28.0,
+        "org": "Cricetulus griseus"
+    },
+    "1.8.1.9": {
+        "kcat_max": 1600.0,
+        "org": "Bos taurus"
+    },
+    "2.7.4.22": {
+        "kcat_max": 545.2,
+        "org": "Helicobacter pylori"
+    },
+    "6.1.1.14": {
+        "kcat_max": 999.0,
+        "org": "Thermus thermophilus"
+    },
+    "6.1.1.17": {
+        "kcat_max": 4.4,
+        "org": "Saccharomyces cerevisiae"
+    },
+    "2.5.1.91": {
+        "kcat_max": 11.5,
+        "org": "Mycobacterium tuberculosis"
+    },
+    "3.1.3.82": {
+        "kcat_max": 35.7,
+        "org": "Escherichia coli"
+    },
+    "2.3.1.1": {
+        "kcat_max": 3.333333,
+        "org": "Mycobacterium tuberculosis"
+    },
+    "2.7.7.4": {
+        "kcat_max": 260.0,
+        "org": "Thiobacillus denitrificans ATCC 25259"
+    },
+    "3.5.1.128": {
+        "kcat_max": 4.2,
+        "org": "Arabidopsis thaliana"
+    },
+    "5.1.3.1": {
+        "kcat_max": 7100.0,
+        "org": "Spinacia oleracea"
+    },
+    "5.3.1.8": {
+        "kcat_max": 106000.0,
+        "org": "Bacillus amyloliquefaciens"
+    },
+    "3.6.1.1": {
+        "kcat_max": 6290.0,
+        "org": "Streptococcus gordonii"
+    },
+    "2.7.1.31": {
+        "kcat_max": 350.0,
+        "org": "Escherichia coli"
+    },
+    "2.7.4.3": {
+        "kcat_max": 1100.0,
+        "org": "Homo sapiens"
+    },
+    "2.7.2.3": {
+        "kcat_max": 2633.0,
+        "org": "Homo sapiens"
+    },
+    "4.2.1.59": {
+        "kcat_max": 0.1,
+        "org": "Homo sapiens"
+    },
+    "4.1.1.25": {
+        "kcat_max": 343.0,
+        "org": "Levilactobacillus brevis"
+    },
+    "2.5.1.29": {
+        "kcat_max": 279.0,
+        "org": "Thermococcus kodakaraensis"
+    },
+    "3.5.4.26": {
+        "kcat_max": 6.166667,
+        "org": "Escherichia coli"
+    },
+    "2.7.7.18": {
+        "kcat_max": 53.9,
+        "org": "Homo sapiens"
+    },
+    "2.7.1.39": {
+        "kcat_max": 40.8,
+        "org": "Schizosaccharomyces pombe"
+    },
+    "6.3.3.3": {
+        "kcat_max": 49.0,
+        "org": "Escherichia coli"
+    },
+    "4.2.1.46": {
+        "kcat_max": 466.6,
+        "org": "Mycobacterium tuberculosis"
+    },
+    "2.3.1.41": {
+        "kcat_max": 551.0,
+        "org": "Homo sapiens"
+    },
+    "5.4.2.4": {
+        "kcat_max": 23.4,
+        "org": "Equus caballus"
+    },
+    "2.3.1.39": {
+        "kcat_max": 2100.0,
+        "org": "Escherichia coli"
+    },
+    "3.5.1.53": {
+        "kcat_max": 3.3,
+        "org": "Pseudomonas aeruginosa"
+    },
+    "1.11.1.5": {
+        "kcat_max": 2000.0,
+        "org": "Saccharomyces cerevisiae"
+    },
+    "2.1.1.75": {
+        "kcat_max": 0.117,
+        "org": "Plagiochasma appendiculatum"
+    },
+    "3.5.4.25": {
+        "kcat_max": 432.0,
+        "org": "Streptomyces coelicolor"
+    },
+    "4.1.1.22": {
+        "kcat_max": 46.66667,
+        "org": "Lactobacillus sp."
+    },
+    "2.5.1.61": {
+        "kcat_max": 0.25,
+        "org": "Homo sapiens"
+    },
+    "5.3.1.4": {
+        "kcat_max": 3657.0,
+        "org": "Weizmannia coagulans"
+    },
+    "2.3.1.241": {
+        "kcat_max": 131.0,
+        "org": "Escherichia coli"
+    },
+    "3.1.3.104": {
+        "kcat_max": 5.566667,
+        "org": "Bacillus subtilis"
+    },
+    "3.6.1.17": {
+        "kcat_max": 43.0,
+        "org": "Drosophila melanogaster"
+    },
+    "2.8.1.2": {
+        "kcat_max": 5310.0,
+        "org": "Trichomonas vaginalis"
+    },
+    "2.7.4.9": {
+        "kcat_max": 38.1,
+        "org": "Wolbachia endosymbiont of Brugia malayi"
+    },
+    "4.1.1.31": {
+        "kcat_max": 999.0,
+        "org": "Escherichia coli"
+    },
+    "4.1.2.21": {
+        "kcat_max": 0.94,
+        "org": "Escherichia coli"
+    },
+    "4.4.1.5": {
+        "kcat_max": 6700.0,
+        "org": "Saccharomyces cerevisiae"
+    },
+    "6.3.4.3": {
+        "kcat_max": 2100.0,
+        "org": "Sus scrofa"
+    },
+    "3.2.1.23": {
+        "kcat_max": 2700000.0,
+        "org": "Kluyveromyces marxianus"
+    },
+    "6.3.4.16": {
+        "kcat_max": 999.0,
+        "org": "Homo sapiens"
+    },
+    "2.7.4.4": {
+        "kcat_max": 500.0,
+        "org": "Homo sapiens"
+    },
+    "4.2.3.4": {
+        "kcat_max": 25000.0,
+        "org": "Escherichia coli"
+    },
+    "6.3.4.4": {
+        "kcat_max": 999.0,
+        "org": "Escherichia coli"
+    },
+    "3.1.3.25": {
+        "kcat_max": 999.0,
+        "org": "Archaeoglobus fulgidus"
+    },
+    "1.17.4.2": {
+        "kcat_max": 0.03,
+        "org": "Lactobacillus leichmannii"
+    },
+    "3.1.3.3": {
+        "kcat_max": 1506.0,
+        "org": "Thermus thermophilus"
+    },
+    "2.7.2.11": {
+        "kcat_max": 13.5,
+        "org": "Leishmania donovani"
+    },
+    "5.1.1.7": {
+        "kcat_max": 128.0,
+        "org": "Haemophilus influenzae"
+    },
+    "2.7.4.16": {
+        "kcat_max": 0.063,
+        "org": "Pyrobaculum calidifontis"
+    },
+    "2.1.3.2": {
+        "kcat_max": 417.0,
+        "org": "Escherichia coli"
+    },
+    "4.2.1.51": {
+        "kcat_max": 1932.0,
+        "org": "Escherichia coli"
+    },
+    "3.4.13.18": {
+        "kcat_max": 33300.0,
+        "org": "Mus musculus"
+    },
+    "2.6.1.11": {
+        "kcat_max": 1.55,
+        "org": "Salmonella enterica subsp. enterica serovar Typhimurium"
+    },
+    "4.1.1.15": {
+        "kcat_max": 100.7,
+        "org": "Synechocystis sp. PCC 6803"
+    },
+    "2.5.1.81": {
+        "kcat_max": 8.2e-06,
+        "org": "Leucosceptrum canum"
+    },
+    "3.5.2.3": {
+        "kcat_max": 195.0,
+        "org": "Escherichia coli"
+    },
+    "1.18.1.2": {
+        "kcat_max": 1012.0,
+        "org": "Bacillus subtilis"
+    },
+    "1.8.1.7": {
+        "kcat_max": 999.0,
+        "org": "Plasmodium falciparum"
+    },
+    "2.4.2.10": {
+        "kcat_max": 3534.0,
+        "org": "Plasmodium falciparum"
+    },
+    "2.7.7.38": {
+        "kcat_max": 21.9,
+        "org": "Escherichia coli"
+    },
+    "4.2.1.11": {
+        "kcat_max": 230.0,
+        "org": "Saccharomyces cerevisiae"
+    },
+    "1.1.1.276": {
+        "kcat_max": 999.0,
+        "org": "Escherichia coli"
+    },
+    "4.2.1.116": {
+        "kcat_max": 96.0,
+        "org": "Metallosphaera sedula"
+    },
+    "2.7.1.167": {
+        "kcat_max": 3.033333,
+        "org": "Burkholderia pseudomallei"
+    },
+    "2.4.2.7": {
+        "kcat_max": 17.9,
+        "org": "Leishmania donovani"
+    },
+    "2.5.1.6": {
+        "kcat_max": 7.5,
+        "org": "Pyrococcus furiosus"
+    },
+    "4.4.1.28": {
+        "kcat_max": 39.6,
+        "org": "Methanocaldococcus jannaschii"
+    },
+    "1.8.4.8": {
+        "kcat_max": 3.5,
+        "org": "Escherichia coli"
+    },
+    "7.1.2.2": {
+        "kcat_max": 390.0,
+        "org": "Bacillus sp."
+    },
+    "2.8.1.1": {
+        "kcat_max": 766.6667,
+        "org": "Rattus norvegicus"
+    },
+    "1.1.1.1": {
+        "kcat_max": 3500.0,
+        "org": "Ogataea angusta"
+    },
+    "2.1.2.5": {
+        "kcat_max": 999.0,
+        "org": "Sus scrofa"
+    },
+    "2.7.7.23": {
+        "kcat_max": 350.0,
+        "org": "Escherichia coli"
+    },
+    "2.3.1.37": {
+        "kcat_max": 63.4,
+        "org": "Cereibacter sphaeroides"
+    },
+    "6.3.4.13": {
+        "kcat_max": 999.0,
+        "org": "Gallus gallus"
+    },
+    "2.8.1.3": {
+        "kcat_max": 0.43,
+        "org": "Homo sapiens"
+    },
+    "6.1.1.3": {
+        "kcat_max": 90.0,
+        "org": "Escherichia coli"
+    },
+    "6.1.1.7": {
+        "kcat_max": 84.0,
+        "org": "Escherichia coli"
+    },
+    "2.8.1.6": {
+        "kcat_max": 999.0,
+        "org": "Escherichia coli"
+    },
+    "5.4.2.8": {
+        "kcat_max": 134.9,
+        "org": "Sphingobium chungbukense"
+    },
+    "2.7.1.156": {
+        "kcat_max": 0.251,
+        "org": "Salmonella enterica subsp. enterica serovar Typhimurium"
+    },
+    "3.2.2.9": {
+        "kcat_max": 7.1,
+        "org": "Brucella melitensis"
+    },
+    "3.5.1.4": {
+        "kcat_max": 7216.0,
+        "org": "Pyrococcus yayanosii"
+    },
+    "1.4.3.2": {
+        "kcat_max": 7284.0,
+        "org": "Crotalus durissus terrificus"
+    },
+    "5.3.1.16": {
+        "kcat_max": 32.0,
+        "org": "Thermotoga maritima"
+    },
+    "2.3.1.47": {
+        "kcat_max": 7000.0,
+        "org": "Mycobacterium tuberculosis"
+    },
+    "1.4.1.13": {
+        "kcat_max": 41.9,
+        "org": "Azospirillum brasilense"
+    },
+    "1.2.1.72": {
+        "kcat_max": 200.0,
+        "org": "Escherichia coli"
+    },
+    "7.2.2.14": {
+        "kcat_max": 23.0,
+        "org": "Escherichia coli"
+    },
+    "2.1.1.13": {
+        "kcat_max": 999.0,
+        "org": "Homo sapiens"
+    },
+    "1.1.1.284": {
+        "kcat_max": 72000.0,
+        "org": "Homo sapiens"
+    },
+    "1.3.98.3": {
+        "kcat_max": 900.0,
+        "org": "Vibrio vulnificus"
+    },
+    "5.5.1.4": {
+        "kcat_max": 9.6,
+        "org": "Archaeoglobus fulgidus"
+    },
+    "4.2.1.75": {
+        "kcat_max": 890.0,
+        "org": "Homo sapiens"
+    },
+    "1.3.1.39": {
+        "kcat_max": 2.17,
+        "org": "Staphylococcus aureus"
+    },
+    "4.1.2.8": {
+        "kcat_max": 2.8,
+        "org": "Zea mays"
+    },
+    "2.6.1.2": {
+        "kcat_max": 698.0,
+        "org": "Saccharomyces cerevisiae"
+    },
+    "2.1.3.1": {
+        "kcat_max": 999.0,
+        "org": "Propionibacterium freudenreichii subsp. shermanii"
+    },
+    "2.7.6.5": {
+        "kcat_max": 127.0,
+        "org": "Mycolicibacterium smegmatis"
+    },
+    "1.1.1.262": {
+        "kcat_max": 1.4,
+        "org": "Escherichia coli"
+    },
+    "3.4.11.2": {
+        "kcat_max": 7600.0,
+        "org": "Novosphingobium capsulatum"
+    },
+    "2.2.1.1": {
+        "kcat_max": 410000.0,
+        "org": "Escherichia coli"
+    },
+    "6.1.1.16": {
+        "kcat_max": 142.0,
+        "org": "Escherichia coli"
+    },
+    "4.2.1.1": {
+        "kcat_max": 33000000.0,
+        "org": "Sulfurihydrogenibium azorense"
+    },
+    "5.3.1.24": {
+        "kcat_max": 999.0,
+        "org": "Thermotoga maritima"
+    },
+    "3.1.3.18": {
+        "kcat_max": 292.0,
+        "org": "Spinacia oleracea"
+    },
+    "6.3.4.14": {
+        "kcat_max": 999.0,
+        "org": "Escherichia coli"
+    },
+    "2.5.1.3": {
+        "kcat_max": 999.0,
+        "org": "Bacillus subtilis"
+    },
+    "3.5.4.3": {
+        "kcat_max": 649.0,
+        "org": "Drosophila melanogaster"
+    },
+    "2.5.1.31": {
+        "kcat_max": 11.2,
+        "org": "Escherichia coli"
+    },
+    "3.6.1.13": {
+        "kcat_max": 129.1,
+        "org": "Bacillus methanolicus"
+    },
+    "3.5.1.108": {
+        "kcat_max": 3.3,
+        "org": "Escherichia coli"
+    },
+    "2.3.1.31": {
+        "kcat_max": 122.0,
+        "org": "Cryptococcus neoformans"
+    },
+    "3.5.1.1": {
+        "kcat_max": 5721.0,
+        "org": "Thermococcus gammatolerans"
+    },
+    "2.7.1.130": {
+        "kcat_max": 2.4,
+        "org": "Aquifex aeolicus"
+    },
+    "1.6.5.2": {
+        "kcat_max": 440000.0,
+        "org": "Phanerodontia chrysosporium"
+    },
+    "5.1.3.3": {
+        "kcat_max": 22000.0,
+        "org": "Escherichia coli"
+    },
+    "2.7.1.35": {
+        "kcat_max": 131.0,
+        "org": "Trypanosoma brucei"
+    },
+    "4.1.1.50": {
+        "kcat_max": 999.0,
+        "org": "Methanocaldococcus jannaschii"
+    },
+    "6.3.5.5": {
+        "kcat_max": 2660.0,
+        "org": "Mammalia"
+    },
+    "6.1.1.6": {
+        "kcat_max": 999.0,
+        "org": "Geobacillus stearothermophilus"
+    },
+    "1.1.1.38": {
+        "kcat_max": 207.9,
+        "org": "Homo sapiens"
+    },
+    "5.3.1.9": {
+        "kcat_max": 11420.0,
+        "org": "Saccharomyces cerevisiae"
+    },
+    "1.17.1.8": {
+        "kcat_max": 999.0,
+        "org": "Escherichia coli"
+    },
+    "4.1.1.29": {
+        "kcat_max": 5.86,
+        "org": "Aedes aegypti"
+    },
+    "5.4.99.17": {
+        "kcat_max": 1.98,
+        "org": "Alicyclobacillus acidocaldarius"
+    },
+    "6.3.2.4": {
+        "kcat_max": 48.5,
+        "org": "Chlamydia trachomatis"
+    },
+    "2.6.1.1": {
+        "kcat_max": 4170.0,
+        "org": "Geobacillus sp. MAS1"
+    },
+    "1.1.1.85": {
+        "kcat_max": 999.0,
+        "org": "Thermus thermophilus"
+    },
+    "7.6.2.5": {
+        "kcat_max": 0.12,
+        "org": "Homo sapiens"
+    },
+    "1.5.1.3": {
+        "kcat_max": 284.0,
+        "org": "Pneumocystis carinii"
+    },
+    "1.1.1.169": {
+        "kcat_max": 40.0,
+        "org": "Escherichia coli"
+    },
+    "2.3.1.30": {
+        "kcat_max": 3300.0,
+        "org": "Haemophilus influenzae"
+    },
+    "6.3.4.2": {
+        "kcat_max": 999.0,
+        "org": "Escherichia coli"
+    },
+    "1.5.1.5": {
+        "kcat_max": 1700.0,
+        "org": "Sus scrofa"
+    },
+    "1.1.1.95": {
+        "kcat_max": 3850.0,
+        "org": "Mycolicibacterium smegmatis"
+    },
+    "2.5.1.16": {
+        "kcat_max": 999.0,
+        "org": "Thermotoga maritima"
+    },
+    "6.3.2.9": {
+        "kcat_max": 999.0,
+        "org": "Escherichia coli"
+    },
+    "1.2.1.4": {
+        "kcat_max": 63.0,
+        "org": "Saccharomyces cerevisiae"
+    },
+    "4.2.3.46": {
+        "kcat_max": 0.44,
+        "org": "Actinidia deliciosa"
+    },
+    "1.1.1.42": {
+        "kcat_max": 440000.0,
+        "org": "Homo sapiens"
+    },
+    "6.1.1.9": {
+        "kcat_max": 51.0,
+        "org": "Escherichia coli"
+    },
+    "1.18.6.1": {
+        "kcat_max": 999.0,
+        "org": "Azotobacter vinelandii"
+    },
+    "4.1.2.13": {
+        "kcat_max": 87.0,
+        "org": "Entamoeba histolytica"
+    },
+    "2.7.8.7": {
+        "kcat_max": 2.8,
+        "org": "Pseudomonas aeruginosa"
+    },
+    "4.4.1.13": {
+        "kcat_max": 21000.0,
+        "org": "Mimosa pudica"
+    },
+    "4.1.1.11": {
+        "kcat_max": 7.03,
+        "org": "Aedes aegypti"
+    },
+    "1.1.1.17": {
+        "kcat_max": 132.0,
+        "org": "Aspergillus fumigatus"
+    },
+    "4.1.1.36": {
+        "kcat_max": 2.9,
+        "org": "Homo sapiens"
+    },
+    "4.3.1.6": {
+        "kcat_max": 301.0,
+        "org": "Anaerotignum propionicum"
+    },
+    "6.3.2.13": {
+        "kcat_max": 8.83,
+        "org": "Erysipelothrix rhusiopathiae"
+    },
+    "4.2.1.126": {
+        "kcat_max": 5.7,
+        "org": "Escherichia coli"
+    },
+    "1.1.1.81": {
+        "kcat_max": 687.0,
+        "org": "Methylosinus trichosporium"
+    },
+    "6.3.1.2": {
+        "kcat_max": 999.0,
+        "org": "Rhodobacter capsulatus"
+    },
+    "3.5.1.18": {
+        "kcat_max": 370.0,
+        "org": "Haemophilus influenzae"
+    },
+    "5.4.2.12": {
+        "kcat_max": 3226.0,
+        "org": "Trypanosoma brucei"
+    },
+    "2.5.1.15": {
+        "kcat_max": 999.0,
+        "org": "Bacillus anthracis"
+    },
+    "6.1.1.4": {
+        "kcat_max": 171.0,
+        "org": "Escherichia coli"
+    },
+    "1.1.1.72": {
+        "kcat_max": 57.2,
+        "org": "Gluconobacter oxydans"
+    },
+    "2.3.1.46": {
+        "kcat_max": 36.72,
+        "org": "Escherichia coli"
+    },
+    "2.3.1.28": {
+        "kcat_max": 999.0,
+        "org": "Escherichia coli"
+    },
+    "2.5.1.7": {
+        "kcat_max": 8.9,
+        "org": "Escherichia coli"
+    },
+    "4.2.1.2": {
+        "kcat_max": 3100.0,
+        "org": "Escherichia coli"
+    },
+    "3.5.4.16": {
+        "kcat_max": 43.21667,
+        "org": "Helicobacter pylori"
+    },
+    "1.2.1.65": {
+        "kcat_max": 234.3,
+        "org": "Alteromonas naphthalenivorans"
+    },
+    "3.1.3.11": {
+        "kcat_max": 999.0,
+        "org": "Sus scrofa"
+    },
+    "3.1.1.31": {
+        "kcat_max": 14.3,
+        "org": "Bos taurus"
+    },
+    "1.1.1.306": {
+        "kcat_max": 999.0,
+        "org": "Mycolicibacterium smegmatis"
+    },
+    "4.2.1.20": {
+        "kcat_max": 999.0,
+        "org": "Salmonella enterica subsp. enterica serovar Typhimurium"
+    },
+    "3.1.3.10": {
+        "kcat_max": 145.0,
+        "org": "Enterobacter cloacae"
+    },
+    "4.3.1.17": {
+        "kcat_max": 585.0,
+        "org": "Bacillus subtilis"
+    },
+    "4.1.3.34": {
+        "kcat_max": 570.0,
+        "org": "Hydrogenobacter thermophilus"
+    }
+}

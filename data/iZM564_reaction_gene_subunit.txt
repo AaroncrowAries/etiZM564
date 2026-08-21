@@ -1,0 +1,1112 @@
+reaction_ID	GPR	subnit_num	reaction_name	lower_bound	upper_bound
+CYOR_Q10	ZMO0956 and ZMO0957 and ZMO0958	1 and 1 and 1	cytochrome c reductase	-1000.0	1000.0
+HPN	ZMO0974	1	hopanoid biosynthesis, HpnK	0.0	1000.0
+HPN4	ZMO0972	1	UDP-D-glucosamine glycosyltransferase	0.0	1000.0
+LIPOS	ZMO1132	1	Lipoate synthase	-1000.0	1000.0
+NMNPtpp	ZMO1459 or ZMO1564	1 or 1	NMN permease (periplasm)	0.0	1000.0
+rxn00001	ZMO1507 or ZMO0403	6 or 1	diphosphate_phosphohydrolase_c0	0.0	1000.0
+rxn00006	ZMO0918	1	hydrogen_peroxide_hydrogen_peroxide_oxidoreductase_c0	0.0	1000.0
+rxn00011	ZMO1360 or ZMO1140 and ZMO1139 or ZMO1140 and ZMO0687 or ZMO1606 and ZMO1605	4 or 2 and 1 or 2 and 1 or 1 and 1	pyruvate_thiamin_diphosphate_acetaldehydetransferase_decarboxylating_c0	0.0	1000.0
+rxn00014	ZMO1136	1	Ferrocytochrome-c:hydrogen-peroxide oxidoreductase	0.0	1000.0
+rxn00029	ZMO1879	8	5_aminolevulinate_hydro_lyase_adding_5_aminolevulinate_and_cyclizing_porphobilinogen_forming_c0	0.0	1000.0
+rxn00048	ZMO0475	1	6_7_Dimethyl_8_1_D_ribityllumazine_6_7_dimethyl_8_1_D_ribityllumazine_2_3_butanediyltransferase_c0	0.0	1000.0
+rxn00055	ZMO0821 or ZMO0748	1 or 1	S_adenosyl_L_methionine_S_adenosyl_L_methionine_3_amino_3_carboxypropyltransferase_c0	-1000.0	1000.0
+rxn00060	ZMO1903	1	porphobilinogen_4_2_carboxyethyl_3_carboxymethylpyrrol_2_ylmethyltransferase_hydrolysing_c0	0.0	1000.0
+rxn00063	ZMO1095	1	ATP diphosphohydrolase (diphosphate-forming)	0.0	1000.0
+rxn00076	ZMO0364	1	NAD+ phosphohydrolase	0.0	1000.0
+rxn00077	ZMO1329	1	ATP_NAD_plus__2_phosphotransferase_c0	0.0	1000.0
+rxn00085	(ZMO1116 and ZMO1117)	(1 and 1)	L_Glutamate_NADP_plus__oxidoreductase_transaminating_c0	-1000.0	0.0
+rxn00086	ZMO1211	1	glutathione_NADP_plus__oxidoreductase_c0	-1000.0	0.0
+rxn00097	ZMO0538 or ZMO1003	1 or 1	ATP_AMP_phosphotransferase_c0	-1000.0	1000.0
+rxn00100	ZMO0040	1	ATP_dephospho_CoA_3_phosphotransferase_c0	0.0	1000.0
+rxn00102	ZMO1133	1	carbonate_hydro_lyase_carbon_dioxide_forming_c0	-1000.0	1000.0
+rxn00105	ZMO1662	1	ATP_nicotinamide_nucleotide_adenylyltransferase_c0	0.0	1000.0
+rxn00109	ZMO0117	1	ammonia_NAD_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn00113	ZMO0462	4	Carbon_dioxide_ammonia_ligase_ADP_forming_carbamate_phosphorylating_c0	-1000.0	0.0
+rxn00119	ZMO1154	6	ATP_UMP_phosphotransferase_c0	-1000.0	1000.0
+rxn00122	ZMO0322	1	ATP_FMN_adenylyltransferase_c0	0.0	1000.0
+rxn00124	ZMO1600	1	ATP_pyridoxal_5_phosphotransferase_c0	-1000.0	1000.0
+rxn00126	ZMO0273	4	ATP_L_methionine_S_adenosyltransferase_c0	0.0	1000.0
+rxn00134	ZMO0040	1	ATP_adenosine_5_phosphotransferase_c0	0.0	1000.0
+rxn00137	ZMO0734	1	Adenosine_3_5_bisphosphate_3_phosphohydrolase_c0	0.0	1000.0
+rxn00138	ZMO0899	1	deamido_NAD_plus__ammonia_ligase_AMP_forming_c0	0.0	1000.0
+rxn00141	ZMO0182 or ZMO0758 or ZMO1840	1 or 1 or 1	S_Adenosyl_L_homocysteine_hydrolase_c0	0.0	1000.0
+rxn00148	ZMO0152	1	ATP_pyruvate_2_O_phosphotransferase_c0	-1000.0	0.0
+rxn00154	ZMO1605 and ZMO1606 and ZMO0510	1 and 1 and 2	pyruvate:NAD+ 2-oxidoreductase (CoA-acetylating)	0.0	1000.0
+rxn00157	ZMO1570 or ZMO1569	2 or 1	Acetyl_CoA_formate_C_acetyltransferase_c0	-1000.0	0.0
+rxn00159	ZMO1955	1	S_malate_NAD_plus__oxidoreductase_decarboxylating_c0	0.0	1000.0
+rxn00165	ZMO0189 or ZMO1275	1 or 1	L_serine_ammonia_lyase_c0	0.0	1000.0
+rxn00168	ZMO1360	4	pyruvate_carboxy_lyase_acetaldehyde_forming_c0	0.0	1000.0
+rxn00179	ZMO0206	1	ATP_L_glutamate_5_phosphotransferase_c0	-1000.0	1000.0
+rxn00187	ZMO0493	12	L_Glutamate_ammonia_ligase_ADP_forming_c0	0.0	1000.0
+rxn00189	ZMO0113 or ZMO1502 or ZMO1532	1 or 1 or 1	L_Glutamine_amidohydrolase_c0	0.0	1000.0
+rxn00190	ZMO0899	1	Deamido_NAD_plus__L_glutamine_amido_ligase_AMP_forming_c0	0.0	1000.0
+rxn00192	ZMO0923 or ZMO0950	2 or 1	acetyl_CoA_L_glutamate_N_acetyltransferase_c0	0.0	1000.0
+rxn00193	ZMO1197 or ZMO1072	1 or 2	glutamate_racemase_c0	-1000.0	1000.0
+rxn00194	ZMO1020	1	L_glutamate_1_carboxy_lyase_4_aminobutanoate_forming_c0	0.0	1000.0
+rxn00198	ZMO0544	1	Isocitrate:NADP+ oxidoreductase (decarboxylating)	0.0	1000.0
+rxn00199	ZMO0544	1	oxalosuccinate_carboxy_lyase_2_oxoglutarate_forming_c0	0.0	1000.0
+rxn00202	ZMO1835	1	acetyl_CoA_2_oxoglutarate_C_acetyltransferase_thioester_hydrolysing__carboxymethyl_forming_c0	0.0	1000.0
+rxn00206	ZMO1060	1	superoxide_superoxide_oxidoreductase_c0	0.0	1000.0
+rxn00208	ZMO0851	2	Pyridoxamine_5_phosphate_oxygen_oxidoreductase_deaminating_c0	0.0	1000.0
+rxn00209	ZMO0851	2	Pyridoxine_5_phosphate_oxygen_oxidoreductase_c0	0.0	1000.0
+rxn00211	ZMO0819	1	UDP_glucose_NAD_plus__6_oxidoreductase_c0	-1000.0	1000.0
+rxn00213	ZMO1767	1	UTP_alpha_D_glucose_1_phosphate_uridylyltransferase_c0	0.0	1000.0
+rxn00216	ZMO0369	1	ATP_D_glucose_6_phosphotransferase_c0	0.0	1000.0
+rxn00221	ZMO0061	1	D-Glucose-1-phosphate phosphohydrolase	0.0	1000.0
+rxn00224	ZMO0303	1	protoheme_ferro_lyase_protoporphyrin_forming_c0	-1000.0	1000.0
+rxn00231	ZMO1370	1	Acetamide_amidohydrolase_c0	0.0	1000.0
+rxn00237	ZMO0538	1	ATP:nucleoside-diphosphate phosphatransferase	0.0	1000.0
+rxn00239	ZMO0433	1	ATP_GMP_phosphotransferase_c0	-1000.0	1000.0
+rxn00242	ZMO0086	1	guanosine_3_5_bisdiphosphate_3_diphosphohydrolase_c0	0.0	1000.0
+rxn00251	ZMO1496	4	phosphate_oxaloacetate_carboxy_lyase_adding_phosphatephosphoenolpyruvate_forming_c0	-1000.0	0.0
+rxn00256	ZMO1963 or ZMO0903	1 or 4	acetyl_CoA_oxaloacetate_C_acetyltransferase_thioester_hydrolysing_c0	0.0	1000.0
+rxn00259	ZMO0115 or ZMO0343	1 or 1	3S_citryl_CoA_oxaloacetate_lyase_acetyl_CoA_forming_c0	0.0	1000.0
+rxn00260	ZMO0342 or ZMO1944 or ZMO1727 or ZMO1854 or ZMO0937 or ZMO1682	1 or 1 or 1 or 1 or 2 or 1	L_Aspartate_2_oxoglutarate_aminotransferase_c0	-1000.0	1000.0
+rxn00262	ZMO0144	1	L_Aspartic_acid_oxygen_oxidoreductase_deaminating_c0	0.0	1000.0
+rxn00272	ZMOp33x012	1	L_Alanine_glyoxylate_aminotransferase_c0	-1000.0	1000.0
+rxn00279	ZMO1682	1	L-Aspartate 4-carboxy-lyase	0.0	1000.0
+rxn00283	ZMO1592 or ZMO0371 or ZMO1158	1 or 1 or 1	alanine_racemase_c0	-1000.0	1000.0
+rxn00285	(ZMO1481 and ZMO0567)	(2 and 2)	Succinate_CoA_ligase_ADP_forming_c0	-1000.0	1000.0
+rxn00293	ZMO0498	3	UTP_N_acetyl_alpha_D_glucosamine_1_phosphate_uridylyltransferase_c0	0.0	1000.0
+rxn00299	ZMO1229	N	GTP_7_8_8_9_dihydrolase_c0	0.0	1000.0
+rxn00300	ZMO1698 or ZMO0474	1 or 2	GTP_7_8_8_9_dihydrolase_diphosphate_forming_c0	0.0	1000.0
+rxn00301	ZMO1095	1	GTP diphosphohydrolase (diphosphate-forming)	0.0	1000.0
+rxn00302	ZMO1229	N	GTP_8_9_hydrolase_c0	0.0	1000.0
+rxn00303	ZMO0086	1	ATP_GTP_3_diphosphotransferase_c0	0.0	1000.0
+rxn00305	ZMO1190	1	GTP_oxaloacetate_carboxy_lyase_adding_GTPphosphoenolpyruvate_forming_c0	0.0	1000.0
+rxn00313	ZMO1768	2	meso_2_6_diaminoheptanedioate_carboxy_lyase_L_lysine_forming_c0	0.0	1000.0
+rxn00314	ZMO0311 or ZMO1303	1 or 1	N2_D_1_carboxylethyl_L_lysine_NADP_plus__oxidoreductase_L_lysine_forming_c0	-1000.0	1000.0
+rxn00322	ZMO1020	1	L_lysine_carboxy_lyase_cadaverine_forming_c0	0.0	1000.0
+rxn00328	ZMO0997	3	4_hydroxy_2_oxoglutarate_glyoxylate_lyase_pyruvate_forming_c0	-1000.0	1000.0
+rxn00337	ZMO1653 or ZMO1494	1 or 1	ATP_L_aspartate_4_phosphotransferase_c0	-1000.0	1000.0
+rxn00338	ZMO0144	1	L_aspartate_oxygen_oxidoreductase_c0	0.0	1000.0
+rxn00342	ZMO1683	1	L_Asparagine_amidohydrolase_c0	0.0	1000.0
+rxn00346	ZMO1020	1	L_aspartate_1_carboxy_lyase_beta_alanine_forming_c0	0.0	1000.0
+rxn00351	ZMO1913	1	gamma_L_glutamyl_L_cysteine_glycine_ligase_ADP_forming_c0	0.0	1000.0
+rxn00361	ZMO0003	1	ATP_adenylylsulfate_3_phosphotransferase_c0	0.0	1000.0
+rxn00364	ZMO1797	1	ATP_CMP_phosphotransferase_c0	-1000.0	1000.0
+rxn00367	ZMO1095	1	CTP diphosphohydrolase (diphosphate-forming)	0.0	1000.0
+rxn00375	ZMO1181 or ZMO1395	1 or 1	N-Formyl-L-glutamate amidohydrolase	0.0	1000.0
+rxn00379	ZMO0005 or ZMO0004	1 or 1	ATP_sulfate_adenylyltransferase_c0	0.0	1000.0
+rxn00392	ZMO0322	1	ATP_riboflavin_5_phosphotransferase_c0	0.0	1000.0
+rxn00394	ZMO0432	1	L_Arginine_amidinohydrolase_c0	0.0	1000.0
+rxn00405	ZMO1020	1	L_arginine_carboxy_lyase_agmatine_forming_c0	0.0	1000.0
+rxn00407	ZMO0863	3	CTP_aminohydrolase_c0	0.0	1000.0
+rxn00409	ZMO0538	1	ATP:nucleoside-diphosphate phosphatransferase	0.0	1000.0
+rxn00410	ZMO0462 or ZMO1036	4 or 4	UTP_ammonia_ligase_ADP_forming_c0	0.0	1000.0
+rxn00412	ZMO0462 or ZMO1036	4 or 4	UTP_L_glutamine_amido_ligase_ADP_forming_c0	0.0	1000.0
+rxn00414	(ZMO1617 and ZMO1618)	(2 and 2)	hydrogen_carbonate_L_glutamine_amido_ligase_ADP_forming__carbamate_phosphorylating_c0	0.0	1000.0
+rxn00420	ZMO1137 or ZMO0659	1 or 1	O_phospho_L_serine_phosphohydrolase_c0	0.0	1000.0
+rxn00422	ZMOp33x012	1	L_Serine_pyruvate_aminotransferase_c0	-1000.0	1000.0
+rxn00423	ZMO1730	1	acetyl_CoA_L_serine_O_acetyltransferase_c0	0.0	1000.0
+rxn00427	ZMO0918	1	methanol_hydrogen_peroxide_oxidoreductase_c0	0.0	1000.0
+rxn00438	ZMO1553	1	ATP_thiamin_phosphate_phosphotransferase_c0	0.0	1000.0
+rxn00459	ZMO1608	8	2_phospho_D_glycerate_hydro_lyase_phosphoenolpyruvate_forming_c0	-1000.0	1000.0
+rxn00461	ZMO1724	1	Phosphoenolpyruvate_UDP_N_acetyl_D_glucosamine_1_carboxyvinyl_transferase_c0	-1000.0	1000.0
+rxn00463	ZMO1095	1	Uridine triphosphate pyrophosphohydrolase	0.0	1000.0
+rxn00470	ZMO1020 or ZMO1768	1 or 2	L_ornithine_carboxy_lyase_putrescine_forming_c0	0.0	1000.0
+rxn00471	ZMO1975	1	L_ornithine_ammonia_lyase_cyclizing_L_proline_forming_c0	0.0	1000.0
+rxn00474	ZMO0585 and ZMO0584 or ZMO1879	4 and 4 or 8	L_serine_hydro_lyase_adding_indole_L_tryptophan_forming_c0	0.0	1000.0
+rxn00484	ZMO1496	4	L_Tryptophan_decarboxy_lyase_c0	0.0	1000.0
+rxn00493	ZMO0002 or ZMO0562 and ZMO0002 or ZMO0421 and ZMO0002 or ZMO0560 and ZMO0002	1 or 1 and 1 or 2 and 1 or 1 and 1	L_Phenylalanine_2_oxoglutarate_aminotransferase_c0	-1000.0	1000.0
+rxn00497	ZMO1496	4	L_phenylalanine_carboxy_lyase_phenylethylamine_forming_c0	0.0	1000.0
+rxn00498	ZMO0870	1	Farnesyl-diphosphate:farnesyl-diphosphate farnesyltransferase	0.0	1000.0
+rxn00500	ZMO0256 or ZMO1237	1 or 1	R_Lactate_NAD_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn00505	ZMO0544	1	Isocitrate dehydrogenase [NAD] subunit 1, mitochondrial	0.0	1000.0
+rxn00507	ZMO1754	1	Acetaldehyde:NADP+ oxidoreductase	0.0	1000.0
+rxn00508	ZMO1754	1	Succinate_semialdehyde_NAD_plus__oxidoreductase_c0	0.0	1000.0
+rxn00514	ZMO0013	2	Inosine 5'-triphosphate pyrophosphohydrolase	0.0	1000.0
+rxn00519	ZMO1190	1	ITP_oxaloacetate_carboxy_lyase_adding_ITP_phosphoenolpyruvate_forming_c0	0.0	1000.0
+rxn00527	ZMO1854 or ZMO1727 or ZMO1944 or ZMO0937 or ZMO0342 or ZMO0002 or ZMO0562 and ZMO0002 or ZMO0421 and ZMO0002 or ZMO0560 and ZMO0002	1 or 1 or 1 or 2 or 1 or 1 or 1 and 1 or 2 and 1 or 1 and 1	L_tyrosine_2_oxoglutarate_aminotransferase_c0	-1000.0	1000.0
+rxn00529	ZMO1496	4	L_tyrosine_carboxy_lyase_tyramine_forming_c0	0.0	1000.0
+rxn00532	ZMO1407	2	3_oxopropanoate_NADP_plus__oxidoreductase_CoA_malonylating_c0	-1000.0	1000.0
+rxn00539	ZMO0662	1	ethanolamine_ammonia_lyase_acetaldehyde_forming_c0	0.0	1000.0
+rxn00541	ZMO1347	4	L_threonine_acetaldehyde_lyase_glycine_forming_c0	0.0	1000.0
+rxn00543	ZMO1596 or ZMO1236 or ZMOp33x021	4 or 1 or 1	ethanol_NAD_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn00544	ZMO1360	4	R00755_c0	-1000.0	1000.0
+rxn00546	ZMO1449	1	D-Mannitol-1-phosphate:NAD+ 5-oxidoreductase	-1000.0	1000.0
+rxn00547	ZMO1895 or ZMO1719	1 or 1	ATP_D_fructose_6_phosphotransferase_c0	0.0	1000.0
+rxn00549	ZMO0482	1	D_Fructose_1_6_bisphosphate_1_phosphohydrolase_c0	0.0	1000.0
+rxn00555	ZMO0056	2	L_glutamine_D_fructose_6_phosphate_isomerase_deaminating_c0	-1000.0	1000.0
+rxn00558	ZMO1212	1	D_glucose_6_phosphate_aldose_ketose_isomerase_c0	-1000.0	1000.0
+rxn00559	ZMO1233	1	D_mannose_6_phosphate_aldose_ketose_isomerase_c0	-1000.0	1000.0
+rxn00566	ZMO0327	1	L_Cysteine_hydrogen_sulfide_lyase_deaminating_pyruvate_forming_c0	0.0	1000.0
+rxn00599	ZMO1198 or ZMO1270	2 or 1	succinyl_CoA_glycine_C_succinyltransferase_decarboxylating_c0	0.0	1000.0
+rxn00601	ZMO0657	1	succinyl_CoA_L_arginine_N2_succinyltransferase_c0	0.0	1000.0
+rxn00604	ZMO0367	1	D_glucose_6_phosphate_NADP_plus__1_oxidoreductase_c0	0.0	1000.0
+rxn00611	ZMO1905	1	sn_Glycerol_3_phosphate_NAD_plus__2_oxidoreductase_c0	-1000.0	1000.0
+rxn00612	ZMO1905	1	sn_Glycerol_3_phosphate_NADP_plus__2_oxidoreductase_c0	-1000.0	1000.0
+rxn00623	(ZMO0009 and ZMO0008)	(2 and 2)	hydrogen_sulfide_NADP_plus__oxidoreductase_c0	-1000.0	0.0
+rxn00633	ZMO0689	4	D-Glucose:D-fructose oxidoreductase	0.0	1000.0
+rxn00640	ZMO1233	1	GDP_D_mannose_1_phosphate_guanylyltransferase_c0	-1000.0	1000.0
+rxn00646	ZMO1556	2	L_glutamate_L_cysteine_gamma_ligase_ADP_forming_c0	0.0	1000.0
+rxn00649	ZMO0821 or ZMO0748	1 or 1	O3_acetyl_L_serine_hydrogen_sulfide_2_amino_2_carboxyethyltransferase_c0	0.0	1000.0
+rxn00650	ZMO1348 or ZMO1309 or ZMO1345 or ZMO0806	1 or 1 or 1 or 1	L_cysteinylglycine_dipeptidase_c0	0.0	1000.0
+rxn00655	ZMO0321	1	N_D_1_carboxyethyl_beta_alanine_NAD_plus__oxidoreductase_beta_alanine_forming_c0	-1000.0	1000.0
+rxn00658	ZMO0962	1	N_Acetyl_beta_alanine_amidohydrolase_c0	0.0	1000.0
+rxn00678	ZMO0791	1	S_2_Methyl_3_oxopropanoyl_CoA_pyruvate_carboxyltransferase_c0	-1000.0	1000.0
+rxn00686	ZMO0321	1	5_6_7_8_tetrahydrofolate_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn00690	ZMO0454	1	Formate_tetrahydrofolate_ligase_ADP_forming_c0	0.0	1000.0
+rxn00692	ZMO1201	2	5_10_Methylenetetrahydrofolate_glycine_hydroxymethyltransferase_c0	-1000.0	1000.0
+rxn00693	ZMO1745 or ZMO1746	1 or 1	5_Methyltetrahydrofolate_L_homocysteine_S_methyltransferase_c0	0.0	1000.0
+rxn00700	ZMO1489	1	GTP_alpha_D_glucose_1_phosphate_guanylyltransferase_c0	0.0	1000.0
+rxn00704	ZMO0339 or ZMO1002	1 or 1	alpha_D_Glucose_1_phosphate_1_6_phosphomutase_c0	0.0	1000.0
+rxn00707	ZMO1797	1	ITP_cytidine_5_phosphotransferase_c0	0.0	1000.0
+rxn00710	ZMO0587	1	orotidine_5_phosphate_carboxy_lyase_UMP_forming_c0	0.0	1000.0
+rxn00714	ZMO1498	1	P1_P4_bis5_uridyl_tetraphosphate_uridylohydrolase_c0	0.0	1000.0
+rxn00721	ZMO0766	1	ATP_anthranilate_N_adenylyltransferase_c0	0.0	1000.0
+rxn00726	(ZMO0468 and ZMO0201)	(2 and 1)	chorismate_pyruvate_lyase_amino_accepting_anthranilate_forming_c0	0.0	1000.0
+rxn00727	(ZMO0201 and ZMO0468)	(1 and 2)	Chorismate_pyruvate_lyase_amino_accepting_c0	0.0	1000.0
+rxn00730	ZMO0431	3	Malonyl_CoA_anthranilate_N_malonyltransferase_c0	0.0	1000.0
+rxn00735	ZMO0677	2	2R_3S_3_methylmalate_NAD_plus__oxidoreductase_c0	-1000.0	0.0
+rxn00737	ZMO1275	1	L_threonine_ammonia_lyase_2_oxobutanoate_forming_c0	0.0	1000.0
+rxn00743	ZMO0938	1	Glycerone_phosphate_phosphohydrolase_c0	0.0	1000.0
+rxn00747	ZMO0465	2	D_glyceraldehyde_3_phosphate_aldose_ketose_isomerase_c0	-1000.0	1000.0
+rxn00763	ZMOp33x021 or ZMO1596 or ZMO1236	1 or 4 or 1	Glycerol_NAD_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn00770	ZMO1519	6	ATP_D_ribose_5_phosphate_diphosphotransferase_c0	0.0	1000.0
+rxn00771	ZMO0552	4	ATP_D_ribose_5_phosphate_1_phosphotransferase_c0	0.0	1000.0
+rxn00775	ZMO1041	1	ADP_ribose_ribophosphohydrolase_c0	0.0	1000.0
+rxn00776	ZMO0810 and ZMO0551 or ZMO0576 and ZMO0439 and ZMO0750	2 and 1 or 1 and 1 and 1	uracil_hydro_lyase_adding_D_ribose_5_phosphatepseudouridine_5_phosphate_forming_c0	0.0	1000.0
+rxn00777	ZMO1200	1	D_ribose_5_phosphate_aldose_ketose_isomerase_c0	-1000.0	1000.0
+rxn00780	ZMO0059	1	ATP_D_glyceraldehyde_3_phosphotransferase_c0	0.0	1000.0
+rxn00781	ZMO0177	4	D_glyceraldehyde_3_phosphate_NAD_plus__oxidoreductase_phosphorylating_c0	-1000.0	1000.0
+rxn00783	ZMO1059	1	2_dehydro_3_deoxy_D_galactonate_6_phosphate_D_glyceraldehyde_3_phosphate_lyase_pyruvate_forming_c0	-1000.0	1000.0
+rxn00785	ZMO0176	1	D_Fructose_6_phosphate_D_glyceraldehyde_3_phosphate_glycolaldehyde_transferase_c0	-1000.0	1000.0
+rxn00786	ZMO0179	1	D_fructose_1_6_bisphosphate_D_glyceraldehyde_3_phosphate_lyase_glycerone_phosphate_forming_c0	-1000.0	1000.0
+rxn00789	ZMO1550 or ZMO1686	1 or 1	1_5_phospho_D_ribosyl_ATP_diphosphate_phospho_alpha_D_ribosyl_transferase_c0	0.0	1000.0
+rxn00790	ZMO1557 or ZMO0200	1 or 2	5_phosphoribosylamine_diphosphate_phospho_alpha_D_ribosyltransferase_glutamate_amidating_c0	0.0	1000.0
+rxn00791	ZMO0200	2	N_5_Phospho_D_ribosylanthranilate_pyrophosphate_phosphoribosyl_transferase_c0	0.0	1000.0
+rxn00792	ZMO1868	1	biotin_CoA_ligase_AMP_forming_c0	0.0	1000.0
+rxn00794	ZMO0658	1	Biotin_amide_amidohydrolase_c0	0.0	1000.0
+rxn00795	ZMO0658	1	N6_D_Biotinyl_L_lysine_amidohydrolase_c0	0.0	1000.0
+rxn00798	ZMO0586	1	D_ribose_aldose_ketose_isomerase_c0	-1000.0	1000.0
+rxn00799	ZMO1307	2	S_malate_hydro_lyase_fumarate_forming_c0	-1000.0	1000.0
+rxn00800	ZMO0662	1	N6_1_2_dicarboxyethylAMP_AMP_lyase_fumarate_forming_c0	-1000.0	1000.0
+rxn00802	ZMO1770	1	2_Nomega_L_argininosuccinate_arginine_lyase_fumarate_forming_c0	-1000.0	1000.0
+rxn00806	ZMO0913	1	L_Leucine_2_oxoglutarate_aminotransferase_c0	-1000.0	1000.0
+rxn00816	ZMO0904	1	Lactose_galactohydrolase_c0	0.0	1000.0
+rxn00830	ZMO0642	1	Isopentenyl_diphosphate_delta3_delta2_isomerase_c0	-1000.0	1000.0
+rxn00832	ZMO0027	1	IMP_1_2_hydrolase_decyclizing_c0	-1000.0	1000.0
+rxn00834	ZMO1321	4	IMP_NAD_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn00838	ZMO1687	2	IMP_L_aspartate_ligase_GDP_forming_c0	0.0	1000.0
+rxn00851	ZMO0834	1	D_alanine_D_alanine_ligase_ADP_forming_c0	0.0	1000.0
+rxn00853	ZMO1370	1	N_Carbamoylputrescine_amidohydrolase_c0	0.0	1000.0
+rxn00859	ZMO1551	1	L_Histidinol_NAD_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn00861	ZMO1198	2	acetyl_CoA_L_histidine_N_acetyltransferase_c0	0.0	1000.0
+rxn00863	ZMO1551	1	L_histidinal_NAD_plus__oxidoreductase_c0	0.0	1000.0
+rxn00866	ZMO1496	4	L_histidine_carboxy_lyase_histamine_forming_c0	0.0	1000.0
+rxn00868	ZMO0485	1	Butanoyl_CoA_acceptor_2_3_oxidoreductase_c0	0.0	1000.0
+rxn00881	ZMO0329 or ZMO1518	1 or 1	1D_myo_Inositol_1_phosphate_phosphohydrolase_c0	0.0	1000.0
+rxn00882	ZMO0329 or ZMO1518	1 or 1	1D_myo_Inositol_4_phosphate_phosphohydrolase_c0	0.0	1000.0
+rxn00883	ZMO1518 or ZMO0329	1 or 1	1D_myo_Inositol_3_phosphate_phosphohydrolase_c0	0.0	1000.0
+rxn00898	ZMO1792	2	2_3_Dihydroxy_3_methylbutanoate_hydro_lyase_c0	0.0	1000.0
+rxn00902	ZMO0903	4	acetyl_CoA_3_methyl_2_oxobutanoate_C_acetyltransferase_thioester_hydrolysing__carboxymethyl_forming_c0	0.0	1000.0
+rxn00903	ZMO0913	1	L_Valine_2_oxoglutarate_aminotransferase_c0	-1000.0	1000.0
+rxn00904	ZMO1950	1	L_Valine_pyruvate_aminotransferase_c0	0.0	1000.0
+rxn00905	ZMO0027	1	2_dehydropantoate_formaldehyde_lyase_3_methyl_2_oxobutanoate_forming_c0	-1000.0	1000.0
+rxn00907	ZMO0914	2	5_10_methylenetetrahydrofolate_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn00912	ZMO1970 or ZMO1952 or ZMO0027	10 or 10 or 1	5_10_Methylenetetrahydrofolate_3_methyl_2_oxobutanoate_hydroxymethyltransferase_c0	-1000.0	1000.0
+rxn00915	ZMO0656	1	GMP_diphosphate_5_phospho_alpha_D_ribosyltransferase_c0	0.0	1000.0
+rxn00917	ZMO1267	2	Xanthosine_5_phosphate_L_glutamine_amido_ligase_AMP_forming_c0	0.0	1000.0
+rxn00921	ZMO1160	1	4_hydroxybenzoate_carboxy_lyase_phenol_forming_c0	0.0	1000.0
+rxn00927	ZMO0182	1	Adenosine_ribohydrolase_c0	0.0	1000.0
+rxn00929	ZMO0311 or ZMO1303	1 or 1	L-Proline:NAD+ 5-oxidoreductase	-1000.0	0.0
+rxn00931	ZMO0311 or ZMO1303	1 or 1	L_Proline_NADP_plus__5_oxidoreductase_c0	-1000.0	0.0
+rxn00952	ZMO0676	4	O_acetyl_L_homoserine_hydrogen_sulfide_S_3_amino_3_carboxypropyltransferase_c0	0.0	1000.0
+rxn00966	ZMO0563	1	chorismate_pyruvate_lyase_4_hydroxybenzoate_forming_c0	0.0	1000.0
+rxn00974	ZMO0543	1	citrate_hydro_lyase_cis_aconitate_forming_c0	-1000.0	1000.0
+rxn00980	ZMO1805 or ZMO0497	1 or 1	2_Phosphoglycolate_phosphohydrolase_c0	0.0	1000.0
+rxn01000	ZMO1678	1	prephenate_hydro_lyase_decarboxylating_phenylpyruvate_forming_c0	0.0	1000.0
+rxn01014	ZMOp33x017	1	hydroxypyruvate_carboxy_lyase_glycolaldehyde_forming_c0	0.0	1000.0
+rxn01018	ZMO0791	1	carbamoyl_phosphate_L_aspartate_carbamoyltransferase_c0	0.0	1000.0
+rxn01019	ZMO0409	1	Carbamoyl_phosphate_L_ornithine_carbamoyltransferase_c0	0.0	1000.0
+rxn01029	ZMO1369	1	Agmatine_iminohydrolase_c0	0.0	1000.0
+rxn01043	ZMO0976	1	xylitol:NADP+ oxidoreductase	-1000.0	0.0
+rxn01066	ZMO1649	2	cholesterol_ester_acylhydrolase_c0	0.0	1000.0
+rxn01069	ZMO1891	1	O_phospho_L_homoserine_phosphate_lyase_adding_waterL_threonine_forming_c0	0.0	1000.0
+rxn01100	ZMO0178	1	ATP_3_phospho_D_glycerate_1_phosphotransferase_c0	-1000.0	1000.0
+rxn01101	ZMO1883 or ZMO1685 or ZMO0157	1 or 1 or 1	3_Phospho_D_glycerate_NAD_plus__2_oxidoreductase_c0	-1000.0	1000.0
+rxn01102	ZMO0059	1	ATP_R_glycerate_3_phosphotransferase_c0	0.0	1000.0
+rxn01106	ZMO1240	2	2_Phospho_D_glycerate_2_3_phosphomutase_c0	-1000.0	1000.0
+rxn01116	ZMO0018	1	D_Ribulose_5_phosphate_3_epimerase_c0	-1000.0	1000.0
+rxn01117	ZMO1530	1	D_arabinose_5_phosphate_aldose_ketose_isomerase_c0	-1000.0	1000.0
+rxn01127	ZMO0538 or ZMO1003	1 or 1	ATP_dAMP_phosphotransferase_c0	0.0	1000.0
+rxn01137	ZMO0655 or ZMO0971	1 or 1	Adenosine_aminohydrolase_c0	0.0	1000.0
+rxn01143	ZMO0552	4	ATP_thymidine_5_phosphotransferase_c0	0.0	1000.0
+rxn01157	ZMO1678	1	D_glutamate_hydro_lyase_cyclizing_5_oxo_D_proline_forming_c0	-1000.0	1000.0
+rxn01171	ZMO0889	1	D_glucose_1_epimerase_c0	-1000.0	1000.0
+rxn01200	ZMO0176	1	Sedoheptulose_7_phosphate_D_glyceraldehyde_3_phosphate_glycolaldehyde_transferase_c0	-1000.0	1000.0
+rxn01208	ZMO0677	2	R01652_c0	0.0	1000.0
+rxn01210	ZMO0582	1	10_Formyltetrahydrofolate_L_glutamate_ligase_ADP_forming_c0	0.0	1000.0
+rxn01213	ZMO0855	1	GPPSYN_RXN_c0	0.0	1000.0
+rxn01216	ZMO0339	1	3_phospho_D_glycerate_1_2_phosphomutase_c0	-1000.0	1000.0
+rxn01219	ZMO1797	1	ATP_dCMP_phosphotransferase_c0	-1000.0	1000.0
+rxn01222	ZMO1095	1	dCTP nucleotidohydrolase	0.0	1000.0
+rxn01225	ZMO0939 or ZMO0655 or ZMO0971	1 or 1 or 1	Guanine_aminohydrolase_c0	0.0	1000.0
+rxn01231	ZMO1020	1	3_Sulfo_L_alanine_carboxy_lyase_taurine_forming_c0	0.0	1000.0
+rxn01241	ZMO0512	2	Dihydrolipoamide_NAD_plus__oxidoreductase_c0	0.0	1000.0
+rxn01255	ZMO1693	4	5_O_1_Carboxyvinyl_3_phosphoshikimate_phosphate_lyase_chorismate_forming_c0	0.0	1000.0
+rxn01256	ZMO0563	1	Chorismate_pyruvatemutase_c0	0.0	1000.0
+rxn01257	ZMO0114 or ZMO0201 or ZMO0113	1 or 1 or 1	chorismate_L_glutamine_aminotransferase_c0	-1000.0	1000.0
+rxn01268	ZMO0420	2	Prephenate_NAD_plus__oxidoreductasedecarboxylating_c0	0.0	1000.0
+rxn01269	ZMO0420	2	Prephenate_NADP_plus__oxidoreductasedecarboxylating_c0	0.0	1000.0
+rxn01270	ZMO0562 or ZMO0421 or ZMO0560 or ZMO0002	1 or 2 or 1 or 1	L_arogenate_2_oxoglutarate_aminotransferase_c0	-1000.0	1000.0
+rxn01274	ZMO0759	1	R_S_Lactoylglutathione_hydrolase_c0	0.0	1000.0
+rxn01275	ZMO1757	1	ATP_D_Gluconate_6_phosphotransferase_c0	0.0	1000.0
+rxn01291	ZMO1344	1	L_Arabitol_NADP_plus__1_oxidoreductase_c0	-1000.0	1000.0
+rxn01292	ZMO1233	1	L_Arabinose_aldose_ketose_isomerase_c0	-1000.0	1000.0
+rxn01300	ZMO1600	1	ATP_L_homoserine_O_phosphotransferase_c0	-1000.0	1000.0
+rxn01301	ZMO0483	1	L_Homoserine_NAD_plus__oxidoreductase_c0	-1000.0	0.0
+rxn01302	ZMO0483	1	L_homoserine_NADP_plus__oxidoreductase_c0	-1000.0	0.0
+rxn01303	ZMO0225 or ZMO0923	2 or 2	Acetyl_CoA_L_homoserine_O_acetyltransferase_c0	0.0	1000.0
+rxn01329	ZMO0339	1	D_mannose_6_phosphate_1_6_phosphomutase_c0	-1000.0	1000.0
+rxn01331	ZMO0177	4	D_erythrose_4_phosphate_NAD_plus__oxidoreductase_c0	0.0	1000.0
+rxn01332	ZMO0187	1	Phosphoenolpyruvate_D_erythrose_4_phosphate_C_1_carboxyvinyltransferase_phosphate_hydrolysing__2_carboxy_2_oxoethyl_forming_c0	0.0	1000.0
+rxn01334	ZMO0179	1	Sedoheptulose_1_7_bisphosphate_D_glyceraldehyde_3_phosphate_lyase_c0	-1000.0	1000.0
+rxn01351	ZMO1095	1	2'-Deoxyguanosine 5'-triphosphate diphosphohydrolase	0.0	1000.0
+rxn01352	ZMO1485 or ZMO0842	1 or 1	dGTP triphosphohydrolase	-1000.0	1000.0
+rxn01362	ZMO1707 or ZMO1557	2 or 1	Orotidine_5_phosphate_diphosphate_phospho_alpha_D_ribosyl_transferase_c0	0.0	1000.0
+rxn01368	ZMO0864 or ZMO0914	1 or 2	Cytidine_aminohydrolase_c0	0.0	1000.0
+rxn01388	ZMO0543	1	isocitrate_hydro_lyase_cis_aconitate_forming_c0	-1000.0	1000.0
+rxn01396	ZMO1600	1	ATP_pyridoxine_5_phosphotransferase_c0	-1000.0	1000.0
+rxn01416	ZMO1460	1	thiosulfate:cyanide sulfurtranserase	-1000.0	1000.0
+rxn01434	ZMO1036	4	L_Citrulline_L_aspartate_ligase_AMP_forming_c0	0.0	1000.0
+rxn01454	ZMO1835	1	acetyl_CoA_acetoacetyl_CoA_C_acetyltransferase_thioester_hydrolysing__carboxymethyl_forming_c0	0.0	1000.0
+rxn01465	ZMO0792 or ZMO1689	1 or 1	S_dihydroorotate_amidohydrolase_c0	-1000.0	1000.0
+rxn01466	ZMO0855	1	Geranyl_diphosphate_isopentenyl_diphosphate_geranyltrans_transferase_c0	0.0	1000.0
+rxn01476	ZMO1478	1	6_Phospho_D_glucono_1_5_lactone_lactonohydrolase_c0	0.0	1000.0
+rxn01477	ZMO0368	1	6_Phospho_D_gluconate_hydro_lyase2_dehydro_3_deoxy_6_phospho_D_gluconate_forming_c0	0.0	1000.0
+rxn01479	ZMO1662	1	CTP_ethanolamine_phosphate_cytidylyltransferase_c0	0.0	1000.0
+rxn01484	ZMO0962	1	N_Acetyl_D_glucosamine_6_phosphate_amidohydrolase_c0	0.0	1000.0
+rxn01485	ZMO1002	1	D_Glucosamine_1_phosphate_1_6_phosphomutase_c0	-1000.0	1000.0
+rxn01486	ZMO0855 or ZMO0870 or ZMO0868	1 or 1 or 1	trans_trans_Farnesyl_diphosphate_isopentenyl_diphosphate_farnesyltranstransferase_c0	0.0	1000.0
+rxn01489	ZMO0868 or ZMO0870	1 or 1	Geranylgeranyl_diphosphate_geranylgeranyl_diphosphate_geranylgeranyltransferase_c0	0.0	1000.0
+rxn01499	ZMO1496	4	3_4_Dihydroxy_L_phenylalanine_carboxy_lyase_c0	0.0	1000.0
+rxn01509	ZMO0433	1	ATP_dGMP_phosphotransferase_c0	-1000.0	1000.0
+rxn01512	ZMO0538	1	ATP:nucleoside-diphosphate phosphatransferase	0.0	1000.0
+rxn01513	ZMO1090	1	ATP_dTMP_phosphotransferase_c0	-1000.0	1000.0
+rxn01517	ZMO0433	1	ATP_dUMP_phosphotransferase_c0	-1000.0	1000.0
+rxn01518	ZMO0552	4	ATP_deoxyuridine_5_phosphotransferase_c0	0.0	1000.0
+rxn01519	ZMO1191 or ZMO1115	1 or 1	dUTP_nucleotidohydrolase_c0	0.0	1000.0
+rxn01520	ZMO1755	2	5_10_Methylenetetrahydrofolate_dUMP_C_methyltransferase_c0	0.0	1000.0
+rxn01521	ZMO0985 or ZMO0403	1 or 1	2_Deoxyuridine_5_monophosphate_phosphohydrolase_c0	0.0	1000.0
+rxn01530	ZMO1236 or ZMO1596 or ZMOp33x021	1 or 4 or 1	retinol_NAD_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn01544	ZMO0656	1	XMP_pyrophosphate_phosphoribosyltransferase_c0	0.0	1000.0
+rxn01547	ZMO1178	2	Guanosine_aminohydrolase_c0	-1000.0	1000.0
+rxn01575	ZMO0913	1	L_Isoleucine_2_oxoglutarate_aminotransferase_c0	-1000.0	1000.0
+rxn01600	ZMO0144	1	Cyclohexylamine_oxygen_oxidoreductase_deaminating_c0	0.0	1000.0
+rxn01602	ZMO0321	1	dihydrofolate_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn01603	ZMO0582	1	7_8_dihydropteroate_L_glutamate_ligase_ADP_forming_c0	0.0	1000.0
+rxn01607	ZMO1895 or ZMO1719	1 or 1	ATP_R_mevalonate_5_phosphotransferase_c0	-1000.0	1000.0
+rxn01626	ZMO0103 or ZMO1967	1 or 1	5_6_Dihydrouracil_amidohydrolase_c0	0.0	1000.0
+rxn01635	ZMO0476	1	1_Pyrroline_4_hydroxy_2_carboxylate_aminohydrolase_decyclizing_c0	0.0	1000.0
+rxn01636	ZMO0923	2	N2_Acetyl_L_ornithine_L_glutamate_N_acetyltransferase_c0	-1000.0	1000.0
+rxn01637	ZMO0408	2	N2_Acetyl_L_ornithine_2_oxoglutarate_aminotransferase_c0	-1000.0	1000.0
+rxn01639	ZMO0027	1	N_Formimino_L_glutamate_formiminohydrolase_c0	0.0	1000.0
+rxn01641	ZMO0811	1	5_Formiminotetrahydrofolate_L_glutamate_N_formiminotransferase_c0	-1000.0	1000.0
+rxn01642	ZMO0432	1	4_imidazolone_5_propanoate_amidohydrolase_c0	0.0	1000.0
+rxn01643	ZMO1407	2	L_Aspartate_4_semialdehyde_NADP_plus__oxidoreductase_phosphorylating_c0	0.0	1000.0
+rxn01644	ZMO0720 or ZMO1853	4 or 1	L-Aspartate-4-semialdehyde hydro-lyase (adding pyruvate and	0.0	1000.0
+rxn01653	ZMO0215	1	5_Formyltetrahydrofolate_cyclo_ligase_ADP_forming_c0	0.0	1000.0
+rxn01671	ZMO0322	1	ATP_N_ribosylnicotinamide_5_phosphotransferase_c0	0.0	1000.0
+rxn01672	ZMO0863	3	dCTP_aminohydrolase_c0	0.0	1000.0
+rxn01673	ZMO0538	1	ATP:nucleoside-diphosphate phosphatransferase	0.0	1000.0
+rxn01682	ZMO0584 and ZMO0585 or ZMO1879	4 and 4 or 8	1S_2R_1_C_indol_3_ylglycerol_3_phosphate_D_glyceraldehyde_3_phosphate_lyase_c0	-1000.0	1000.0
+rxn01739	ZMO0594	1	ATP_shikimate_3_phosphotransferase_c0	-1000.0	1000.0
+rxn01740	ZMO0041	2	Shikimate_NADP_plus__3_oxidoreductase_c0	-1000.0	1000.0
+rxn01790	ZMO1141	1	R_Pantoate_NADP_plus__2_oxidoreductase_c0	-1000.0	1000.0
+rxn01791	ZMO1954 or ZMO1971	2 or 1	R_Pantoate_beta_alanine_ligase_AMP_forming_c0	0.0	1000.0
+rxn01800	ZMO0864 or ZMO0914	1 or 2	Deoxycytidine_aminohydrolase_c0	0.0	1000.0
+rxn01807	ZMO1600	1	ATP_pyridoxal_5_phosphotransferase_c0	-1000.0	1000.0
+rxn01832	ZMO1773 or ZMO1673 or ZMO1344 or ZMOp33x022 or ZMO1771	1 or 1 or 1 or 1 or 1	R02528	0.0	1000.0
+rxn01834	ZMO0760 or ZMO1721 or ZMO0030	1 or 1 or 1	R_S_Lactoylglutathione_methylglyoxal_lyase_isomerizing_c0	-1000.0	1000.0
+rxn01843	ZMO1370	1	2_phenylacetamide_amidohydrolase_c0	-1000.0	1000.0
+rxn01851	ZMO1407	2	4_aminobutanal_NAD_plus__1_oxidoreductase_c0	0.0	1000.0
+rxn01858	ZMO0971 or ZMO0655	1 or 1	Deoxyadenosine_aminohydrolase_c0	0.0	1000.0
+rxn01871	ZMO0510	2	acetyl_CoA_enzyme_N6_dihydrolipoyllysine_S_acetyltransferase_c0	0.0	1000.0
+rxn01917	ZMO1494	1	ATP_N_acetyl_L_glutamate_5_phosphotransferase_c0	-1000.0	1000.0
+rxn01948	ZMO1496	4	5_Hydroxy_L_tryptophan_decarboxy_lyase_c0	0.0	1000.0
+rxn01962	ZMO0013	2	XTP pyrophosphohydrolase	0.0	1000.0
+rxn01964	ZMO0584 and ZMO0585 or ZMO1879	4 and 4 or 8	L_serine_hydro_lyase_adding_1_C_indol_3_ylglycerol_3_phosphate_L_tryptophan_and_glyceraldehyde_3_phosphate_forming_c0	0.0	1000.0
+rxn01973	ZMO1632	2	N_Succinyl_LL_2_6_diaminoheptanedioate_amidohydrolase_c0	0.0	1000.0
+rxn01974	ZMO1072	2	LL_2_6_Diaminoheptanedioate_2_epimerase_c0	-1000.0	1000.0
+rxn01997	ZMO0941	1	dTDPglucose_4_6_hydro_lyase_c0	0.0	1000.0
+rxn02008	ZMO0829	1	UDP_N_acetylmuramoyl_L_alanine_D_glutamate_ligaseADP_forming_c0	0.0	1000.0
+rxn02009	ZMO0215	1	UDP_N_acetylmuramoyl_L_alanyl_D_glutamate_L_lysine_gamma_ligase_ADP_forming_c0	-1000.0	1000.0
+rxn02011	ZMO0826	1	UDP_N_acetylmuramoyl_L_alanyl_D_glutamate_L_meso_2_6_diaminoheptanedioate_gamma_ligase_ADP_forming_c0	0.0	1000.0
+rxn02015	ZMO0195 or ZMOp36x001	1 or 1	Taurocholate_amidohydrolase_c0	0.0	1000.0
+rxn02056	ZMO1271 or ZMO0006	1 or 1	S_Adenosyl_L_methionine_uroporphyrin_III_C_methyltransferase_c0	-1000.0	1000.0
+rxn02090	ZMO0474 or ZMO1698	2 or 1	Creatinine_iminohydrolase_c0	-1000.0	1000.0
+rxn02107	ZMO1407	2	salicylaldehyde_NAD_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn02115	ZMO0018	1	R_Acetoin_racemase_c0	-1000.0	1000.0
+rxn02144	ZMO0053	1	4_carboxymethylbut_3_en_4_olide_enol_lactonohydrolase_c0	0.0	1000.0
+rxn02155	ZMO1662	1	ATP_nicotinamide_nucleotide_adenylyltransferase_c0	0.0	1000.0
+rxn02159	ZMO1551	1	L_Histidinol_NAD_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn02160	ZMO1518	1	L_Histidinol_phosphate_phosphohydrolase_c0	0.0	1000.0
+rxn02166	ZMO0938	1	4_Nitrophenyl_phosphate_phosphohydrolase_c0	0.0	1000.0
+rxn02175	ZMO0854	6	ATP_pantetheine_4_phosphate_adenylyltransferase_c0	0.0	1000.0
+rxn02177	ZMO0758 or ZMO1840 or ZMO1887	1 or 1 or 1	Isochorismate_pyruvate_hydrolase_c0	0.0	1000.0
+rxn02181	ZMO0368	1	3_Hydroxypropionyl_CoA_hydro_lyase_c0	-1000.0	1000.0
+rxn02182	ZMO1770	1	beta_alanyl_CoA_ammonia_lyase_acryloyl_CoA_forming_c0	-1000.0	1000.0
+rxn02185	ZMO1140 and ZMO1139 or ZMO1140 and ZMO0687	2 and 1 or 2 and 1	2_Acetolactate_pyruvate_lyase_carboxylating_c0	-1000.0	1000.0
+rxn02186	ZMO1141	1	2_3_Dihydroxy_3_methylbutanoate_NADP_plus__oxidoreductase_isomerizing_c0	-1000.0	1000.0
+rxn02190	ZMO1967 or ZMO0103	1 or 1	5_6_Dihydrothymine_amidohydrolase_c0	0.0	1000.0
+rxn02199	ZMO0225	2	Acetyl_CoA_chloramphenicol_O3_acetyltransferase_c0	0.0	1000.0
+rxn02200	ZMO1006	1	dihydropteroate synthase	0.0	1000.0
+rxn02201	ZMO1006	1	dihydropteroate synthase	0.0	1000.0
+rxn02212	ZMO0593	1	2_Dehydro_3_deoxy_D_arabino_heptonate_7_phosphate_phosphate_lyase_cyclyzing_c0	0.0	1000.0
+rxn02213	ZMO0737	12	3_Dehydroquinate_hydro_lyase_c0	0.0	1000.0
+rxn02222	ZMO1370	1	Indole_3_acetamide_amidohydrolase_c0	0.0	1000.0
+rxn02229	ZMO0094	2	3_Mercaptopyruvate_cyanide_sulfurtransferase_c0	-1000.0	1000.0
+rxn02230	ZMO1460 or ZMO0094	1 or 2	3_mercaptopyruvate_cyanide_sulfurtransferase_c0	-1000.0	1000.0
+rxn02264	ZMO1902	1	Hydroxymethylbilane_hydro_lyasecyclizing_c0	-1000.0	1000.0
+rxn02268	ZMO0485	1	S_2_methylbutanoyl_CoA_oxygen_2_3_oxidoreductase_c0	0.0	1000.0
+rxn02275	ZMO1370	1	4_Guanidinobutanamide_amidohydrolase_c0	0.0	1000.0
+rxn02277	ZMO1915	2	7_8_Diaminononanoate_carbon_dioxide_cyclo_ligase_c0	0.0	1000.0
+rxn02283	ZMO0811	1	5_Formyltetrahydrofolate_L_glutamate_N_formiminotransferase_c0	-1000.0	1000.0
+rxn02285	ZMO0833	1	UDP_N_acetylmuramate_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn02286	ZMO0832	1	UDP_N_acetylmuramate_L_alanine_ligase_ADP_forming_c0	0.0	1000.0
+rxn02288	ZMO1998	2	Uroporphyrinogen_III_carboxy_lyase_c0	0.0	1000.0
+rxn02297	ZMO1917 or ZMO1270	1 or 1	6_Carboxyhexanoyl_CoA_L_alanine_C_carboxyhexanoyltransferase_decarboxylating_c0	0.0	1000.0
+rxn02303	ZMO0951	2	Coproporphyrinogen_oxygen_oxidoreductasedecarboxylating_c0	0.0	1000.0
+rxn02305	ZMO0332 or ZMO1425	1 or 1	2_methyl_4_amino_5_hydroxymethylpyrimidine_diphosphate_4_methyl_5_2_phosphoethyl_thiazole_2_methyl_4_aminopyridine_5_methenyltransferase_c0	-1000.0	1000.0
+rxn02312	ZMO1918	2	S_Adenosyl_L_methionine_8_amino_7_oxononanoate_aminotransferase_c0	-1000.0	1000.0
+rxn02320	ZMO0002 or ZMO0562 and ZMO0002 or ZMO0421 and ZMO0002 or ZMO0560 and ZMO0002	1 or 1 and 1 or 2 and 1 or 1 and 1	5_Amino_2_oxopentanoate_2_oxoglutarate_aminotransferase_c0	-1000.0	1000.0
+rxn02321	ZMO0889	1	L_ribulose_5_phosphate_3_epimerase_c0	-1000.0	1000.0
+rxn02331	ZMO1488	1	phosphoenolpyruvate_D_arabinose_5_phosphate_C_1_carboxyvinyltransferase_phosphate_hydrolysing__2_carboxy_2_oxoethyl_forming_c0	0.0	1000.0
+rxn02339	ZMO0342 or ZMO1854 or ZMO1727 or ZMO1944 or ZMO0937	1 or 1 or 1 or 1 or 2	4_Hydroxy_L_glutamate_2_oxoglutarate_aminotransferase_c0	-1000.0	1000.0
+rxn02341	(ZMO1190 and ZMO1190)	(1 and 1)	N_R_4_Phosphopantothenoyl_L_cysteine_carboxy_lyase_c0	0.0	1000.0
+rxn02342	(ZMO1606 and ZMO1605)	(1 and 1)	R03270_c0	-1000.0	1000.0
+rxn02362	ZMO1128	1	R03298_c0	-1000.0	1000.0
+rxn02373	ZMO1661	1	L_glutamate_5_semialdehyde_NADP_plus__5_oxidoreductase_phosphorylating_c0	0.0	1000.0
+rxn02391	ZMO1002	1	Lysolecithin_2_3_acylmutase_c0	-1000.0	1000.0
+rxn02393	ZMO1237	1	(R)-3-(4-hydroxyphenyl)lactate:NAD+ 2-oxidoreductase	-1000.0	0.0
+rxn02402	ZMO1870	1	Nicotinate_nucleotide_pyrophosphate_phosphoribosyltransferase_carboxylating_c0	0.0	1000.0
+rxn02405	ZMO1489 or ZMO1151	1 or 1	CTP_3_deoxy_D_manno_octulosonate_cytidylyltransferase_c0	0.0	1000.0
+rxn02409	ZMO0904	1	R06099_c0	0.0	1000.0
+rxn02418	ZMO1137 or ZMO0659	1 or 1	myo_inositol_hexakisphosphate_4_phosphohydrolase_c0	0.0	1000.0
+rxn02421	ZMO0353 or ZMO1128	1 or 1	CTP_N_methylethanolamine_phosphate_cytidylyltransferase_c0	0.0	1000.0
+rxn02465	ZMO0804	1	N_acetyl_L_glutamate_5_semialdehyde_NADP_plus__5_oxidoreductase_phosphrylating_c0	0.0	1000.0
+rxn02473	ZMO1503	1	D_erythro_1_Imidazol_4_ylglycerol_3_phosphate_hydro_lyase_c0	0.0	1000.0
+rxn02474	ZMO0476	1	5_amino_6_5_phosphoribitylaminouracil_NADP_plus__1_oxidoreductase_c0	-1000.0	1000.0
+rxn02475	ZMO0476 or ZMO0939	1 or 1	2_5_Diamino_6_hydroxy_4_5_phosphoribosylamino_pyrimidine_2_aminohydrolase_c0	0.0	1000.0
+rxn02476	ZMO1796	1	Phosphoenolpyruvate_3_phosphoshikimate_5_O_1_carboxyvinyl_transferase_c0	-1000.0	1000.0
+rxn02483	ZMOp33x017	1	4_Carboxymuconolactone_carboxy_lyase_c0	0.0	1000.0
+rxn02503	ZMO1647	1	ATP_2_amino_4_hydroxy_6_hydroxymethyl_7_8_dihydropteridine_6_pyrophosphotransferase_c0	0.0	1000.0
+rxn02504	ZMO1059	1	2_amino_4_hydroxy_6_D_erythro_1_2_3_trihydroxypropyl_7_8_dihydropteridine_glycolaldehyde_lyase_c0	-1000.0	1000.0
+rxn02507	ZMO0545	1	1_2_Carboxyphenylamino_1_deoxy_D_ribulose_5_phosphate_carboxy_lyasecyclizing_c0	0.0	1000.0
+rxn02508	ZMO0586	1	N_5_Phospho_beta_D_ribosylanthranilate_ketol_isomerase_c0	-1000.0	1000.0
+rxn02518	ZMO0013	2	2'-Deoxyinosine-5'-triphosphate pyrophosphohydrolase	0.0	1000.0
+rxn02548	ZMO1033	1	S_Adenosyl_L_methionine_5_7_4_trihydroxyflavone_4_O_methyltransferase_c0	-1000.0	1000.0
+rxn02639	ZMO1806	1	3alpha_7alpha_12alpha_trihydroxy_5beta_cholanoyl_CoA_propanoyl_CoA_C_acyltransferase_c0	-1000.0	1000.0
+rxn02687	ZMO1407	2	R03790_c0	-1000.0	1000.0
+rxn02693	ZMO1419	1	Dimethylallyl_diphosphate_aspulvinone_E_dimethylallyltransferase_c0	-1000.0	1000.0
+rxn02789	ZMO0106 or ZMO0105 or ZMO0105 and ZMO0106	1 or 1 or 1 and 1	2_Isopropylmalate_hydro_lyase_c0	-1000.0	1000.0
+rxn02791	ZMO1388	2	5_Glutamyl_peptide_amino_acid_5_glutamyltransferase_c0	-1000.0	0.0
+rxn02792	ZMO1388	2	gamma_glutamyltranspeptidase_family_protein_c0	0.0	1000.0
+rxn02795	ZMO0195 or ZMOp36x001	1 or 1	Glycochenodeoxycholate_amidohydrolase_c0	0.0	1000.0
+rxn02796	ZMO0195 or ZMOp36x001	1 or 1	chenodeoxycholoyltaurine_amidohydrolase_c0	0.0	1000.0
+rxn02811	ZMO0106 or ZMO0105 or ZMO0105 and ZMO0106	1 or 1 or 1 and 1	3_Isopropylmalate_hydro_lyase_c0	-1000.0	1000.0
+rxn02819	ZMO1970 or ZMO1952	10 or 10	S_Adenosyl_L_methionine_16_methoxy_2_3_dihydro_3_hydroxytabersonine_N_methyltransferase_c0	-1000.0	1000.0
+rxn02834	(ZMO1178 and ZMO1499)	(2 and 1)	Phosphoribosyl_ATP_pyrophosphohydrolase_c0	0.0	1000.0
+rxn02835	(ZMO1178 and ZMO1499)	(2 and 1)	1_5_phospho_D_ribosyl_AMP_1_6_hydrolase_c0	-1000.0	1000.0
+rxn02895	ZMO0299	1	5_Phospho_D_ribosylamine_glycine_ligase_ADP_forming_c0	0.0	1000.0
+rxn02914	ZMO1684	1	3_Phosphoserine_2_oxoglutarate_aminotransferase_c0	-1000.0	1000.0
+rxn02927	ZMO1172	2	N2_succinyl_L_arginine_iminohydrolase_decarboxylating_c0	0.0	1000.0
+rxn02937	ZMO0709	1	2_Formamido_N1_5_phosphoribosylacetamidine_cyclo_ligase_ADP_forming_c0	-1000.0	1000.0
+rxn02938	ZMO1421 or ZMO1420	2 or 1	1_5_phospho_D_ribosyl_5_amino_4_imidazolecarboxylate_carboxy_lyase_c0	0.0	1000.0
+rxn02939	ZMO1008	1	4_phospho_D_erythronate_NAD_plus__2_oxidoreductase_c0	0.0	1000.0
+rxn02945	ZMO0868 or ZMO0870	1 or 1	prephytoene_diphosphate_geranylgeranyl_diphosphate_geranylgeranyltransferase_c0	0.0	1000.0
+rxn02961	ZMO1662	1	CTP_ethanolamine_phosphate_cytidylyltransferase_c0	0.0	1000.0
+rxn02962	ZMO0006 or ZMO1271	1 or 1	R04248_c0	-1000.0	1000.0
+rxn02988	ZMO1871	1	glycerone_phosphate_iminosuccinate_alkyltransferase_cyclizing_c0	0.0	1000.0
+rxn03002	ZMO1805 or ZMO0497	1 or 1	S_Methyl_3_phospho_1_thio_D_glycerate_phosphohydrolase_c0	0.0	1000.0
+rxn03004	ZMO0708	1	10_Formyltetrahydrofolate_5_phosphoribosylglycinamide_formyltransferase_c0	-1000.0	1000.0
+rxn03031	ZMO0431	3	Succinyl_CoA_2_3_4_5_tetrahydropyridine_2_6_dicarboxylate_N_succinyltransferase_c0	-1000.0	0.0
+rxn03035	ZMO0734	1	D_myo_Inositol_3_4_bisphosphate_4_phosphohydrolase_c0	0.0	1000.0
+rxn03052	ZMO1000	1	5_Methyltetrahydropteroyltri_L_glutamate_L_homocysteine_S_methyltransferase_c0	-1000.0	1000.0
+rxn03062	ZMO0677	2	3_Isopropylmalate_NAD_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn03063	ZMO1755	2	S_Adenosyl_L_methionine_zymosterol_C_methyltransferase_c0	-1000.0	1000.0
+rxn03068	ZMO1141	1	R_2_3_Dihydroxy_3_methylbutanoate_NADP_plus__oxidoreductase_isomerizing_c0	-1000.0	1000.0
+rxn03080	ZMO0473	1	5_amino_6_D_ribitylaminouracil_butanedionetransferase_c0	-1000.0	1000.0
+rxn03084	(ZMO1531 and ZMO0820 and ZMO1532)	(2 and 1 and 1)	5_Phosphoribosylformylglycinamide_L_glutamine_amido_ligase_ADP_forming_c0	0.0	1000.0
+rxn03094	ZMOp36x001 or ZMO0195	1 or 1	Glycodeoxycholate_amidohydrolase_c0	0.0	1000.0
+rxn03095	ZMOp36x001 or ZMO0195	1 or 1	Taurodeoxycholate_amidohydrolase_c0	0.0	1000.0
+rxn03108	ZMO1003	1	ATP_4_amino_2_methyl_5_phosphomethylpyrimidine_phosphotransferase_c0	0.0	1000.0
+rxn03114	ZMO1019	1	Geranylgeranyl_diphosphate_sn_3_O_geranylgeranylglycerol_1_phosphate_geranylgeranyltransferase_c0	-1000.0	1000.0
+rxn03120	ZMO0363	2	UDP_apiose_apigenin_7_O_beta_D_glucoside_2_O_beta_D_apiofuranosyltransferase_c0	-1000.0	1000.0
+rxn03135	(ZMO1502 and ZMO1500)	(1 and 1)	R04558_c0	0.0	1000.0
+rxn03136	ZMO0662	1	1_5_Phosphoribosyl_5_amino_4_N_succinocarboxamide_imidazole_AMP_lyase_c0	-1000.0	1000.0
+rxn03137	ZMO0027	1	10_Formyltetrahydrofolate_5_phosphoribosyl_5_amino_4_imidazolecarboxamide_formyltransferase_c0	-1000.0	1000.0
+rxn03147	ZMO1052 or ZMO0709	1 or 1	1_5_Phosphoribosyl_5_amino_4_carboxyimidazole_L_aspartate_ligase_ADP_forming_c0	0.0	1000.0
+rxn03164	ZMO0827	1	UDP_N_acetylmuramoyl_L_alanyl_D_glutamyl_meso_2_6_diaminoheptanedioate_D_alanyl_D_alanine_ligaseADP_forming_c0	0.0	1000.0
+rxn03167	ZMO0938	1	2_Amino_4_hydroxy_6_erythro_1_2_3_trihydroxypropyl_dihydropteridine_triphosphate_phosphohydrolase_alkaline_optimum_c0	0.0	1000.0
+rxn03174	ZMO1229	N	2_Amino_4_hydroxy_6_erythro_1_2_3_trihydroxypropyl_dihydropteridine_triphosphate_hydrolase_c0	0.0	1000.0
+rxn03175	ZMO1501	1	N_5_Phospho_D_ribosylformimino_5_amino_1__5_phospho_D_ribosyl_4_imidazolecarboxamide_ketol_isomerase_c0	-1000.0	1000.0
+rxn03185	ZMO0855	1	R04661_c0	-1000.0	1000.0
+rxn03194	ZMO1139 or ZMO1140 or ZMO1140 and ZMO0687	1 or 2 or 2 and 1	S_2_Aceto_2_hydroxybutanoate_pyruvate_lyase_carboxylating_c0	-1000.0	1000.0
+rxn03273	ZMO0904	1	3_Ketolactose_galactohydrolase_c0	0.0	1000.0
+rxn03282	ZMO1236 or ZMO1596 or ZMOp33x021	1 or 4 or 1	R04805_c0	-1000.0	1000.0
+rxn03323	ZMO1369	1	R04857_c0	0.0	1000.0
+rxn03333	ZMOp33x021 or ZMO1236 or ZMO1596	1 or 1 or 4	3_4_dihydroxyphenylethyleneglycol_NAD_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn03360	ZMO1496	4	5_Hydroxykynurenamine_decarboxy_lyase_c0	-1000.0	0.0
+rxn03366	ZMO1407	2	R04917_c0	-1000.0	1000.0
+rxn03378	ZMO1840 or ZMO0758	1 or 1	Se_Adenosylselenohomocysteine_hydrolase_c0	0.0	1000.0
+rxn03384	ZMO1998	2	Uroporphyrinogen_I_carboxy_lyase_c0	0.0	1000.0
+rxn03394	ZMO1189	1	R04987_c0	0.0	1000.0
+rxn03395	ZMO1654	1	S_adenosyl_L_methionine_3_all_trans_octaprenylbenzene_1_2_diol_2_O_methyltransferase_c0	-1000.0	1000.0
+rxn03397	ZMO1188	1	UDP_L_rhamnose_flavonol_3_O_D_glucoside_L_rhamnosyltransferase_c0	0.0	1000.0
+rxn03406	ZMO0493	12	Undecaprenyl_diphospho_N_acetylmuramoyl_N_acetylglucosamine__c0	0.0	1000.0
+rxn03407	ZMO0493	12	Undecaprenyl_diphospho_N_acetylmuramoyl_N_acetylglucosamine_L_alanyl_gamma_D_glutamyl_L_lysyl_D_alanyl_D_alanine_ammonia_ligase_ADP_forming_c0	0.0	1000.0
+rxn03408	ZMO0831	1	UDP_N_acetyl_D_glucosamine_undecaprenyl_diphospho_N_acetylmuramoyl_L_alanyl_gamma_D_glutamyl_meso_2_6_diaminopimeloyl_D_alanyl_D_alanine_4_beta_N_acetylglucosaminlytransferase_c0	-1000.0	1000.0
+rxn03409	ZMO0493	12	Undecaprenyl_diphospho_N_acetylmuramoyl_N_acetylglucosamine__c0	0.0	1000.0
+rxn03419	ZMO1229	N	formamidopyrimidine_nucleoside_triphosphate_amidohydrolase_c0	0.0	1000.0
+rxn03421	ZMO1229	N	2_5_Diaminopyrimidine_nucleoside_triphosphate_mutase_c0	-1000.0	1000.0
+rxn03422	ZMO1272	1	N_succinyl_L_glutamate_5_semialdehyde_NAD_plus__oxidoreductase_c0	0.0	1000.0
+rxn03435	ZMO1141	1	R_2_3_Dihydroxy_3_methylpentanoate_NADP_plus__oxidoreductase_isomerizing_c0	-1000.0	1000.0
+rxn03436	ZMO1141	1	S_2_Aceto_2_hydroxybutanoate_NADP_plus__oxidoreductase_isomerizing_c0	-1000.0	1000.0
+rxn03437	ZMO1792	2	R_2_3_Dihydroxy_3_methylpentanoate_hydro_lyase_c0	0.0	1000.0
+rxn03445	ZMO1684	1	O_Phospho_4_hydroxy_L_threonine_2_oxoglutarate_aminotransferase_c0	-1000.0	1000.0
+rxn03446	ZMO1891	1	O_Phospho_4_hydroxy_L_threonine_phospho_lyase_adding_water_c0	0.0	1000.0
+rxn03462	ZMO0904	1	Gal_beta1_3GalNAc_beta1_4Gal_beta1_4Glc_beta1_1Cer_galactohydrolase_c0	0.0	1000.0
+rxn03463	ZMO0855	1	R05113_c0	-1000.0	1000.0
+rxn03618	ZMO1407	2	formaldehyde_NAD_plus__oxidoreductase_mycothiol_formylating_c0	-1000.0	1000.0
+rxn03638	ZMO0498	3	Acetyl_CoA_D_glucosamine_1_phosphate_N_acetyltransferase_c0	0.0	1000.0
+rxn03762	ZMO1724	1	R05465_c0	-1000.0	1000.0
+rxn03839	ZMO1370	1	R05551_c0	0.0	1000.0
+rxn03841	ZMO0115	1	4_amino_4_deoxychorismate_pyruvate_lyase_c0	0.0	1000.0
+rxn03842	ZMO1369	1	Ureidoglycine_aminohydrolase_c0	0.0	1000.0
+rxn03843	ZMO1152	2	Farnesyl_diphosphate_Isopentenyl_diphosphate_farnesyl_cistransferase_c0	0.0	1000.0
+rxn03848	ZMO0813	1	Biuret_amidohydrolase_c0	0.0	1000.0
+rxn03849	ZMO0813	1	biuret_amidohydrolase_c0	0.0	1000.0
+rxn03869	ZMO1370	1	Acylamide_aminohydrolase_c0	0.0	1000.0
+rxn03884	ZMO0997	3	2_dehydro_3_deoxy_D_gluconate_6_phosphate_D_glyceraldehyde_3_phosphate_lyase_c0	-1000.0	1000.0
+rxn03887	ZMO0941	1	galactarate_hydro_lyase_5_dehydro_4_deoxy_D_glucarate_forming_c0	0.0	1000.0
+rxn03891	ZMO0855	1	R05612_c0	0.0	1000.0
+rxn03892	ZMO0855	1	R05613_c0	0.0	1000.0
+rxn03893	ZMO1419	1	all_trans_octaprenyl_diphosphate_4_hydroxybenzoate_3_octaprenyltransferase_c0	0.0	1000.0
+rxn03901	ZMO1115	1	undecaprenyl_diphosphate_phosphohydrolase_c0	0.0	1000.0
+rxn03903	ZMO0828	1	UDPMurAcoyl_L_Ala_D_gamma_Glu_L_Lys_D_Ala_D_Ala_undecaprenyl_phosphate_phospho_N_acetylmuramoyl_pentapeptide_transferase_c0	-1000.0	1000.0
+rxn03904	ZMO0828	1	UDP_N_acetylmuramoyl_L_alanyl_gamma_D_glutamyl_meso_2_6_diaminopimeloyl_D_alanyl_D_alanine_undecaprenyl_phosphate_phospho_N_acetylmuramoyl_pentapeptide_transferase_c0	-1000.0	1000.0
+rxn03907	ZMO0353 or ZMO1128	1 or 1	CTP__2_C_Methyl_D_erythritol_4_phosphate_cytidylyltransferase_c0	0.0	1000.0
+rxn03908	ZMO1182	1	ATP_4_Cytidine_5_diphospho_2_C_methyl_D_erythritol_2_phosphotransferase_c0	-1000.0	1000.0
+rxn03909	ZMO1234 or ZMO1598	2 or 2	1_Deoxy_D_xylulose_5_phosphate_pyruvate_lyase_carboxylating_c0	0.0	1000.0
+rxn03910	ZMO1128	1	2_Phospho_4_cytidine_5_diphospho_2_C_methyl_D_erythritol_CMP_lyase_cyclizing_c0	-1000.0	1000.0
+rxn03915	ZMO1407	2	2_formylbenzoate_NAD_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn03921	ZMO1407	2	R05649_c0	-1000.0	1000.0
+rxn03933	ZMO0831	1	UDP_N_acetyl_D_glucosamine_N_acetyl_alpha_D_muramyloyl_L_Ala_gamma_D_Glu_L_Lys_D_Ala_D_Ala_diphosphoundecaprenol_4_beta_N_acetylglucosaminlytransferase_c0	-1000.0	1000.0
+rxn03951	ZMO1313	2	NAD_dependent_threonine_4_phosphate_dehydrogenase_c0	-1000.0	1000.0
+rxn03958	ZMO1150	2	1_Deoxy_D_xylulose_5_phosphate_isomeroreductase_c0	-1000.0	1000.0
+rxn04068	ZMOp36x001 or ZMO0195	1 or 1	Glycocholate_amidohydrolase_c0	0.0	1000.0
+rxn04070	ZMO1708	8	pyridoxine_5_phosphate_synthase_c0	0.0	1000.0
+rxn04113	ZMO0875	1	isopentenyl_diphosphate_NADP_plus__oxidoreductase_c0	0.0	1000.0
+rxn04137	ZMO0226	1	L_serine_NADP_plus__3_oxidoreductase_c0	-1000.0	1000.0
+rxn04270	ZMO1407	2	cis_2_Methyl_5_isopropylhexa_2_5_dienal_dehydrogenase_c0	-1000.0	1000.0
+rxn04271	ZMO1407	2	trans_2_Methyl_5_isopropylhexa_2_5_dienal_dehydrogenase_c0	-1000.0	1000.0
+rxn04453	ZMO1689 or ZMO0792	1 or 1	5_hydroxyisourate_amidohydrolase_c0	0.0	1000.0
+rxn04658	ZMO1407	2	RXN_5183c_c0	0.0	1000.0
+rxn04674	ZMO1188	1	R06859_c0	0.0	1000.0
+rxn04704	ZMO1364 or ZMO0012	1 or 1	coproporphyrinogen_III_S_adenosyl_L_methionine_oxidoreductasedecarboxylating_c0	0.0	1000.0
+rxn04723	ZMO1407	2	R06914_c0	-1000.0	1000.0
+rxn04726	ZMO1596 or ZMO1236 or ZMOp33x021	4 or 1 or 1	1_hydroxymethylnaphthalene_NAD_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn04727	ZMO1407	2	R06918_c0	-1000.0	1000.0
+rxn04736	ZMOp33x021 or ZMO1596 or ZMO1236	1 or 4 or 1	2_naphthylmethanol_NAD_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn04737	ZMO1407	2	R06928_c0	-1000.0	1000.0
+rxn04744	ZMO1407	2	R06935_c0	-1000.0	1000.0
+rxn04757	ZMO1240	2	violaxanthin_neoxanthin_isomerase_epoxide_opening_c0	-1000.0	1000.0
+rxn04760	ZMO1240	2	violaxanthin_neoxanthin_isomerase_epoxide_opening_c0	-1000.0	1000.0
+rxn04792	ZMO1722	1	S_hydroxymethylglutathione_dehydrogenase_c0	-1000.0	1000.0
+rxn04794	ZMO1570	2	propanoyl_CoA_formate_C_propanoyltransferase_c0	0.0	1000.0
+rxn04809	ZMO0869	1	1R_hydroxy_2R_glutathionyl_1_2_dihydronaphthalene_glutathione_lyase_epoxide_forming_c0	-1000.0	1000.0
+rxn04810	ZMO0869	1	1R_glutathionyl_2R_hydroxy_1_2_dihydronaphthalene_glutathione_lyase_epoxide_forming_c0	-1000.0	1000.0
+rxn04811	ZMO0869	1	1S_hydroxy_2S_glutathionyl_1_2_dihydronaphthalene_glutathione_lyase_epoxide_forming_c0	-1000.0	1000.0
+rxn04830	ZMO0869	1	1_nitro_7_hydroxy_8_glutathionyl_7_8_dihydronaphthalene_glutathione_lyase_epoxide_forming_c0	-1000.0	1000.0
+rxn04831	ZMO0869	1	1_nitro_7_glutathionyl_8_hydroxy_7_8_dihydronaphthalene_glutathione_lyase_epoxide_forming_c0	-1000.0	1000.0
+rxn04832	ZMO0869	1	1_nitro_5_hydroxy_6_glutathionyl_5_6_dihydronaphthalene_glutathione_lyase_epoxide_forming_c0	-1000.0	1000.0
+rxn04833	ZMO0869	1	1_nitro_5_glutathionyl_6_hydroxy_5_6_dihydronaphthalene_glutathione_lyase_epoxide_forming_c0	-1000.0	1000.0
+rxn04872	ZMO0869	1	3_4_dihydro_3_hydroxy_4_S_glutathionyl_bromobenzene_glutathione_lyase_epoxide_forming_c0	-1000.0	1000.0
+rxn04873	ZMO0869	1	2_3_dihydro_2_S_glutathionyl_3_hydroxy_bromobenzene_glutathione_lyase_epoxide_forming_c0	-1000.0	1000.0
+rxn04886	ZMO0869	1	4_5_dihydro_4_hydroxy_5_S_glutathionyl_benzoapyrene_glutathione_lyase_epoxide_forming_c0	-1000.0	1000.0
+rxn04887	ZMO0869	1	7_8_dihydro_7_hydroxy_8_S_glutathionyl_benzoapyrene_hydrolase_c0	-1000.0	0.0
+rxn04894	ZMO0869	1	S_2_2_dichloro_1_hydroxyethyl_glutathione_2_2_dichloroacetaldehyde_lyase_glutathione_forming_c0	-1000.0	1000.0
+rxn04895	ZMO0869	1	1_1_dichloroethylene_epoxide_glutathione_S_chloroepoxyethyltransferase_2_S_glutathionylacetyl_chloride_forming_c0	-1000.0	1000.0
+rxn04896	ZMO0869	1	chloroacetyl_chloride_glutathione_S_chloroacetyltransferase_c0	-1000.0	1000.0
+rxn04903	ZMO0869	1	trichloroethene_glutathione_S_1_2_dichlorovinyltransferase_c0	-1000.0	1000.0
+rxn04908	ZMOp33x021 or ZMO1596 or ZMO1236	1 or 4 or 1	trichloroethanol_NAD_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn04916	ZMO0869	1	1_2_dibromoethane_glutathione_ethylenetransferase_episulfonium_forming_c0	-1000.0	1000.0
+rxn04919	ZMO0869	1	2_bromoacetaldehyde_glutathione_S_formylmethyltransferase_c0	-1000.0	1000.0
+rxn04954	ZMO1747	1	5_methyltetrahydrofolate_NAD_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn04996	ZMO0875	1	dimethyallyl_diphosphate_NADP_plus__oxidoreductase_c0	0.0	1000.0
+rxn05005	ZMO0006 or ZMO1271	1 or 1	S_adenosyl_L_methionine_uroporphyrinogen_III_C_methyltransferase_c0	-1000.0	1000.0
+rxn05006	ZMO0006 or ZMO1271	1 or 1	S_adenosyl_L_methionine_precorrin_1_C_methyltransferase_c0	-1000.0	1000.0
+rxn05012	ZMO0176	1	carbamoyl_phosphate_N2_acetyl_L_ornithine_carbamoyltransferase_c0	0.0	1000.0
+rxn05023	ZMO0160 or ZMO0511	1 or 1	rxn05023	0.0	1000.0
+rxn05029	ZMO1495	1	ATP_cobinamide_Cobeta_adenosyltransferase_c0	0.0	1000.0
+rxn05031	ZMO0870 or ZMO0868	1 or 1	prephytoene_diphosphate_geranylgeranyl_diphosphate_geranylgeranyltransferase_c0	0.0	1000.0
+rxn05034	ZMO1419	1	solanesyl_diphosphate_4_hydroxybenzoate_nonaprenyltransferase_c0	-1000.0	1000.0
+rxn05040	ZMO0474 or ZMO1698	2 or 1	D_ribulose_5_phosphate_formate_lyase_L_3_4_dihydroxybutan_2_one_4_phosphate_forming_c0	0.0	1000.0
+rxn05059	ZMO0864	1	dCTP_aminohydrolase_dUMP_forming_c0	0.0	1000.0
+rxn05070	ZMO0872 and ZMO1548	1 and 1	squalene mutase (cyclizing)	0.0	1000.0
+rxn05071	ZMO0872 and ZMO1548	1 and 1	squalene mutase (cyclizing)	0.0	1000.0
+rxn05116	ZMO1313	2	R07406_c0	0.0	1000.0
+rxn05126	ZMO1407	2	R07417_c0	0.0	1000.0
+rxn05127	ZMO1407	2	R07418_c0	0.0	1000.0
+rxn05187	ZMO0978	1	Vitamin_ABC_transport_c0	0.0	1000.0
+rxn05189	ZMO1847 or ZMO0229	1 or 1	FeIIIdicitrate_ABC_transport_c0	0.0	1000.0
+rxn05198	ZMO0967	1	Transport_of_cytidine__extracellular_c0	-1000.0	1000.0
+rxn05199	ZMO0967	1	Uridine_permease_c0	-1000.0	1000.0
+rxn05200	ZMO0967	1	Transport_of_thymidine__extracellular_c0	-1000.0	1000.0
+rxn05201	ZMO0969	1	TRANS_RXNBWI_115572cemaizeexpHYPOXANTHINE_c0	-1000.0	1000.0
+rxn05205	ZMO0967	1	Transport_of_deoxycytidine__extracellular_c0	-1000.0	1000.0
+rxn05229	ZMO1421 and ZMO1420	2 and 1	NCAIR_synthetase_and_NCAIR_mutase_c0	0.0	1000.0
+rxn05231	ZMO0443 or ZMO1039	1 or 1	2_Deoxyadenosine_5_diphosphate_oxidized_thioredoxin_2_oxidoreductase_c0	0.0	1000.0
+rxn05232	ZMO1025	1	2_Deoxyadenosine_5_triphosphate_oxydized_thioredoxin_2_oxidoreductase_c0	0.0	1000.0
+rxn05233	ZMO0443 or ZMO1039	1 or 1	2_Deoxyguanosine_5_diphosphate_oxidized_thioredoxin_2_oxidoreductase_c0	0.0	1000.0
+rxn05234	ZMO1025	1	2_Deoxyguanosine_5_triphosphate_oxydized_thioredoxin_2_oxidoreductase_c0	0.0	1000.0
+rxn05235	ZMO1025	1	2_Deoxyuridine_5_triphosphate_oxydized_thioredoxin_2_oxidoreductase_c0	0.0	1000.0
+rxn05236	ZMO1025	1	2_Deoxyuridine_5_triphosphate_oxydized_thioredoxin_2_oxidoreductase_c0	0.0	1000.0
+rxn05239	ZMO0007 and ZMO1097	1 and 1	adenosine_3_5_bisphosphate_sulfite_oxidized_thioredoxin_oxidoreductase_3_phosphoadenosine_5_phosphosulfate__forming_c0	0.0	1000.0
+rxn05287	ZMO0855	1	geranylgeranyl_diphosphate_isopentenyl_diphosphate_transtransferase_c0	0.0	1000.0
+rxn05289	ZMO1142 and ZMO1097	2 and 1	NADPH_oxidized_thioredoxin_oxidoreductase_c0	0.0	1000.0
+rxn05293	ZMO0180	1	2C_methyl_D_erythritol_2_4_cyclodiphosphate_dehydratase_c0	0.0	1000.0
+rxn05307	ZMO1465	1	TRANS_RXNBWI_115637cemaizeexpSER_c0	-1000.0	1000.0
+rxn05316	ZMO0967	1	TRANS_RXNBWI_115572cemaizeexpINOSINE_c0	-1000.0	1000.0
+rxn05317	ZMO0967	1	Transport_of_deoxyadenosine__extracellular_c0	-1000.0	1000.0
+rxn05318	ZMO0967	1	TRANS_RXN_203ce_c0	-1000.0	1000.0
+rxn05322	ZMO1692	1	Butyryl_acyl_carrier_protein_malonyl_CoA_C_acyltransferasedecarboxylating__oxoacyl__and_enoyl_reducing_c0	0.0	1000.0
+rxn05323	ZMO1692	1	Tetradecanoyl_acyl_carrier_protein_malonyl_CoA_C_acyltransferasedecarboxylating__oxoacyl__and_enoyl_reducing_c0	0.0	1000.0
+rxn05324	ZMO1692	1	Dodecanoyl_acyl_carrier_protein_malonyl_CoA_C_acyltransferasedecarboxylating__oxoacyl__and_enoyl_reducing_c0	0.0	1000.0
+rxn05325	ZMO1692	1	Octanoyl_acyl_carrier_protein_malonyl_CoA_C_acyltransferasedecarboxylating__oxoacyl__and_enoyl_reducing_c0	0.0	1000.0
+rxn05326	ZMO1692	1	Hexanoyl_acyl_carrier_protein_malonyl_CoA_C_acyltransferasedecarboxylating__oxoacyl__and_enoyl_reducing_c0	0.0	1000.0
+rxn05327	ZMO1692	1	Decanoyl_acyl_carrier_protein_malonyl_CoA_C_acyltransferasedecarboxylating__oxoacyl__and_enoyl_reducing_c0	0.0	1000.0
+rxn05328	ZMO1692	1	Hexadecanoyl_acyl_carrier_protein_malonyl_CoA_C_acyltransferasedecarboxylating__oxoacyl__and_enoyl_reducing_c0	0.0	1000.0
+rxn05330	ZMO1146	1	(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase	-1000.0	1000.0
+rxn05331	ZMO1146	1	(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase	-1000.0	1000.0
+rxn05332	ZMO1146	1	(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase	-1000.0	1000.0
+rxn05334	ZMO1146	1	(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase	-1000.0	1000.0
+rxn05335	ZMO1146	1	(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase	-1000.0	1000.0
+rxn05336	ZMO1946 or ZMO1222 or ZMO0318 or ZMOp33x016 or ZMO0090	1 or 4 or 1 or 1 or 1	3R_3_Hydroxypalmitoyl_acyl_carrier_protein_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn05337	ZMOp33x016 or ZMO0090 or ZMO0318 or ZMO1946 or ZMO1222	1 or 1 or 1 or 1 or 4	3R_3_Hydroxyhexanoyl_acyl_carrier_protein_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn05338	ZMO1946 or ZMO1222 or ZMO0318 or ZMOp33x016 or ZMO0090	1 or 4 or 1 or 1 or 1	3R_3_Hydroxydecanoyl_acyl_carrier_protein_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn05339	ZMOp33x016 or ZMO0090 or ZMO0318 or ZMO1946 or ZMO1222	1 or 1 or 1 or 1 or 4	3R_3_Hydroxybutanoyl_acyl_carrier_protein_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn05340	ZMO1946 or ZMO1222 or ZMO0318 or ZMOp33x016 or ZMO0090	1 or 4 or 1 or 1 or 1	3R_3_Hydroxydodecanoyl_acyl_carrier_protein_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn05341	ZMO0318 or ZMO1946 or ZMO1222 or ZMOp33x016 or ZMO0090	1 or 1 or 4 or 1 or 1	3R_3_Hydroxyoctanoyl_acyl_carrier_protein_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn05342	ZMO0318 or ZMO1222 or ZMO1946 or ZMO0090 or ZMOp33x016	1 or 4 or 1 or 1 or 1	3R_3_Hydroxytetradecanoyl_acyl_carrier_protein_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn05343	(ZMO1899 and ZMO1278)	(2 and 1)	Octanoyl_acyl_carrier_protein_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0	0.0	1000.0
+rxn05344	(ZMO1899 and ZMO1278)	(2 and 1)	Tetradecanoyl_acyl_carrier_protein_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0	0.0	1000.0
+rxn05345	(ZMO1899 and ZMO1278)	(2 and 1)	dodecanoyl_acyl_carrier_protein_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0	0.0	1000.0
+rxn05346	(ZMO1899 and ZMO1278)	(2 and 1)	butyryl_acyl_carrier_protein_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0	0.0	1000.0
+rxn05347	(ZMO1278 and ZMO1899)	(1 and 2)	Acyl_acyl_carrier_protein_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0	0.0	1000.0
+rxn05348	(ZMO1899 and ZMO1278)	(2 and 1)	Decanoyl_acyl_carrier_protein_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0	0.0	1000.0
+rxn05349	ZMO1279 and ZMO1899	1 and 2	acetyl_CoA_acyl_carrier_protein_S_acetyltransferase_c0	-1000.0	1000.0
+rxn05350	(ZMO1899 and ZMO1278)	(2 and 1)	hexanoyl_acyl_carrier_protein_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0	0.0	1000.0
+rxn05360	ZMO1222 or ZMO1946 or ZMO0318 or ZMO0090 or ZMOp33x016	4 or 1 or 1 or 1 or 1	4_methyl_3_oxo_hexanoyl_ACP_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn05363	(ZMO1899 and ZMO1278)	(2 and 1)	4_methyl_hexanoyl_ACP_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0	0.0	1000.0
+rxn05364	ZMO0090 or ZMOp33x016 or ZMO1222 or ZMO1946 or ZMO0318	1 or 1 or 4 or 1 or 1	6_methyl_3_oxo_octanoyl_ACP_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn05367	(ZMO1899 and ZMO1278)	(2 and 1)	6_methyl_octanoyl_ACP_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0	0.0	1000.0
+rxn05368	ZMO1222 or ZMO1946 or ZMO0318 or ZMO0090 or ZMOp33x016	4 or 1 or 1 or 1 or 1	8_methyl_3_oxo_decanoyl_ACP_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn05371	(ZMO1278 and ZMO1899)	(1 and 2)	8_methyl_decanoyl_ACP_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0	0.0	1000.0
+rxn05372	ZMOp33x016 or ZMO0090 or ZMO0318 or ZMO1946 or ZMO1222	1 or 1 or 1 or 1 or 4	10_methyl_3_oxo_dodecanoyl_ACP_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn05375	(ZMO1899 and ZMO1278)	(2 and 1)	10_methyl_dodecanoyl_ACP_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0	0.0	1000.0
+rxn05376	ZMOp33x016 or ZMO0090 or ZMO0318 or ZMO1946 or ZMO1222	1 or 1 or 1 or 1 or 4	12_methyl_3_oxo_tetra_decanoyl_ACP_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn05379	(ZMO1278 and ZMO1899)	(1 and 2)	12_methyl_tetra_decanoyl_ACP_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0	0.0	1000.0
+rxn05380	ZMO0318 or ZMO1222 or ZMO1946 or ZMO0090 or ZMOp33x016	1 or 4 or 1 or 1 or 1	14_methyl_3_oxo_hexa_decanoyl_ACP_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn05383	ZMO1223	1	3_methylbutanoyl_CoA_acyl_carrier_protein_transferase_c0	-1000.0	1000.0
+rxn05384	(ZMO1278 and ZMO1899)	(1 and 2)	3_methylbutanoyl_ACP_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0	0.0	1000.0
+rxn05385	ZMO0090 or ZMOp33x016 or ZMO1222 or ZMO1946 or ZMO0318	1 or 1 or 4 or 1 or 1	5_methyl_3_oxo_hexanoyl_ACP_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn05388	(ZMO1278 and ZMO1899)	(1 and 2)	5_methyl_hexanoyl_ACP_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0	0.0	1000.0
+rxn05389	ZMO0090 or ZMOp33x016 or ZMO1222 or ZMO1946 or ZMO0318	1 or 1 or 4 or 1 or 1	7_methyl_3_oxo_octanoyl_ACP_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn05392	(ZMO1899 and ZMO1278)	(2 and 1)	7_methyl_octanoyl_ACP_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0	0.0	1000.0
+rxn05393	ZMO0318 or ZMO1946 or ZMO1222 or ZMOp33x016 or ZMO0090	1 or 1 or 4 or 1 or 1	9_methyl_3_oxo_decanoyl_ACP_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn05396	(ZMO1899 and ZMO1278)	(2 and 1)	9_methyl_decanoyl_ACP_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0	0.0	1000.0
+rxn05397	ZMO0090 or ZMOp33x016 or ZMO1222 or ZMO1946 or ZMO0318	1 or 1 or 4 or 1 or 1	11_methyl_3_oxo_dodecanoyl_ACP_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn05400	(ZMO1899 and ZMO1278)	(2 and 1)	11_methyl_dodecanoyl_ACP_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0	0.0	1000.0
+rxn05401	ZMOp33x016 or ZMO0090 or ZMO0318 or ZMO1946 or ZMO1222	1 or 1 or 1 or 1 or 4	13_methyl_3_oxo_tetra_decanoyl_ACP_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn05404	(ZMO1899 and ZMO1278)	(2 and 1)	13_methyl_tetra_decanoyl_ACP_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0	0.0	1000.0
+rxn05405	ZMO1222 or ZMO1946 or ZMO0318 or ZMO0090 or ZMOp33x016	4 or 1 or 1 or 1 or 1	15_methyl_3_oxo_hexa_decanoyl_ACP_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn05408	ZMO1223	1	2_methylpropionyl_CoA_acyl_carrier_protein_transferase_c0	-1000.0	1000.0
+rxn05409	(ZMO1278 and ZMO1899)	(1 and 2)	2_methylpropionyl_ACP_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0	0.0	1000.0
+rxn05410	ZMO0090 or ZMOp33x016 or ZMO0318 or ZMO1222 or ZMO1946	1 or 1 or 1 or 4 or 1	4_methyl_3_oxo_pentanoyl_ACP_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn05413	(ZMO1278 and ZMO1899)	(1 and 2)	4_methyl_pentanoyl_ACP_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0	0.0	1000.0
+rxn05414	ZMO0318 or ZMO1946 or ZMO1222 or ZMOp33x016 or ZMO0090	1 or 1 or 4 or 1 or 1	6_methyl_3_oxo_heptanoyl_ACP_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn05417	(ZMO1899 and ZMO1278)	(2 and 1)	6_methyl_heptanoyl_ACP_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0	0.0	1000.0
+rxn05418	ZMOp33x016 or ZMO0090 or ZMO0318 or ZMO1946 or ZMO1222	1 or 1 or 1 or 1 or 4	8_methyl_3_oxo_nonanoyl_ACP_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn05421	(ZMO1278 and ZMO1899)	(1 and 2)	8_methyl_nonanoyl_ACP_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0	0.0	1000.0
+rxn05422	ZMO0318 or ZMO1946 or ZMO1222 or ZMOp33x016 or ZMO0090	1 or 1 or 4 or 1 or 1	10_methyl_3_oxo_undecanoyl_ACP_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn05425	(ZMO1278 and ZMO1899)	(1 and 2)	10_methyl_undecanoyl_ACP_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0	0.0	1000.0
+rxn05426	ZMOp33x016 or ZMO0090 or ZMO1946 or ZMO1222 or ZMO0318	1 or 1 or 1 or 4 or 1	12_methyl_3_oxo_tridecanoyl_ACP_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn05429	(ZMO1899 and ZMO1278)	(2 and 1)	12_methyl_tridecanoyl_ACP_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0	0.0	1000.0
+rxn05430	ZMO0090 or ZMOp33x016 or ZMO0318 or ZMO1222 or ZMO1946	1 or 1 or 1 or 4 or 1	14_methyl_3_oxo_pentadecanoyl_ACP_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn05433	ZMO1692	1	4_methyl_trans_hex_2_enoyl_ACP_NAD_plus__oxidoreductase_A_specific_c0	0.0	1000.0
+rxn05434	ZMO1692	1	6_methyl_trans_oct_2_enoyl_ACP_NAD_plus__oxidoreductase_A_specific_c0	0.0	1000.0
+rxn05435	ZMO1692	1	8_methyl_trans_dec_2_enoyl_ACP_NAD_plus__oxidoreductase_A_specific_c0	0.0	1000.0
+rxn05436	ZMO1692	1	10_methyl_trans_dodec_2_enoyl_ACP_NAD_plus__oxidoreductase_A_specific_c0	0.0	1000.0
+rxn05437	ZMO1692	1	12_methyl_trans_tetra_dec_2_enoyl_ACP_NAD_plus__oxidoreductase_A_specific_c0	0.0	1000.0
+rxn05438	ZMO1692	1	14_methyl_trans_hexa_dec_2_enoyl_ACP_NAD_plus__oxidoreductase_A_specific_c0	0.0	1000.0
+rxn05439	ZMO1692	1	5_methyl_trans_hex_2_enoyl_ACP_NAD_plus__oxidoreductase_A_specific_c0	0.0	1000.0
+rxn05440	ZMO1692	1	7_methyl_trans_oct_2_enoyl_ACP_NAD_plus__oxidoreductase_A_specific_c0	0.0	1000.0
+rxn05441	ZMO1692	1	9_methyl_trans_dec_2_enoyl_ACP_NAD_plus__oxidoreductase_A_specific_c0	0.0	1000.0
+rxn05442	ZMO1692	1	11_methyl_trans_dodec_2_enoyl_ACP_NAD_plus__oxidoreductase_A_specific_c0	0.0	1000.0
+rxn05443	ZMO1692	1	13_methyl_trans_tetra_dec_2_enoyl_ACP_NAD_plus__oxidoreductase_A_specific_c0	0.0	1000.0
+rxn05444	ZMO1692	1	15_methyl_trans_hexa_dec_2_enoyl_ACP_NAD_plus__oxidoreductase_A_specific_c0	0.0	1000.0
+rxn05445	ZMO1692	1	4_methyl_trans_pent_2_enoyl_ACP_NAD_plus__oxidoreductase_A_specific_c0	0.0	1000.0
+rxn05446	ZMO1692	1	6_methyl_trans_hept_2_enoyl_ACP_NAD_plus__oxidoreductase_A_specific_c0	0.0	1000.0
+rxn05447	ZMO1692	1	8_methyl_trans_non_2_enoyl_ACP_NAD_plus__oxidoreductase_A_specific_c0	0.0	1000.0
+rxn05448	ZMO1692	1	10_methyl_trans_undec_2_enoyl_ACP_NAD_plus__oxidoreductase_A_specific_c0	0.0	1000.0
+rxn05449	ZMO1692	1	12_methyl_trans_tridec_2_enoyl_ACP_NAD_plus__oxidoreductase_A_specific_c0	0.0	1000.0
+rxn05450	ZMO1692	1	14_methyl_trans_pentadec_2_enoyl_ACP_NAD_plus__oxidoreductase_A_specific_c0	0.0	1000.0
+rxn05451	ZMO1223	1	12_methyl_tetra_decanoyl_ACP_acyl_carrier_protein_transferase_c0	-1000.0	1000.0
+rxn05452	ZMO1223	1	14_methyl_hexa_decanoyl_ACP_acyl_carrier_protein_transferase_c0	-1000.0	1000.0
+rxn05453	ZMO1223	1	13_methyl_tetra_decanoyl_ACP_acyl_carrier_protein_transferase_c0	-1000.0	1000.0
+rxn05454	ZMO1223	1	15_methyl_hexa_decanoyl_ACP_acyl_carrier_protein_transferase_c0	-1000.0	1000.0
+rxn05455	ZMO1223	1	12_methyl_tridecanoyl_ACP_acyl_carrier_protein_transferase_c0	-1000.0	1000.0
+rxn05456	ZMO1223	1	14_methyl_pentadecanoyl_ACP_acyl_carrier_protein_transferase_c0	-1000.0	1000.0
+rxn05457	ZMO1223	1	Acyl_carrier_protein_acetyltransferase_c0	-1000.0	1000.0
+rxn05458	ZMO1223	1	Acyl_carrier_protein_acetyltransferase_c0	-1000.0	1000.0
+rxn05459	ZMO1223	1	stearyl_ACP_acyl_carrier_protein_transferase_c0	-1000.0	1000.0
+rxn05460	(ZMO1278 and ZMO1899)	(1 and 2)	3_Oxooctodecanoyl_ACP_malonyl_acyl_carrier_protein_C_acyltransferase_decarboxylating_c0	0.0	1000.0
+rxn05461	ZMO0090 or ZMOp33x016 or ZMO0318 or ZMO1222 or ZMO1946	1 or 1 or 1 or 4 or 1	3_Hydroxyoctodecanoyl_ACP_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn05464	ZMO1692	1	trans_Octodec_2_enoyl_ACP_NAD_plus__oxidoreductase_A_specific_c0	0.0	1000.0
+rxn05465	ZMO1223 and ZMO1279	1 and 1	Malonyl_CoA_acyl_carrier_protein_S_malonyltransferase_c0	0.0	1000.0
+rxn05515	(ZMO0978 and ZMO1495)	(1 and 1)	ATP_phosphohydrolase_vitamin_B12_importing_c0	0.0	1000.0
+rxn05516	ZMO0915	1	Cadmium_translocating_P_type_ATPase_c0	0.0	1000.0
+rxn05517	ZMO0866	1	cadminum_transport_out_via_antiport_c0	-1000.0	1000.0
+rxn05557	ZMO0229 or ZMO1847 or ZMO0230	1 or 1 or 1	iron_III_dicitrate_transport_via_ABC_system_c0	0.0	1000.0
+rxn05585	(ZMO1261 and ZMO1263 and ZMO1262)	(1 and 5 and 1)	hexanesulfonate_transport_via_ABC_system_c0	0.0	1000.0
+rxn05599	(ZMO1262 and ZMO1263 and ZMO1261)	(1 and 5 and 1)	cysteate_transport_via_ABC_system_c0	0.0	1000.0
+rxn05620	(ZMO1261 and ZMO1262 and ZMO1263)	(1 and 1 and 5)	MOPS_transport_via_ABC_system_c0	0.0	1000.0
+rxn05732	ZMO0485	1	acyl_CoA_dehydrogenase_hexadecanoyl_CoA_c0	0.0	1000.0
+rxn05733	ZMO0821 or ZMO0748	1 or 1	O3_acetyl_L_serine_thiosulfate_2_amino_2_carboxyethyltransferase_reducing__L_cysteine_forming_c0	0.0	1000.0
+rxn05814	ZMO0433	1	ATP_nucleoside_phosphate_phosphotransferase_c0	-1000.0	1000.0
+rxn05871	ZMOp33x021 or ZMO1236 or ZMO1596	1 or 1 or 4	primary_c0	-1000.0	1000.0
+rxn05872	ZMO1236 or ZMO1596 or ZMOp33x021	1 or 4 or 1	Secondary_c0	-1000.0	1000.0
+rxn05882	ZMO1360	4	2_oxo_acid_carboxy_lyase_aldehyde_forming_c0	0.0	1000.0
+rxn05957	ZMO0676	4	O4_succinyl_L_homoserine_hydrogen_sulfide_S_3_amino_3_carboxypropyltransferase_c0	0.0	1000.0
+rxn06023	ZMO1709	1	CoA_apo_acyl_carrier_protein_pantetheinephosphotransferase_c0	0.0	1000.0
+rxn06060	ZMO0859 or ZMO1022 or ZMO0427	1 or 1 or 1	Thiosulfate_thiol_sulfurtransferase_c0	-1000.0	1000.0
+rxn06075	ZMO0443 or ZMO1039	1 or 1	2_Deoxyuridine_5_diphosphate_oxidized_thioredoxin_2_oxidoreductase_c0	0.0	1000.0
+rxn06076	ZMO0443 or ZMO1039	1 or 1	2_Deoxycytidine_diphosphate_oxidized_thioredoxin_2_oxidoreductase_c0	0.0	1000.0
+rxn06077	ZMO0998 and ZMO1097	1 and 1	L_methionine_oxidized_thioredoxin_S_oxidoreductase_c0	-1000.0	1000.0
+rxn06078	ZMO0676	4	O_acetyl_L_homoserine_acetate_lyase_L_homocysteine_forming_c0	0.0	1000.0
+rxn06098	ZMO1917 or ZMO1270	1 or 1	Phosphatidylcholine_sterol_O_acyltransferase_c0	-1000.0	1000.0
+rxn06099	ZMO1649	2	Steryl_ester_acylhydrolase_c0	0.0	1000.0
+rxn06280	ZMO1643	2	L-Tyrosine:tRNA(Tyr) ligase (AMP-forming)	0.0	1000.0
+rxn06297	ZMO0855	1	S_Adenosyl_L_methionine_tRNA_uridine_3_3_amino_3_carboxypropyltransferase_c0	-1000.0	1000.0
+rxn06300	ZMO0845	1	L-Alanine:tRNA(Ala) ligase (AMP-forming)	0.0	1000.0
+rxn06372	ZMO1951	1	S_Adenosyl_L_methionine_unsaturated_phospholipid_methyltransferase_methenylating_c0	-1000.0	1000.0
+rxn06386	ZMO0657	1	Acetyl_CoA_1_alkyl_sn_glycero_3_phosphate_2_O_acetyltransferase_c0	0.0	1000.0
+rxn06432	ZMO0843	1	L-Arginine:tRNA(Arg) ligase (AMP-forming)	0.0	1000.0
+rxn06434	ZMO0715	2	L-Asparagine:tRNA(Asn) ligase (AMP-forming)	0.0	1000.0
+rxn06435	ZMO0186	1	L-Cysteine:tRNA(Cys) ligase (AMP-forming)	0.0	1000.0
+rxn06437	ZMO0782 and ZMO0783 and ZMO0784	1 and 1 and 1	L-Glutamine:tRNA(Gln) ligase (AMP-forming)	0.0	1000.0
+rxn06438	ZMO1444 and ZMO1446	4 and 4	Glycine:tRNA(Gly) ligase (AMP-forming)	0.0	1000.0
+rxn06439	ZMO1508	2	L-Histidine:tRNA(His) ligase (AMP-forming)	0.0	1000.0
+rxn06440	ZMO0323	1	L-Isoleucine:tRNA(Ile) ligase (AMP-forming)	0.0	1000.0
+rxn06441	ZMO1435	1	L-Leucine:tRNA(Leu) ligase (AMP-forming)	0.0	1000.0
+rxn06442	ZMO0890	1	L-Lysine:tRNALys ligase (AMP-forming)	0.0	1000.0
+rxn06443	ZMO1092	1	L-Methionine:tRNAMet ligase (AMP-forming)	0.0	1000.0
+rxn06444	ZMO1513 and ZMO1514	4 and 4	L-Phenylalanine:tRNA(Ala) ligase (AMP-forming)	0.0	1000.0
+rxn06445	ZMO0460	2	L-Proline:tRNA(Pro) ligase (AMP-forming)	0.0	1000.0
+rxn06446	ZMO0986	2	L-Serine:tRNA(Ser) ligase (AMP-forming)	0.0	1000.0
+rxn06447	ZMO0765	2	L-Threonine:tRNA(Thr) ligase (AMP-forming)	0.0	1000.0
+rxn06448	ZMO1640	2	L-Tryptophan -tRNA(Trp) ligase (AMP-forming)	0.0	1000.0
+rxn06449	ZMO1878	1	L-Valine:tRNAVal ligase (AMP-forming)	0.0	1000.0
+rxn06515	ZMO1654	1	R03875_c0	-1000.0	1000.0
+rxn06517	ZMO0327	1	S_Alkyl_L_cysteine_S_oxide_alkyl_sulfenate_lyase_c0	-1000.0	1000.0
+rxn06526	ZMO1389	1	protein_dithiol_NADP_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn06538	ZMO0811	1	10-Formyltetrahydrofolate:L-methionyl-tRNA N-formyltransferase	0.0	1000.0
+rxn06570	ZMO1654	1	S_Adenosyl_L_methionine_calmodulin_L_lysine_N6_methyltransferase_c0	-1000.0	1000.0
+rxn06672	(ZMO0735 and ZMO1868 and ZMO0736)	(1 and 1 and 1)	biotin_carboxyl_carrier_protein_carbon_dioxide_ligase_ADP_forming_c0	-1000.0	1000.0
+rxn06673	(ZMO0599 and ZMO0583)	(1 and 1)	Acetyl_CoA_carbon_dioxide_ligase_ADP_forming_c0	0.0	1000.0
+rxn06728	ZMO0855	1	CMP_N_acetylneuraminate_alpha_N_acetylneuraminyl_2_3_beta_D_galactoside_alpha_2_8_N_acetylneuraminyltransferase_c0	-1000.0	1000.0
+rxn06735	ZMO0855	1	CMP_N_acetylneuraminate_alpha_N_acetylneuraminyl_2_3_beta_D_galactoside_alpha_2_8_N_acetylneuraminyltransferase_c0	-1000.0	1000.0
+rxn06750	ZMO0855	1	R04632_c0	-1000.0	1000.0
+rxn06759	ZMO0855	1	R04649_c0	-1000.0	1000.0
+rxn06804	ZMO1654	1	S_adenosyl_L_methionine_cytochrome_c_L_lysine_N6_methyltransferase_c0	-1000.0	1000.0
+rxn06805	ZMO1654	1	S_adenosyl_L_methionine_cytochrome_c_L_lysine_N6_methyltransferase_c0	-1000.0	1000.0
+rxn06870	ZMO1197	1	Protein_L_serine_epimerase_c0	-1000.0	1000.0
+rxn06874	ZMO1824 or ZMO1825 or ZMO1823	4 or 4 or 2	reduced_ferredoxin_dinitrogen_oxidoreductase_ATP_hydrolysing_c0	0.0	1000.0
+rxn06936	ZMO0715	2	L-Aspartate:tRNA(Asp) ligase (AMP-forming)	0.0	1000.0
+rxn06937	ZMO1964 or ZMO0900	1 or 1	L_glutamate_tRNAGlu_ligase_AMP_forming_c0	0.0	1000.0
+rxn07056	ZMO0658	1	R06134_c0	0.0	1000.0
+rxn07099	ZMO0103 or ZMO1967	1 or 1	Penicillin_hydrolase_c0	0.0	1000.0
+rxn07100	ZMO0828	1	CDPethanolamine_1_alkyl_2_acylglycerol_ethanolaminephosphotransferase_c0	-1000.0	1000.0
+rxn07181	ZMO0869	1	2_S_glutathionylacetyl_chloride_glutathione_2_S_glutathionylacetyltransferase_c0	-1000.0	1000.0
+rxn07230	ZMO0734	1	1_phosphatidyl_1D_myo_inositol_3_4_bisphosphate_4_phosphohydrolase_c0	0.0	1000.0
+rxn07261	ZMO0828	1	R07384_c0	-1000.0	1000.0
+rxn07292	ZMO1834	2	L-cysteine:[ThiI] sulfurtransferase	-1000.0	1000.0
+rxn07312	ZMO1755	2	R07481_c0	-1000.0	1000.0
+rxn07449	ZMO0760	1	3_sulfolactate_bisulfite_lyase_c0	0.0	1000.0
+rxn07454	ZMO1592	1	Z_phenylacetaldehyde_oxime_hydro_lyase_c0	-1000.0	1000.0
+rxn07579	ZMO1692	1	R07765_c0	-1000.0	1000.0
+rxn07670	ZMO0498	3	hydroxycinnamoyl_CoA_anthocyanidin_3_5_diglucoside_5_O_glucoside_6_O_hydroxycinnamoyltransferase_c0	0.0	1000.0
+rxn07672	ZMO0498	3	hydroxycinnamoyl_CoA_anthocyanidin_3_5_diglucoside_5_O_glucoside_6_O_hydroxycinnamoyltransferase_c0	-1000.0	1000.0
+rxn07673	ZMO0498	3	hydroxycinnamoyl_CoA_anthocyanidin_3_5_diglucoside_5_O_glucoside_6_O_hydroxycinnamoyltransferase_c0	-1000.0	1000.0
+rxn07720	ZMO0498	3	hydroxycinnamoyl_CoA_anthocyanidin_3_5_diglucoside_5_O_glucoside_6_O_hydroxycinnamoyltransferase_c0	-1000.0	1000.0
+rxn07721	ZMO0498	3	hydroxycinnamoyl_CoA_anthocyanidin_3_5_diglucoside_5_O_glucoside_6_O_hydroxycinnamoyltransferase_c0	0.0	1000.0
+rxn07734	ZMO0498	3	hydroxycinnamoyl_CoA_anthocyanidin_3_5_diglucoside_5_O_glucoside_6_O_hydroxycinnamoyltransferase_c0	0.0	1000.0
+rxn07841	ZMO1006	1	2_Isopentenyl_diphosphate_ATP_delta2_isopentenyltransferase_c0	0.0	1000.0
+rxn07842	ZMO1006	1	2_Isopentenyl_diphosphate_ADP_delta2_isopentenyltransferase_c0	-1000.0	1000.0
+rxn07875	ZMO1407	2	R08086_c0	-1000.0	1000.0
+rxn07876	ZMO1407	2	R08087_c0	-1000.0	1000.0
+rxn07885	ZMO1407	2	R08096_c0	-1000.0	1000.0
+rxn07976	ZMO1146	1	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C12:1)	-1000.0	1000.0
+rxn07977	ZMO1146	1	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C14:1)	-1000.0	1000.0
+rxn07978	ZMO1146	1	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C16:1)	-1000.0	1000.0
+rxn07979	ZMO1146	1	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C18:0)	-1000.0	1000.0
+rxn07980	ZMO1146	1	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C18:1)	-1000.0	1000.0
+rxn07987	ZMO1222	4	3-oxoacyl-[acyl-carrier-protein] reductase (n-C12:1)	-1000.0	1000.0
+rxn07989	ZMO1222	4	3-oxoacyl-[acyl-carrier-protein] reductase (n-C14:1)	-1000.0	1000.0
+rxn07991	ZMO1222	4	3-oxoacyl-[acyl-carrier-protein] reductase (n-C16:1)	-1000.0	1000.0
+rxn07992	ZMO1222	4	3-oxoacyl-[acyl-carrier-protein] reductase (n-C18:0)	-1000.0	1000.0
+rxn07993	ZMO1222	4	3-oxoacyl-[acyl-carrier-protein] reductase (n-C18:1)	-1000.0	1000.0
+rxn07997	ZMO1278	1	3-oxoacyl-[acyl-carrier-protein] synthase (n-C12:1)	0.0	1000.0
+rxn07998	ZMO1278	1	3-oxoacyl-[acyl-carrier-protein] synthase (n-C14:1)	0.0	1000.0
+rxn08000	ZMO1278	1	3-oxoacyl-[acyl-carrier-protein] synthase (n-C16:1)	0.0	1000.0
+rxn08001	ZMO1278	1	3-oxoacyl-[acyl-carrier-protein] synthase (n-C18:0)	0.0	1000.0
+rxn08002	ZMO1278	1	3-oxoacyl-[acyl-carrier-protein] synthase (n-C18:1)	0.0	1000.0
+rxn08044	ZMO1294	1	N-acetylmuramate 6-phosphate hydrolase	0.0	1000.0
+rxn08075	ZMO0581	1	GlcNAc-anhMurNAc tripeptide transport in via proton symport (periplasm)	-1000.0	1000.0
+rxn08080	ZMO1171	1	N-Acetyl-D-glucosamine(anhydrous)N-Acetylmuramyl beta -1,4-N-acetylglucosaminidase	0.0	1000.0
+rxn08083	ZMO0419 or ZMO0099	1 or 1	1_tetradecanoyl_sn_glycerol_3_phosphate_O_acyltransferase_n_C12_0_c0	0.0	1000.0
+rxn08084	ZMO0419 or ZMO0099	1 or 1	1_tetradecanoyl_sn_glycerol_3_phosphate_O_acyltransferase_n_C14_0_c0	0.0	1000.0
+rxn08085	ZMO0419 or ZMO0099	1 or 1	1_tetradec_7_enoyl_sn_glycerol_3_phosphate_O_acyltransferase_n_C14_1_c0	0.0	1000.0
+rxn08086	ZMO0099 or ZMO0419	1 or 1	1_hexadecanoyl_sn_glycerol_3_phosphate_O_acyltransferase_n_C16_0_c0	0.0	1000.0
+rxn08087	ZMO0099 or ZMO0419	1 or 1	1_hexadec_7_enoyl_sn_glycerol_3_phosphate_O_acyltransferase_n_C16_1_c0	0.0	1000.0
+rxn08088	ZMO0419 or ZMO0099	1 or 1	1_octadecanoyl_sn_glycerol_3_phosphate_O_acyltransferase_n_C18_0_c0	0.0	1000.0
+rxn08089	ZMO0419 or ZMO0099	1 or 1	1_octadec_7_enoyl_sn_glycerol_3_phosphate_O_acyltransferase_n_C18_1_c0	0.0	1000.0
+rxn08100	ZMO1228	1	RXN0-5228.c	-1000.0	1000.0
+rxn08103	ZMO1347 or ZMO1201	4 or 2	alanine transaminase	0.0	1000.0
+rxn08131	ZMO0172	2	4-amino-2-methyl-5-phosphomethylpyrimidine synthetase	0.0	1000.0
+rxn08136	ZMO1642	1	1,6-anhydrous-N-Acetylmuramate kinase	0.0	1000.0
+rxn08154	ZMO1973	1	L-arginine transport out via proton antiport (cytoplasm to periplasm)	0.0	1000.0
+rxn08168	ZMO0144	1	L-aspartate oxidase	0.0	1000.0
+rxn08173	(ZMO0241 and ZMO0242 and ZMO2005 and ZMO0239 and ZMO0238 and ZMO0240 and ZMO0671 and  ZMO0669 and  ZMO0668 and  ZMO0667)	(1 and 1 and 1 and 1 and 1 and 1 and 1 and  1 and  1 and  1)	ATP synthase (four protons for one ATP) (periplasm)	-1000.0	1000.0
+rxn08180	ZMO0094	2	Biotin_synthase_c0	0.0	1000.0
+rxn08181	(ZMO1262 and ZMO1263 and ZMO1261)	(1 and 5 and 1)	butanesulfonate transport via ABC system (periplasm)	0.0	1000.0
+rxn08188	ZMO0866	1	calcium / sodium antiporter (1:1)	-1000.0	1000.0
+rxn08196	ZMO0866	1	TRANS-RXN0-244.cp	-1000.0	1000.0
+rxn08227	ZMO0314	1	cardiolipin synthase (periplasmic, n-C14:0)	-1000.0	1000.0
+rxn08229	ZMO0314	1	cardiolipin synthase (periplasmic, n-C16:0)	-1000.0	1000.0
+rxn08230	ZMO0314	1	cardiolipin synthase (periplasmic, n-C16:1)	-1000.0	1000.0
+rxn08232	ZMO0314	1	cardiolipin synthase (periplasmic, n-C18:1)	-1000.0	1000.0
+rxn08233	ZMO0547 or ZMO0841 or ZMO0866	1 or 1 or 1	chloride transport out via proton antiport (2:1) (periplasm)	-1000.0	1000.0
+rxn08240	ZMO1766	1	cobalt (Co+2) transport out via proton antiport (periplasm)	-1000.0	1000.0
+rxn08306	ZMO1151	1	CDP_diacylglycerol_synthetase_n_C12_0_c0	0.0	1000.0
+rxn08307	ZMO1151	1	CDP_diacylglycerol_synthetase_n_C14_0_c0	0.0	1000.0
+rxn08308	ZMO1151	1	CDP_diacylglycerol_synthetase_n_C14_1_c0	0.0	1000.0
+rxn08309	ZMO1151	1	CDP_diacylglycerol_synthetase_n_C16_0_c0	0.0	1000.0
+rxn08310	ZMO1151	1	CDP_diacylglycerol_synthetase_n_C16_1_c0	0.0	1000.0
+rxn08311	ZMO1151	1	CDP_diacylglycerol_synthetase_n_C18_0_c0	0.0	1000.0
+rxn08312	ZMO1151	1	CDP_diacylglycerol_synthetase_n_C18_1_c0	0.0	1000.0
+rxn08352	ZMO0875	1	R08210_c0	0.0	1000.0
+rxn08386	ZMO1692	1	enoyl-[acyl-carrier-protein] reductase (NADH) (n-C12:1)	0.0	1000.0
+rxn08390	ZMO1692	1	enoyl-[acyl-carrier-protein] reductase (NADH) (n-C14:1)	0.0	1000.0
+rxn08392	ZMO1692	1	trans hexadecenoyl-[acp] reductase	0.0	1000.0
+rxn08393	ZMO1692	1	trans hexadecenoyl-[acp] reductase (NADPH, B-specific)	0.0	1000.0
+rxn08394	ZMO1692	1	enoyl-[acyl-carrier-protein] reductase (NADH) (n-C16:1)	0.0	1000.0
+rxn08398	ZMO1692	1	enoyl-[acyl-carrier-protein] reductase (NADH) (n-C18:1)	0.0	1000.0
+rxn08423	ZMO1378	1	ethanolamine transport in via proton symport	-1000.0	1000.0
+rxn08425	(ZMO1261 and ZMO1262 and ZMO1263)	(1 and 1 and 5)	ethanesulfonate transport via ABC system (periplasm)	0.0	1000.0
+rxn08438	ZMO1302	1	fatty-acyl-ACP hydrolase	0.0	1000.0
+rxn08459	(ZMO0008 and ZMO0009)	(2 and 2)	FAD reductase	0.0	1000.0
+rxn08472	ZMO1541	1	iron (II) transport via ABC system (periplasm)	0.0	1000.0
+rxn08521	ZMO0914	2	reduced_riboflavin_NAD_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn08537_p	ZMO0366	1	D_fructose transporter	0.0	1000.0
+rxn08546	(ZMO1195 and ZMO1900)	(1 and 2)	glycerol_3_phosphate_acyltransferase_C12_0_c0	0.0	1000.0
+rxn08547	(ZMO1195 and ZMO1900)	(1 and 2)	glycerol_3_phosphate_acyltransferase_C14_0_c0	0.0	1000.0
+rxn08548	(ZMO1195 and ZMO1900)	(1 and 2)	glycerol_3_phosphate_acyltransferase_C14_1_c0	0.0	1000.0
+rxn08549	(ZMO1195 and ZMO1900)	(1 and 2)	glycerol_3_phosphate_acyltransferase_C16_0_c0	0.0	1000.0
+rxn08550	(ZMO1195 and ZMO1900)	(1 and 2)	glycerol_3_phosphate_acyltransferase_C16_1_c0	0.0	1000.0
+rxn08551	(ZMO1900 and ZMO1195)	(2 and 1)	glycerol_3_phosphate_acyltransferase_C18_0_c0	0.0	1000.0
+rxn08552	(ZMO1900 and ZMO1195)	(2 and 1)	glycerol_3_phosphate_acyltransferase_C18_1_c0	0.0	1000.0
+rxn08608_q10	ZMO0558	1	Glucose dehydrogenase (ubiquinone-10)	0.0	1000.0
+rxn08609	ZMO1756	1	D-gluconate transport via proton symport, reversible (periplasm)	-1000.0	1000.0
+rxn08616	ZMO0366	1	D-glucose transport in via proton symport (periplasm)	0.0	1000.0
+rxn08668	ZMO0168	1	Glycerophosphodiester phosphodiesterase (Glycerophosphoserine)	0.0	1000.0
+rxn08669	ZMO0168	1	GLYCPDIESTER-RXN.c.chlamyexp.GLYCEROL_GLYCEROPHOSPHOGLYCEROL	0.0	1000.0
+rxn08756	ZMO0875	1	isopentenyl_diphosphate_NAD_plus__oxidoreductase_c0	0.0	1000.0
+rxn08758	(ZMO1261 and ZMO1263 and ZMO1262)	(1 and 5 and 1)	isethionate transport via ABC system (periplasm)	0.0	1000.0
+rxn08760	ZMO0276 and ZMO0275 and ZMO0277 and ZMO1393 and ZMO1394	1 and 1 and 1 and 1 and 1	KDO(2)-lipid IV A transport via ABC system (periplasm)	0.0	1000.0
+rxn08769	ZMO1209	1	potassium transport in via proton symport (periplasm)	0.0	1000.0
+rxn08771	ZMO1785 or ZMO1781 or ZMO1331	1 or 1 or 1	potassium transport via diffusion (extracellular to periplasm)	-1000.0	1000.0
+rxn08796	ZMOp39x018	1	Lysophospholipase_L1_2_acylglycerophosphotidate__n_C12_0_periplasm_c0	0.0	1000.0
+rxn08797	ZMOp39x018	1	Lysophospholipase_L1_2_acylglycerophosphotidate__n_C14_0_periplasm_c0	0.0	1000.0
+rxn08798	ZMOp39x018	1	Lysophospholipase_L1_2_acylglycerophosphotidate__n_C14_1_periplasm_c0	0.0	1000.0
+rxn08799	ZMOp39x018	1	Lysophospholipase_L1_2_acylglycerophosphotidate__n_C16_0_periplasm_c0	0.0	1000.0
+rxn08800	ZMOp39x018	1	Lysophospholipase_L1_2_acylglycerophosphotidate__n_C16_1_periplasm_c0	0.0	1000.0
+rxn08801	ZMOp39x018	1	Lysophospholipase_L1_2_acylglycerophosphotidate__n_C18_0_periplasm_c0	0.0	1000.0
+rxn08802	ZMOp39x018	1	Lysophospholipase_L1_2_acylglycerophosphotidate__n_C18_1_periplasm_c0	0.0	1000.0
+rxn08817	ZMOp39x018	1	Lysophospholipase_L2_2_acylglycerophosphotidate__n_C12_0_c0	0.0	1000.0
+rxn08818	ZMOp39x018	1	Lysophospholipase_L2_2_acylglycerophosphotidate__n_C14_0_c0	0.0	1000.0
+rxn08819	ZMOp39x018	1	Lysophospholipase_L2_2_acylglycerophosphotidate__n_C14_1_c0	0.0	1000.0
+rxn08820	ZMOp39x018	1	Lysophospholipase_L2_2_acylglycerophosphotidate__n_C16_0_c0	0.0	1000.0
+rxn08821	ZMOp39x018	1	Lysophospholipase_L2_2_acylglycerophosphotidate__n_C16_1_c0	0.0	1000.0
+rxn08822	ZMOp39x018	1	Lysophospholipase_L2_2_acylglycerophosphotidate__n_C18_0_c0	0.0	1000.0
+rxn08823	ZMOp39x018	1	Lysophospholipase_L2_2_acylglycerophosphotidate__n_C18_1_c0	0.0	1000.0
+rxn08838	ZMOp39x018	1	Lysophospholipase_L2_2_acylglycerophosphoethanolamine__n_C12_0_c0	0.0	1000.0
+rxn08839	ZMOp39x018	1	Lysophospholipase_L2_2_acylglycerophosphoethanolamine__n_C14_0_c0	0.0	1000.0
+rxn08840	ZMOp39x018	1	Lysophospholipase_L2_2_acylglycerophosphoethanolamine__n_C14_1_c0	0.0	1000.0
+rxn08841	ZMOp39x018	1	Lysophospholipase_L2_2_acylglycerophosphoethanolamine__n_C16_0_c0	0.0	1000.0
+rxn08842	ZMOp39x018	1	Lysophospholipase_L2_2_acylglycerophosphoethanolamine__n_C16_1_c0	0.0	1000.0
+rxn08843	ZMOp39x018	1	Lysophospholipase_L2_2_acylglycerophosphoethanolamine__n_C18_0_c0	0.0	1000.0
+rxn08844	ZMOp39x018	1	Lysophospholipase_L2_2_acylglycerophosphoethanolamine__n_C18_1_c0	0.0	1000.0
+rxn08845	ZMOp39x018	1	Lysophospholipase_L2_2_acylglycerophosphoglycerol__n_C12_0_c0	0.0	1000.0
+rxn08846	ZMOp39x018	1	Lysophospholipase_L2_2_acylglycerophosphoglycerol__n_C14_0_c0	0.0	1000.0
+rxn08847	ZMOp39x018	1	Lysophospholipase_L2_2_acylglycerophosphoglycerol__n_C14_1_c0	0.0	1000.0
+rxn08848	ZMOp39x018	1	Lysophospholipase_L2_2_acylglycerophosphoglycerol__n_C16_0_c0	0.0	1000.0
+rxn08849	ZMOp39x018	1	Lysophospholipase_L2_2_acylglycerophosphoglycerol__n_C16_1_c0	0.0	1000.0
+rxn08850	ZMOp39x018	1	Lysophospholipase_L2_2_acylglycerophosphoglycerol__n_C18_0_c0	0.0	1000.0
+rxn08851	ZMOp39x018	1	Lysophospholipase_L2_2_acylglycerophosphoglycerol__n_C18_1_c0	0.0	1000.0
+rxn08855	ZMO0047 or ZMO1973 or ZMO1437	1 or 1 or 1	L-lysine transport out via proton antiport (cytoplasm to periplasm)	0.0	1000.0
+rxn08921	ZMO0866 or ZMO0770	1 or 2	magnesium (Mg+2) transport in/out via proton antiport (periplasm)	-1000.0	1000.0
+rxn08922	ZMO1766	1	magnesium (Mg+2) transport via diffusion (extracellular to periplasm)	-1000.0	1000.0
+rxn08959	(ZMO1263 and ZMO1262 and ZMO1261)	(5 and 1 and 1)	methanesulfonate transport via ABC system (periplasm)	0.0	1000.0
+rxn08983	ZMO0119	1	Sodium/proton antiport	-1000.0	1000.0
+rxn08987	ZMO0346	1	ammonia reversible transport (periplasm)	-1000.0	1000.0
+rxn08990	ZMO0866	1	nickle (Ni+2) transport out via proton antiport (periplasm)	-1000.0	1000.0
+rxn09013	ZMO1095	1	RXN0-384.c	0.0	1000.0
+rxn09014	ZMO1095	1	RXN0-5107.c	0.0	1000.0
+rxn09016	ZMO1485 or ZMO0842	1 or 1	Nucleoside triphosphate tripolyhydrolase	-1000.0	1000.0
+rxn09108	ZMO0096	1	Phosphatidylglycerol_synthase_n_C12_0_c0	-1000.0	1000.0
+rxn09109	ZMO0096	1	Phosphatidylglycerol_synthase_n_C14_0_c0	-1000.0	1000.0
+rxn09110	ZMO0096	1	Phosphatidylglycerol_synthase_n_C14_1_c0	-1000.0	1000.0
+rxn09111	ZMO0096	1	Phosphatidylglycerol_synthase_n_C16_0_c0	-1000.0	1000.0
+rxn09112	ZMO0096	1	Phosphatidylglycerol_synthase_n_C16_1_c0	-1000.0	1000.0
+rxn09113	ZMO0096	1	Phosphatidylglycerol_synthase_n_C18_0_c0	-1000.0	1000.0
+rxn09114	ZMO0096	1	Phosphatidylglycerol_synthase_n_C18_1_c0	-1000.0	1000.0
+rxn09115	ZMO0260 and ZMO0262	1 and 1	protoheme transport via ABC system (periplasm)	0.0	1000.0
+rxn09122	(ZMO1048 and ZMO1050 and ZMO1049 and ZMO1047)	(1 and 5 and 1 and 5)	ABC-27-RXN.cp	0.0	1000.0
+rxn09176	ZMO0712	1	polyphosphate kinase	0.0	1000.0
+rxn09177	ZMO1190	1	R_4_Phosphopantothenate_L_cysteine_ligase_c0	0.0	1000.0
+rxn09197	ZMO1160	1	Phosphatidylserine_decarboxylase_n_C12_0_c0	0.0	1000.0
+rxn09198	ZMO1160	1	Phosphatidylserine_decarboxylase_n_C14_0_c0	0.0	1000.0
+rxn09199	ZMO1160	1	Phosphatidylserine_decarboxylase_n_C14_1_c0	0.0	1000.0
+rxn09200	ZMO1160	1	Phosphatidylserine_decarboxylase_n_C16_0_c0	0.0	1000.0
+rxn09201	ZMO1160	1	Phosphatidylserine_decarboxylase_n_C16_1_c0	0.0	1000.0
+rxn09202	ZMO1160	1	Phosphatidylserine_decarboxylase_n_C18_0_c0	0.0	1000.0
+rxn09203	ZMO1160	1	Phosphatidylserine_decarboxylase_n_C18_1_c0	0.0	1000.0
+rxn09205	ZMO1159	1	Phosphatidylserine_syntase_n_C12_0_c0	0.0	1000.0
+rxn09206	ZMO1159	1	Phosphatidylserine_syntase_n_C14_0_c0	0.0	1000.0
+rxn09207	ZMO1159	1	Phosphatidylserine_syntase_n_C14_1_c0	0.0	1000.0
+rxn09208	ZMO1159	1	Phosphatidylserine_syntase_n_C16_0_c0	0.0	1000.0
+rxn09209	ZMO1159	1	Phosphatidylserine_syntase_n_C16_1_c0	0.0	1000.0
+rxn09210	ZMO1159	1	Phosphatidylserine_syntase_n_C18_0_c0	0.0	1000.0
+rxn09211	ZMO1159	1	Phosphatidylserine_syntase_n_C18_1_c0	0.0	1000.0
+rxn09240	(ZMO0005 and ZMO0004)	(1 and 1)	Sulfate_adenyltransferase_c0	0.0	1000.0
+rxn09277	(ZMO1261 and ZMO1262 and ZMO1263)	(1 and 1 and 5)	sulfoacetate transport via ABC system (periplasm)	0.0	1000.0
+rxn09285	(ZMO1262 and ZMO1263 and ZMO1261)	(1 and 5 and 1)	ABC-64-RXN.cp	0.0	1000.0
+rxn09310	ZMO0738 and ZMO0751 and ZMO0859 or ZMO0738 and ZMO0751 and ZMO0427 or ZMO0738 and ZMO0751 and ZMO1022	4 and 1 and 1 or 4 and 1 and 1 or 4 and 1 and 1	thiazole_phosphate_synthesis_c0	0.0	1000.0
+rxn09345	ZMO1152	2	Undecaprenyl_diphosphate_synthase_c0	-1000.0	1000.0
+rxn09389	ZMO0866	1	TRANS-RXN0-200.cp	-1000.0	1000.0
+rxn09562	ZMO0433	1	Guanylate_kinase_c0	-1000.0	1000.0
+rxn09685	ZMO0967	1	TRANS_RXN_108Fcp_c0	-1000.0	1000.0
+rxn09687	ZMO0967	1	TRANS_RXN_108Ecp_c0	-1000.0	1000.0
+rxn09688	ZMO0967	1	deoxyguanosine_transport_in_via_proton_symport_periplasm_c0	-1000.0	1000.0
+rxn10010	ZMO0485	1	trans_2_hexenoyl_CoA__reductase_NAD_plus__c0	0.0	1000.0
+rxn10011	ZMO0485	1	acyl_CoA_dehydrogenase_octanoyl_CoA_c0	0.0	1000.0
+rxn10012	ZMO0485	1	acyl_CoA_dehydrogenase_decanoyl_CoA_c0	0.0	1000.0
+rxn10013	ZMO0485	1	acyl_CoA_dehydrogenase_dodecanoyl_CoA_c0	0.0	1000.0
+rxn10014	ZMO0485	1	acyl_CoA_dehydrogenase_tetradecanoyl_CoA_c0	0.0	1000.0
+rxn10052	ZMO0538	1	adenylate_kinase_Inorganic_triphosphate_c0	-1000.0	1000.0
+rxn10060	ZMO1329	1	NAD_kinase_dTTP_c0	0.0	1000.0
+rxn10132	ZMO0052	1	Cyanate_transport_via_proton_symport_periplasm_c0	-1000.0	1000.0
+rxn10147	(ZMO0978 and ZMO0979)	(1 and 1)	ABC_5_RXNcp_c0	0.0	1000.0
+rxn10199	ZMO0499 or ZMO0197	1 or 1	Peptidoglycan_subunit_synthesis_c0	-1000.0	1000.0
+rxn10202	(ZMO1900 and ZMO1195)	(2 and 1)	glycerol_3_phosphate__acyl_coa_acyltransferase_16_0_c0	0.0	1000.0
+rxn10203	(ZMO1195 and ZMO1900)	(1 and 2)	myristoyl_glycerol_3_phosphate_O_acyltransferase_c0	0.0	1000.0
+rxn10204	(ZMO1195 and ZMO1900)	(1 and 2)	acyl_CoA_sn_glycerol_3_phosphate_1_O_acyltransferase_c0	0.0	1000.0
+rxn10205	(ZMO1195 and ZMO1900)	(1 and 2)	isoheptadecanoyl_glycerol_3_phosphate_O_acyltransferase_c0	0.0	1000.0
+rxn10206	(ZMO1900 and ZMO1195)	(2 and 1)	anteisoheptadecanoyl_glycerol_3_phosphate_O_acyltransferase_c0	0.0	1000.0
+rxn10207	(ZMO1195 and ZMO1900)	(1 and 2)	isotetradecanoyl_glycerol_3_phosphate_O_acyltransferase_c0	0.0	1000.0
+rxn10208	(ZMO1195 and ZMO1900)	(1 and 2)	isopentadecanoyl_glycerol_3_phosphate_O_acyltransferase_c0	0.0	1000.0
+rxn10209	(ZMO1195 and ZMO1900)	(1 and 2)	anteisopentadecanoyl_glycerol_3_phosphate_O_acyltransferase_c0	0.0	1000.0
+rxn10210	(ZMO1900 and ZMO1195)	(2 and 1)	isohexadecanoyl_glycerol_3_phosphate_O_acyltransferase_c0	0.0	1000.0
+rxn10211	ZMO0099 or ZMO0419	1 or 1	palmitoyl_1_acylglycerol_3_phosphate_O_acyltransferase_c0	0.0	1000.0
+rxn10212	ZMO0099 or ZMO0419	1 or 1	myristoyl_1_acylglycerol_3_phosphate_O_acyltransferase_c0	0.0	1000.0
+rxn10213	ZMO0099 or ZMO0419	1 or 1	stearoyl_1_acylglycerol_3_phosphate_O_acyltransferase_c0	0.0	1000.0
+rxn10214	ZMO0099 or ZMO0419	1 or 1	isoheptadecanoyl_1_acylglycerol_3_phosphate_O_acyltransferase_c0	0.0	1000.0
+rxn10215	ZMO0099 or ZMO0419	1 or 1	anteisoheptadecanoyl_1_acylglycerol_3_phosphate_O_acyltransferase_c0	0.0	1000.0
+rxn10216	ZMO0099 or ZMO0419	1 or 1	isotetradecanoyl_1_acylglycerol_3_phosphate_O_acyltransferase_c0	0.0	1000.0
+rxn10217	ZMO0419 or ZMO0099	1 or 1	isopentadecanoyl_1_acylglycerol_3_phosphate_O_acyltransferase_c0	0.0	1000.0
+rxn10218	ZMO0099 or ZMO0419	1 or 1	anteisopentadecanoyl_1_acylglycerol_3_phosphate_O_acyltransferase_c0	0.0	1000.0
+rxn10219	ZMO0099 or ZMO0419	1 or 1	isohexadecanoyl_1_acylglycerol_3_phosphate_O_acyltransferase_c0	0.0	1000.0
+rxn10220	ZMO1151	1	isoheptadecanoyl_phosphatidate_cytidylyltransferase_c0	0.0	1000.0
+rxn10221	ZMO1151	1	anteisoheptadecanoyl_phosphatidate_cytidylyltransferase_c0	0.0	1000.0
+rxn10222	ZMO1151	1	isotetradecanoyl_phosphatidate_cytidylyltransferase_c0	0.0	1000.0
+rxn10223	ZMO1151	1	isopentadecanoyl_phosphatidate_cytidylyltransferase_c0	0.0	1000.0
+rxn10224	ZMO1151	1	anteisopentadecanoyl_phosphatidate_cytidylyltransferase_c0	0.0	1000.0
+rxn10225	ZMO1151	1	isohexadecanoyl_phosphatidate_cytidylyltransferase_c0	0.0	1000.0
+rxn10226	ZMO1159	1	isoheptadecanoyl_CDPdiacylglycerol_serine_O_phosphatidyltransferase_c0	0.0	1000.0
+rxn10227	ZMO1159	1	anteisoheptadecanoyl_CDPdiacylglycerol_serine_O_phosphatidyltransferase_c0	0.0	1000.0
+rxn10228	ZMO1159	1	isotetradecanoyl_CDPdiacylglycerol_serine_O_phosphatidyltransferase_c0	0.0	1000.0
+rxn10229	ZMO1159	1	isopentadecanoyl_CDPdiacylglycerol_serine_O_phosphatidyltransferase_c0	0.0	1000.0
+rxn10230	ZMO1159	1	anteisopentadecanoyl_CDPdiacylglycerol_serine_O_phosphatidyltransferase_c0	0.0	1000.0
+rxn10231	ZMO1159	1	isohexadecanoyl_CDPdiacylglycerol_serine_O_phosphatidyltransferase_c0	0.0	1000.0
+rxn10232	ZMO1160	1	isoheptadecanoyl_phosphatidylserine_decarboxylase_c0	0.0	1000.0
+rxn10233	ZMO1160	1	anteisoheptadecanoyl_phosphatidylserine_decarboxylase_c0	0.0	1000.0
+rxn10234	ZMO1160	1	isotetradecanoyl_phosphatidylserine_decarboxylase_c0	0.0	1000.0
+rxn10235	ZMO1160	1	isopentadecanoyl_phosphatidylserine_decarboxylase_c0	0.0	1000.0
+rxn10236	ZMO1160	1	anteisopentadecanoyl_phosphatidylserine_decarboxylase_c0	0.0	1000.0
+rxn10237	ZMO1160	1	isohexadecanoyl_phosphatidylserine_decarboxylase_c0	0.0	1000.0
+rxn10259	ZMO0096	1	isoheptadecanoyl_CDPdiacylglycerol_sn_glycerol_3_phosphate_3_phosphatidyltransferase_c0	-1000.0	1000.0
+rxn10260	ZMO0096	1	anteisoheptadecanoyl_CDPdiacylglycerol_sn_glycerol_3_phosphate_3_phosphatidyltransferase_c0	-1000.0	1000.0
+rxn10261	ZMO0096	1	isotetradecanoyl_CDPdiacylglycerol_sn_glycerol_3_phosphate_3_phosphatidyltransferase_c0	-1000.0	1000.0
+rxn10262	ZMO0096	1	isopentadecanoyl_CDPdiacylglycerol_sn_glycerol_3_phosphate_3_phosphatidyltransferase_c0	-1000.0	1000.0
+rxn10263	ZMO0096	1	anteisopentadecanoyl_CDPdiacylglycerol_sn_glycerol_3_phosphate_3_phosphatidyltransferase_c0	-1000.0	1000.0
+rxn10264	ZMO0096	1	isohexadecanoyl_CDPdiacylglycerol_sn_glycerol_3_phosphate_3_phosphatidyltransferase_c0	-1000.0	1000.0
+rxn10343	ZMO0915	1	Mercury_Hg_plus_2_ABC_transporter_periplasm_c0	0.0	1000.0
+rxn10344	ZMO0915	1	Lead_Pb_plus_2_ABC_transporter_c0	0.0	1000.0
+rxn10476	ZMO1544 or ZMO1543	1 or 1	hydrogenobyrinic_acid_a_c_diamide_cobalt_cobalt_ligase_ADP_forming_c0	0.0	1000.0
+rxn10481	ZMO0915	1	Copper_transport_via_ABC_system_c0	0.0	1000.0
+rxn10770	ZMOp33x021 or ZMO1596 or ZMO1236	1 or 4 or 1	R08557_c0	-1000.0	0.0
+rxn10902	ZMO0367	1	G6PDH1	0.0	1000.0
+rxn10996	ZMO0498	3	UAGDP2	0.0	1000.0
+rxn11567	ZMO0904	1	beta_D_Galactosyl_1_4_beta_D_glucosylceramide_galactohydrolase_c0	0.0	1000.0
+rxn11599	ZMO1967 or ZMO0103	1 or 1	R04318_c0	-1000.0	1000.0
+rxn11612	ZMO0904	1	D_Galactosyl_N_acetyl_D_galactosaminyl_N_acetylneuraminyl_D__galactosyl_D_glucosylceramide_galactohydrolase_c0	0.0	1000.0
+rxn11663	ZMO1313	2	4_phosphonooxythreonine_NAD_oxidoreductase_c0	0.0	1000.0
+rxn11749	ZMO0914	2	5_deoxy_5_fluorocytidine_aminohydrolase_c0	-1000.0	1000.0
+rxn11755	ZMO1967 or ZMO0103	1 or 1	5_6_dihydro_5_fluorouracil_amidohydrolase_c0	0.0	1000.0
+rxn11759	ZMO1557	1	5_fluorouridine_monophosphate_diphosphate_phospho_alpha_D_ribosyl_transferase_c0	-1000.0	1000.0
+rxn11808	ZMO0869	1	4_glutathionyl_cyclophosphamide_hydrolase_c0	-1000.0	0.0
+rxn11809	ZMO1596 or ZMO1236 or ZMOp33x021	4 or 1 or 1	alcophosphamide_NAD_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn11834	ZMOp33x021 or ZMO1596 or ZMO1236	1 or 4 or 1	2_phenyl_1_3_propanediol_monocarbamate_NAD_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn11838	ZMOp33x021 or ZMO1596 or ZMO1236	1 or 4 or 1	4_hydroxy_5_phenyltetrahydro_1_3_oxazin_2_one_NAD_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn11944	ZMO1000	1	Methyltransferase_c0	0.0	1000.0
+rxn11962	ZMO0918	1	R02670_c0	0.0	1000.0
+rxn12008	ZMO0855	1	R05611_c0	0.0	1000.0
+rxn12154	ZMO0869	1	R_nitrile_glutathione_R_transferase_c0	-1000.0	1000.0
+rxn12197	ZMO1649	2	gluconolactonase	0.0	1000.0
+rxn12224	ZMO1703	1	2_octaprenyl_6_methoxyphenol_hydroxylase_c0	0.0	1000.0
+rxn12510	ZMO1867	2	ATP_pantothenate_4_phosphotransferase_c0	-1000.0	1000.0
+rxn12512	ZMO1190	1	R_4_Phosphopantothenate_L_cysteine_ligase_c0	0.0	1000.0
+rxn12633	ZMO1348 or ZMO1309 or ZMO1345 or ZMO0806	1 or 1 or 1 or 1	RXN0_6975c_c0	0.0	1000.0
+rxn12634	ZMO1348 or ZMO1309 or ZMO1345 or ZMO0806	1 or 1 or 1 or 1	methionyl_aminopeptidase_c0	0.0	1000.0
+rxn12635	ZMO1348 or ZMO1309 or ZMO1345 or ZMO0806	1 or 1 or 1 or 1	RXN0_6974c_c0	0.0	1000.0
+rxn12636	ZMO1348 or ZMO1309 or ZMO1345 or ZMO0806	1 or 1 or 1 or 1	methionyl_aminopeptidase_c0	-1000.0	1000.0
+rxn12637	ZMO1348 or ZMO1309 or ZMO1345 or ZMO0806	1 or 1 or 1 or 1	RXN0_6987c_c0	0.0	1000.0
+rxn12638	ZMO1348 or ZMO1309 or ZMO1345 or ZMO0806	1 or 1 or 1 or 1	methionyl_aminopeptidase_c0	0.0	1000.0
+rxn12639	ZMO1348 or ZMO1309 or ZMO1345 or ZMO0806	1 or 1 or 1 or 1	RXN0_6976c_c0	0.0	1000.0
+rxn12640	ZMO1348 or ZMO1309 or ZMO1345 or ZMO0806	1 or 1 or 1 or 1	methionyl_aminopeptidase_c0	0.0	1000.0
+rxn12641	ZMO1348 or ZMO1309 or ZMO1345 or ZMO0806	1 or 1 or 1 or 1	RXN0_6977c_c0	0.0	1000.0
+rxn12642	ZMO1348 or ZMO1309 or ZMO1345 or ZMO0806	1 or 1 or 1 or 1	RXN0_6978c_c0	0.0	1000.0
+rxn12643	ZMO1348 or ZMO1309 or ZMO1345 or ZMO0806	1 or 1 or 1 or 1	RXN0_6979c_c0	0.0	1000.0
+rxn12644	ZMO1348 or ZMO1309 or ZMO1345 or ZMO0806	1 or 1 or 1 or 1	methionyl_aminopeptidase_c0	0.0	1000.0
+rxn12645	ZMO1348 or ZMO1309 or ZMO1345 or ZMO0806	1 or 1 or 1 or 1	methionyl_aminopeptidase_c0	0.0	1000.0
+rxn12646	ZMO1348 or ZMO1309 or ZMO1345 or ZMO0806	1 or 1 or 1 or 1	RXN0_6983c_c0	0.0	1000.0
+rxn12844	ZMO1348 or ZMO1309 or ZMO1345 or ZMO0806	1 or 1 or 1 or 1	Gly_Cys_aminopeptidase_c0	0.0	1000.0
+rxn12845	ZMO1348 or ZMO1309 or ZMO1345 or ZMO0806	1 or 1 or 1 or 1	Gly_Leu_aminopeptidase_c0	0.0	1000.0
+rxn12846	ZMO1348 or ZMO1309 or ZMO1345 or ZMO0806	1 or 1 or 1 or 1	Gly_Phe_aminopeptidase_c0	0.0	1000.0
+rxn12847	ZMO1348 or ZMO1309 or ZMO1345 or ZMO0806	1 or 1 or 1 or 1	Gly_Try_aminopeptidase_c0	0.0	1000.0
+rxn13116	ZMO0546	1	sulfate transport in via proton symport (periplasm to cytoplasm)	-1000.0	1000.0
+rxn13251	ZMO0120	1	Fumarate dependent DHORD	0.0	1000.0
+rxn13394	ZMO1360	4	pyruvate decarboxylase (acetoin-forming)	0.0	1000.0
+rxn14054	ZMOp33x021 or ZMO1236 or ZMO1596	1 or 1 or 4	trans_3_Chloro_2_propene_1_ol_NAD_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn14057	ZMO0008	2	Hydrogen-sulfide:ferredoxin oxidoreductase	-1000.0	0.0
+rxn14089	ZMOp33x021 or ZMO1596 or ZMO1236	1 or 4 or 1	cis_3_chloro_2_propene_1_ol_NAD_plus__oxidoreductase_c0	-1000.0	1000.0
+rxn14090	ZMO1138	1	dimethylallyl_diphosphate_leachianone_G_2_dimethylallyltransferase_c0	-1000.0	1000.0
+rxn14138	ZMO1806	1	Propanoyl_CoA_acetyl_CoA_C_acyltransferase_c0	-1000.0	1000.0
+rxn14293	ZMO1975	1	dTDP_4_amino_4_6_dideoxy_D_glucose_ammonia_lyase_dTDP_3_oxo_4_6_dideoxy_D_glucose_forming_c0	-1000.0	1000.0
+rxn14294	ZMO1693	4	2E_6E_farnesyl_diphosphate_lyase_3E_6E_alpha_farnesene_forming_c0	-1000.0	1000.0
+rxn15166	ZMO0327	1	L-cystathionine L-homocysteine-lyase (deaminating; pyruvate-forming)	0.0	1000.0
+rxn16373	ZMO0061	1	2,3-bisphospho-D-glycerate 3-phosphohydrolase	0.0	1000.0
+rxn16573	ZMO1916	1	pimelyl-[acyl-carrier protein] methyl ester hydrolase	0.0	1000.0
+rxn16806	ZMO0818	1	7,8-dihydroneopterin 3'-triphosphate acetaldehyde-lyase (6-carboxy-5,6,7,8-tetrahydropterin and triphosphate-forming)	0.0	1000.0
+rxn16824	ZMO1023	1	7-carboxy-7-carbaguanine:ammonia ligase (ADP-forming)	0.0	1000.0
+rxn18911	ZMO0061	1	heterotrimeric G-protein GTPase	0.0	1000.0
+rxn21734	ZMO1419	1	4-hydroxybenzoate decaprenyltransferase	0.0	1000.0
+rxn22110	ZMO1188	1	6-decaprenyl-2-methoxy-1,4-benzoquinol methylase	0.0	1000.0
+rxn22120	ZMO1654	1	3-demethylubiquinol-10,3-O-methyltransferase	0.0	1000.0
+rxn22482	ZMO1654	1	2-decaprenyl-6-hydroxyphenol methylase	0.0	1000.0
+RXN-23382	ZMO1449	1	D-arabinitol 4-dehydrogenase/mannitol 2-dehydrogenase	-1000.0	1000.0
+rxn25462	ZMO1189	1	2-decaprenylphenol-6-hydroxylase	0.0	1000.0
+rxn25463	ZMO1703	1	2-methoxy-6-(all-trans-decaprenyl)phenol-4-hydroxylase	0.0	1000.0
+rxn25464	ZMO1703 or ZMO1669	1 or 1	5-demethoxyubiquinol-10,5-hydroxylase	0.0	1000.0
+rxn25990	ZMO1410 or ZMO1586	1 or 1	hephaestin	0.0	1000.0
+rxn27697	ZMO1727	1	Alanine aminotransferase	-1000.0	0.0
+rxn29950	ZMO1683	1	L-asparaginase	0.0	1000.0
+rxn29958	ZMO0168	1	Glycerophosphodiester phosphodiesterase (Glycerophosphocholine)	0.0	1000.0
+rxn29959	ZMO0168	1	Glycerophosphodiester phosphodiesterase (Glycerophosphoethanolamine)	0.0	1000.0
+rxn29960	ZMO0168	1	Glycerophosphodiester phosphodiesterase (Glycerophosphoinositol)	0.0	1000.0
+rxn29962	ZMO1683	1	glutaminase	0.0	1000.0
+rxn29964	ZMO1388	2	glutathione hydralase (periplasmic)	0.0	1000.0
+rxn30018	ZMO0942	1	beta-fructofuranosidase	0.0	1000.0
+rxn30415	ZMO1207 or ZMO1439	1 or 1	nitrilase	-1000.0	1000.0
+rxn30633	ZMO0327	1	CYSTAGLY-RXN	0.0	1000.0
+rxn36699	ZMO0120	1	(S)-dihydroorotate:quinone oxidoreductase	0.0	1000.0
+rxn36708	ZMO0256 or ZMO1237	1 or 1	lactate oxidation	0.0	1000.0
+rxn36773	ZMO1113	1	dihydronicotinamide adenine dinucleotide-coenzyme Q reductase	0.0	1000.0
+rxn36841	ZMO1113	1	quinone reductase	0.0	1000.0
+rxn37453	(ZMO1571 and ZMO1572)	(1 and 1)	ubiquinol oxidase	0.0	1000.0
+rxn39451	ZMO0707	1	2,3,4,5-tetrahydrodipicolinate:NAD+ 4-oxidoreductase	0.0	1000.0
+rxn39452	ZMO0707	1	2,3,4,5-tetrahydrodipicolinate:NADP+ 4-oxidoreductase	0.0	1000.0
+rxn39829	ZMO0326	1	7-aminomethyl-7-carbaguanine:NADP+ oxidoreductase	0.0	1000.0
+rxn39932	ZMO0564	1	(2E,6E)-farnesyl-diphosphate:isopentenyl-diphosphate farnesyltranstransferase (adding 7 isopentenyl units)	0.0	1000.0
+rxn40142	ZMO0748	1	O3-acetyl-L-serine:L-homocysteine S-(2-amino-2-carboxyethyl)transferase	0.0	1000.0
+rxn42246	ZMO1439	1	deaminated glutathione amidase	0.0	1000.0
+rxn43433	ZMO0874	1	adenosyl hopane synthase	0.0	1000.0
+rxn43624	ZMO0871	1	squalene-associated FAD-dependent desaturase HpnE	-1000.0	0.0
+rxn45809	ZMO0873	1	ribosyl hopane synthase	0.0	1000.0
+rxn45829	ZMO0869	1	squalene synthase HpnC	0.0	1000.0
+S2FE2SR	ZMO1067 and ZMO0427 and ZMO0423 and ZMO0425 and ZMO0426	1 and 1 and 1 and 1 and 1	SUF [2Fe-2S] regeneration	0.0	1000.0
+S2FE2SS	ZMO1067 and ZMO0427 and ZMO0422 and ZMO0423 and ZMO0425 and ZMO0426	1 and 1 and 1 and 1 and 1 and 1	SUF [2Fe-2S] Synthesis	0.0	1000.0
+S2FE2SS2	ZMO1067 and ZMO0427 and ZMO0422 and ZMO0423 and ZMO0425 and ZMO0426	1 and 1 and 1 and 1 and 1 and 1	SUF [2Fe-2S] Synthesis II	0.0	1000.0
+S2FE2ST	ZMO0429 and ZMO0423 and ZMO0425 and ZMO0426	1 and 1 and 1 and 1	SUF [2Fe-2S] Transfer	0.0	1000.0
+S4FE4SR	ZMO0423 and ZMO0425 and ZMO0426	1 and 1 and 1	SUF [4Fe-4S] Reduction	0.0	1000.0
+S4FE4ST	ZMO0429 and ZMO0423 and ZMO0425 and ZMO0426	1 and 1 and 1 and 1	SUF [4Fe-4S] Transfer	0.0	1000.0
+SacB	ZMO0374	1	Sucrose metabolism, levan production	0.0	1000.0
+SacC	ZMO0375	1	Sucrose metabolism	0.0	1000.0
+SCYSDS	ZMO1067 and ZMO0427	1 and 1	SUF Cysteine desulfuration	0.0	1000.0
+THGC	ZMO0973	1	Tetrahydroxybacteriohopane-glucosamine cyclase	-1000.0	1000.0
+rxn05937	ZMO1753 and ZMO1851	1 and 1	Ferredoxin_NADP_plus__oxidoreductase_c0	-1000.0	0.0
+rxn26471	ZMO1025 and ZMO1851	1 and 1	RXN0-723.c	0.0	1000.0
+rxn26472	ZMO1025 and ZMO1851	1 and 1	RXN0-724.c	0.0	1000.0
+rxn26473	ZMO1025 and ZMO1851	1 and 1	RXN0-745.c	0.0	1000.0
+rxn26474	ZMO1025 and ZMO1851	1 and 1	RXN0-746.c	0.0	1000.0
+rxn43581	ZMO0180 and ZMO1851	1 and 1	RXN-15878	-1000.0	0.0
+rxn09069	ZMO0007 and ZMO0573 and ZMO1873 and ZMO0753	1 and 1 and 1 and 1	phosphoadenylyl-sulfate reductase (glutaredoxin)	0.0	1000.0
+rxn09231	ZMO0443 and ZMO0573 and ZMO1039 and ZMO0753 and ZMO1873	1 and 1 and 1 and 1 and 1	ribonucleoside-diphosphate reductase (ADP) (glutaredoxin)	0.0	1000.0
+rxn09232	ZMO0443 and ZMO0573 and ZMO1039 and ZMO0753 and ZMO1873	1 and 1 and 1 and 1 and 1	ribonucleoside-diphosphate reductase (GDP) (glutaredoxin)	0.0	1000.0
+rxn09233	ZMO0443 and ZMO0573 and ZMO1039 and ZMO0753 and ZMO1873	1 and 1 and 1 and 1 and 1	ribonucleoside-diphosphate reductase (CDP) (glutaredoxin)	0.0	1000.0
+rxn09234	ZMO0443 and ZMO0573 and ZMO1039 and ZMO0753 and ZMO1873	1 and 1 and 1 and 1 and 1	ribonucleoside-diphosphate reductase (UDP) (glutaredoxin)	0.0	1000.0
+rxn08670	ZMO0573 or ZMO0753 or ZMO1873	1 or 1 or 1	glutaredoxin reductase	-1000.0	1000.0
+rxn08043	ZMO1139 or ZMO1140 or ZMO1140 and ZMO0687	1 or 2 or 2 and 1	pyruvate:2-oxobutanoate acetaldehydetransferase (decarboxylating)	0.0	1000.0
+rxn08764	ZMO1141	1	ketol-acid reductoisomerase (2-Acetolactate)	-1000.0	1000.0
+rxn02944	ZMO0408	2	N2-succinyl-L-ornithine:2-oxoglutarate 5-aminotransferase	-1000.0	1000.0
+rxn05115	ZMO1420	1	5-carboxyamino-1-(5-phospho-D-ribosyl)imidazole carboxymutase	-1000.0	0.0
+rxn05114	ZMO1421	2	5-amino-1-(5-phospho-D-ribosyl)imidazole:carbon-dioxide ligase (ADP-forming)	0.0	1000.0
+rxn00938	ZMO1840	1	Nicotinamide amidohydrolase	0.0	1000.0
+rxn01670	ZMO0430 or ZMO0985	1 or 1	Nicotinamide ribonucleotide phosphohydrolase	-1000.0	1000.0
+rxn01646	ZMO1723	1	N-Ribosylnicotinamide:orthophosphate ribosyltransferase	-1000.0	1000.0
+rxn42829	ZMO0787	1	R00305	0.0	0.0
+rxn01121	ZMO0368	1	D-gluconate hydro-lyase (2-dehydro-3-deoxy-D-gluconate-forming)	0.0	1000.0
+rxn15750	ZMO0997 or ZMO1059	3 or 1	R08570	0.0	0.0
+rxn01867	ZMO1754 or ZMO1272	1 or 1	p-cumic alcohol:NAD+ oxidoreductase	-1000.0	1000.0
+rxn02028	ZMO1745 or ZMO1746	1 or 1	Trimethylaminoacetate:L-homosysteine S-methyltransferase	0.0	1000.0
+rxn00433	ZMO1441	1	sarcosine:oxygen oxidoreductase (demethylating)	0.0	1000.0
+rxn01141	ZMO1441	1	N,N-Dimethylglycine:oxygen oxidoreductase (demethylating)	0.0	1000.0
+rxn01363	ZMO0041	2	L-quinate:NAD+ 3-oxidoreductase	-1000.0	1000.0
+rxn00948	ZMO1270	1	Palmitoyl-CoA:L-serine C-palmitoyltransferase (decarboxylating)	0.0	1000.0
+rxn01418	ZMO0512	2	2-oxoadipate dehydrogenase complex	0.0	1000.0
+rxn01450	ZMO1360	4	3-(indol-3-yl)pyruvate carboxy-lyase [(2-indol-3-yl)acetaldehyde-forming]	0.0	1000.0
+rxn01937	ZMO1272 or ZMO1754	1 or 1	Indole-3-acetaldehyde:NAD+ oxidoreductase	-1000.0	1000.0
+rxn01560	ZMO0442	1	D-Mannitol-1-phosphate phosphohydrolase	0.0	1000.0
+rxn00629	ZMO1449	1	D-Mannitol:NAD+ 2-oxidoreductase	-1000.0	1000.0
+rxn15341	ZMO1596 or ZMO1771	4 or 1	Lactaldehyde:NAD+ 1-oxidoreductase	-1000.0	1000.0
+rxn01729	ZMO1754	1	glutarate-semialdehyde:NAD+ oxidoreductase	-1000.0	1000.0
+rxn00245	ZMO1307	2	(R,R)-tartrate hydro-lyase (oxaloacetate-forming)	-1000.0	1000.0
+rxn01153	ZMO1502 or ZMO1532 or ZMO1855	1 or 1 or 1	D-Glutamine amidohydrolase	0.0	1000.0
+rxn16149	ZMO0226	1	3-hydroxypropionate:NADP+ oxidoreductase	-1000.0	0.0
+rxn02260	ZMO0567 or ZMO0704 or ZMO1481	2 or 1 or 2	R03157	-1000.0	0.0
+rxn16146	ZMO0567 or ZMO0704 or ZMO1481	2 or 1 or 2	3-hydroxypropionate:CoA ligase (AMP-forming)	-1000.0	0.0
+rxn40429	ZMO0145	1	R10687	-1000.0	1000.0
+rxn07180	ZMO1026 or ZMO2070	1 or 1	Phosphatidylcholine 2-acylhydrolase	-1000.0	1000.0
+rxn56882	ZMO0115 or ZMO0913	1 or 1	RXN-20408	-1000.0	1000.0
+rxn03075	ZMO0052 or ZMO0214	1 or 1	ATP:4-methyl-5-(2-hydroxyethyl)-thiazole 2-phosphotransferase	0.0	1000.0
+rxn04142	ZMO1347	4	L-Allothreonine acetaldehyde-lyase	-1000.0	1000.0
+rxn08172	ZMO0226 or ZMO1576	1 or 1	L-allo-threonine dehydrogenase	-1000.0	1000.0
+rxn03354	ZMO1272 or ZMO1754	1 or 1	5-Hydroxyindoleacetaldehyde:NAD+ oxidoreductase	-1000.0	1000.0
+rxn16379	ZMOp33x015	1	fatty acylamide amidohydrolase	0.0	1000.0
+rxn02853	ZMO1272 or ZMO1754	1 or 1	Imidazole acetaldehyde:NAD+ oxidoreductase	0.0	1000.0

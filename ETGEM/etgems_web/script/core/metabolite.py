@@ -1,0 +1,269 @@
+from typing import (
+    TYPE_CHECKING,
+    AnyStr,
+    Dict,
+    FrozenSet,
+    Iterable,
+    Iterator,
+    List,
+    Optional,
+    Sequence,
+    Set,
+    Tuple,
+    Union,
+)
+from warnings import warn
+import re
+element_re = re.compile("([A-Z][a-z]?)([0-9.]+[0-9.]?|(?=[A-Z])?)")
+
+class Metabolite():
+    def __init__(
+        self,
+        id: str = None,
+        name: str = "",
+        compartment: str = "",
+        charge: int = 0,
+        formula: str = "",
+        concentration_ub: float = -3.912023005,
+        concentration_lb: float = -14.50865774,
+        annotation: dict = {}
+    ):
+        self.id = id
+        self.name = name
+        self.compartment = compartment
+        self.charge = charge
+        self.formula = formula
+        self.concentration_ub = concentration_ub
+        self.concentration_lb = concentration_lb
+        self.annotation = annotation
+
+    def get_concentration_ub(self):
+        """Get the upper bound of the concentration."""
+        return self.concentration_ub
+
+    def get_concentration_lb(self):
+        """Get the lower bound of the concentration."""
+        return self.concentration_lb
+    
+    def set_concentration_ub(self, concentration_ub: float) -> None:
+        """Set the upper bound of the concentration.
+
+        Arguments
+        ----------
+        concentration_ub: float
+            The upper bound of the concentration.
+        """
+        self.check_bounds(self.concentration_lb, concentration_ub)
+        self.concentration_ub = concentration_ub
+    
+    def set_concentration_lb(self, concentration_lb: float) -> None:
+        """Set the lower bound of the concentration.
+
+        Arguments
+        ----------
+        concentration_lb: float
+            The lower bound of the concentration.
+        """
+        self.check_bounds(concentration_lb, self.concentration_ub)
+        self.concentration_lb = concentration_lb
+
+    def check_bounds(self,lb: float, ub: float) -> None:
+        """Check if the lower and upper bounds are valid.
+
+        Arguments
+        ----------
+        lb: float
+            The lower bound.
+        ub: float
+            The upper bound.
+
+        Raises
+        ------
+        ValueError
+            If the lower bound is higher than upper bound.
+        """
+        if lb > ub:
+            raise ValueError(
+                f"The lower bound must be less than or equal to the upper bound "
+                f"({lb} <= {ub})."
+            )
+    
+    @property
+    def elements(self) -> Optional[Dict[str, Union[int, float]]]:
+        """Get dicitonary of elements and counts.
+
+        Dictionary of elements as keys and their count in the metabolite
+        as integer. When set, the `formula` property is updated accordingly.
+
+        Returns
+        -------
+        composition: None or Dict
+            A dictionary of elements and counts, where count is int unless it is needed
+            to be a float.
+            Returns None in case of error.
+
+        """
+        tmp_formula = self.formula
+        if tmp_formula is None:
+            return {}
+        # necessary for some old pickles which use the deprecated
+        # Formula class
+        tmp_formula = str(self.formula)
+        # commonly occurring characters in incorrectly constructed formulas
+        if "*" in tmp_formula:
+            warn(f"invalid character '*' found in formula '{self.formula}'")
+            tmp_formula = tmp_formula.replace("*", "")
+        if "(" in tmp_formula or ")" in tmp_formula:
+            warn(f"invalid formula (has parenthesis) in '{self.formula}'")
+            return None
+        composition = {}
+        parsed = element_re.findall(tmp_formula)
+        for element, count in parsed:
+            if count == "":
+                count = 1
+            else:
+                try:
+                    count = float(count)
+                    int_count = int(count)
+                    if count == int_count:
+                        count = int_count
+                    else:
+                        warn(f"{count} is not an integer (in formula {self.formula})")
+                except ValueError:
+                    warn(f"failed to parse {count} (in formula {self.formula})")
+                    return None
+            if element in composition:
+                composition[element] += count
+            else:
+                composition[element] = count
+        return composition
+
+    @property
+    def formula_weight(self) -> Union[int, float]:
+        try:
+            return sum(
+                [
+                    count * elements_and_molecular_weights[element]
+                    for element, count in self.elements.items()
+                ]
+            )
+        except KeyError as e:
+            warn(f"The element {e} does not appear in the periodic table")
+
+
+elements_and_molecular_weights = {
+    "H": 1.007940,
+    "He": 4.002602,
+    "Li": 6.941000,
+    "Be": 9.012182,
+    "B": 10.811000,
+    "C": 12.010700,
+    "N": 14.006700,
+    "O": 15.999400,
+    "F": 18.998403,
+    "Ne": 20.179700,
+    "Na": 22.989770,
+    "Mg": 24.305000,
+    "Al": 26.981538,
+    "Si": 28.085500,
+    "P": 30.973761,
+    "S": 32.065000,
+    "Cl": 35.453000,
+    "Ar": 39.948000,
+    "K": 39.098300,
+    "Ca": 40.078000,
+    "Sc": 44.955910,
+    "Ti": 47.867000,
+    "V": 50.941500,
+    "Cr": 51.996100,
+    "Mn": 54.938049,
+    "Fe": 55.845000,
+    "Co": 58.933200,
+    "Ni": 58.693400,
+    "Cu": 63.546000,
+    "Zn": 65.409000,
+    "Ga": 69.723000,
+    "Ge": 72.640000,
+    "As": 74.921600,
+    "Se": 78.960000,
+    "Br": 79.904000,
+    "Kr": 83.798000,
+    "Rb": 85.467800,
+    "Sr": 87.620000,
+    "Y": 88.905850,
+    "Zr": 91.224000,
+    "Nb": 92.906380,
+    "Mo": 95.940000,
+    "Tc": 98.000000,
+    "Ru": 101.070000,
+    "Rh": 102.905500,
+    "Pd": 106.420000,
+    "Ag": 107.868200,
+    "Cd": 112.411000,
+    "In": 114.818000,
+    "Sn": 118.710000,
+    "Sb": 121.760000,
+    "Te": 127.600000,
+    "I": 126.904470,
+    "Xe": 131.293000,
+    "Cs": 132.905450,
+    "Ba": 137.327000,
+    "La": 138.905500,
+    "Ce": 140.116000,
+    "Pr": 140.907650,
+    "Nd": 144.240000,
+    "Pm": 145.000000,
+    "Sm": 150.360000,
+    "Eu": 151.964000,
+    "Gd": 157.250000,
+    "Tb": 158.925340,
+    "Dy": 162.500000,
+    "Ho": 164.930320,
+    "Er": 167.259000,
+    "Tm": 168.934210,
+    "Yb": 173.040000,
+    "Lu": 174.967000,
+    "Hf": 178.490000,
+    "Ta": 180.947900,
+    "W": 183.840000,
+    "Re": 186.207000,
+    "Os": 190.230000,
+    "Ir": 192.217000,
+    "Pt": 195.078000,
+    "Au": 196.966550,
+    "Hg": 200.590000,
+    "Tl": 204.383300,
+    "Pb": 207.200000,
+    "Bi": 208.980380,
+    "Po": 209.000000,
+    "At": 210.000000,
+    "Rn": 222.000000,
+    "Fr": 223.000000,
+    "Ra": 226.000000,
+    "Ac": 227.000000,
+    "Th": 232.038100,
+    "Pa": 231.035880,
+    "U": 238.028910,
+    "Np": 237.000000,
+    "Pu": 244.000000,
+    "Am": 243.000000,
+    "Cm": 247.000000,
+    "Bk": 247.000000,
+    "Cf": 251.000000,
+    "Es": 252.000000,
+    "Fm": 257.000000,
+    "Md": 258.000000,
+    "No": 259.000000,
+    "Lr": 262.000000,
+    "Rf": 261.000000,
+    "Db": 262.000000,
+    "Sg": 266.000000,
+    "Bh": 264.000000,
+    "Hs": 277.000000,
+    "Mt": 268.000000,
+    "Ds": 281.000000,
+    "Rg": 272.000000,
+    "Cn": 285.000000,
+    "Uuq": 289.000000,
+    "Uuh": 292.000000,
+}
