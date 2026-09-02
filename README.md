@@ -30,7 +30,7 @@
 ├── 03-3_ETGEM_add_rxns.ipynb                      #     向 ETGEM 添加外源 2,3-BDO 反应（微氧条件产量最高）
 ├── 04_ETGEM_comparison.ipynb                      # ⑤ ETGEM 鲁棒性分析（底物摄取 0~70）与乙醇对比
 ├── 05_13C_flux_model_comparison.ipynb             # ⑥ 13C 通量模型对比（etiZM564 vs 已发表 eciZM547）
-├── 06_23BDO_FSEOF.ipynb                           # ⑦ 2,3-BDO FVSEOF 菌株设计（含氧气反馈约束）
+├── 06_23BDO_FSEOF.ipynb                           # ⑦ 2,3-BDO FSEOF 菌株设计（含氧气反馈约束）
 ├── 07_etiZM564_multi_product.ipynb                # ⑧ 多产物合成能力评估（C2/C3/C4/C5）
 │
 ├── ETGEM/
@@ -55,7 +55,7 @@
 ├── Supplementary_file_1_iZM516.sbml               # 参考模型 iZM516（SBML）
 ├── iZM4_478-pcbi.1008137.s002.xml                 # 参考模型 iZM4-478（SBML）
 ├── eciZM547.json                                  # 已发表酶约束模型（用于 13C 通量对比）
-├── FSEOF_results_v2_564.xlsx                      # 2,3-BDO FVSEOF 菌株设计结果
+├── FSEOF_results_v2_564.xlsx                      # 2,3-BDO FSEOF 菌株设计结果
 └── iZM4_478.xlsx                                  # 参考模型数据
 ```
 
@@ -76,7 +76,7 @@
    模拟表明微氧条件下产量最高。
 6. **04 · 对比与鲁棒性**：厌氧条件下底物摄取 0~70 mmol/gDW/h 的生长鲁棒性分析，乙醇对比。
 7. **05 · 13C 通量对比**：将 etiZM564 通量结果与已发表的 eciZM547 模型对比。
-8. **06 · FVSEOF 菌株设计**：对 2,3-BDO 模型执行含氧气反馈约束的 FVSEOF 扫描，
+8. **06 · FSEOF 菌株设计**：对 2,3-BDO 模型执行含氧气反馈约束的 FSEOF 扫描，
    按通量倍变趋势识别上调（建议过表达）/ 下调（建议敲除）靶标基因。
 9. **07 · 多产物评估**：在 ETGEM 上添加外源产物路径，评估
    C2（乙醇、乙二醇）、C3（乳酸、1,3-PDO、丙氨酸）、C4（异丁醇、1,4-BDO、琥珀酸）、
