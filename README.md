@@ -25,12 +25,12 @@
 ├── 00_model_build&Biolog_test_optimized.ipynb     # ① iZM564 重建 + Biolog 底物利用测试（C/N/P/S）
 ├── 01_model_iZM564_modification.ipynb             # ② 模型格式修正 + GPR 修改 + UniProt 注释
 ├── 02_construct_eciZM564_optimized.ipynb          # ③ 酶约束模型 eciZM564 构建与 kcat 校准
-├── 03_ETGEM模型从头构建_optimized.ipynb           # ④ 五个变体的 ETGEM（酶-热力学约束）构建
-├── 03-2_ETGEM_biomass&product copy.ipynb          #     ETGEM 生物量 & 乙醇产物分析
+├── 03_ETGEM_rebuild_optimized.ipynb               # ④ 五个变体的 ETGEM（酶-热力学约束）构建
+├── 03-2_ETGEM_biomass&product.ipynb               #     ETGEM 生物量 & 乙醇产物分析
 ├── 03-3_ETGEM_add_rxns.ipynb                      #     向 ETGEM 添加外源 2,3-BDO 反应（微氧条件产量最高）
-├── 04_ETGEM_comparison copy.ipynb                 # ⑤ ETGEM 鲁棒性分析（底物摄取 0~70）与乙醇对比
-├── 05_13C_flux_model_comparison copy.ipynb        # ⑥ 13C 通量模型对比（etiZM564 vs 已发表 eciZM547）
-├── 06_23BDO_FVSEOF copy.ipynb                     # ⑦ 2,3-BDO FVSEOF 菌株设计（含氧气反馈约束）
+├── 04_ETGEM_comparison.ipynb                      # ⑤ ETGEM 鲁棒性分析（底物摄取 0~70）与乙醇对比
+├── 05_13C_flux_model_comparison.ipynb             # ⑥ 13C 通量模型对比（etiZM564 vs 已发表 eciZM547）
+├── 06_23BDO_FSEOF.ipynb                           # ⑦ 2,3-BDO FVSEOF 菌株设计（含氧气反馈约束）
 ├── 07_etiZM564_multi_product.ipynb                # ⑧ 多产物合成能力评估（C2/C3/C4/C5）
 │
 ├── ETGEM/
@@ -55,6 +55,7 @@
 ├── Supplementary_file_1_iZM516.sbml               # 参考模型 iZM516（SBML）
 ├── iZM4_478-pcbi.1008137.s002.xml                 # 参考模型 iZM4-478（SBML）
 ├── eciZM547.json                                  # 已发表酶约束模型（用于 13C 通量对比）
+├── FSEOF_results_v2_564.xlsx                      # 2,3-BDO FVSEOF 菌株设计结果
 └── iZM4_478.xlsx                                  # 参考模型数据
 ```
 
